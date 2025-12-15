@@ -1,0 +1,3003 @@
+person,date,category,amount,monthly_income,description,payment_mode
+Priya Iyer,2023-01-01,Travel,81.0,18000.0,,Card
+Divya Yeddu,2023-01-01,Study Materials,763.0,25000.0,,Card
+Nisha Sharma,2023-01-01,Entertainment,2120.0,18000.0,,UPI
+Shreya Sen,2023-01-01,Entertainment,2030.0,18000.0,,Cash
+Aditya Pillai,2023-01-01,Rent,10069.0,20000.0,,Cash
+Priya Iyer,2023-01-01,Rent,11741.0,18000.0,,Card
+Tanvi Jain,2023-01-01,Food,252.0,30000.0,,UPI
+Ananya Singh,2023-01-01,Entertainment,1110.0,30000.0,,NetBanking
+Sneha Kapoor,2023-01-01,Entertainment,1390.0,18000.0,,UPI
+Arjun Nair,2023-01-01,Food,295.0,22000.0,,Card
+Aditya Pillai,2023-01-01,Entertainment,1950.0,20000.0,,Card
+Priya Iyer,2023-01-02,Study Materials,1526.0,18000.0,,NetBanking
+Harini Bhat,2023-01-02,Utilities,783.0,30000.0,,NetBanking
+Harini Bhat,2023-01-02,Study Materials,1200.0,30000.0,,UPI
+Harini Bhat,2023-01-02,Study Materials,567.0,30000.0,,UPI
+Amit Sharma,2023-01-02,Groceries,2360.0,20000.0,,UPI
+Karthik Rao,2023-01-02,Entertainment,2342.0,18000.0,,Cash
+Tanvi Jain,2023-01-02,Groceries,2200.0,30000.0,,NetBanking
+Harini Bhat,2023-01-02,Rent,11884.0,30000.0,,UPI
+Priya Iyer,2023-01-02,Health,1275.0,18000.0,,NetBanking
+Vikram Joshi,2023-01-02,Health,2334.0,25000.0,,Cash
+Shreya Sen,2023-01-02,Food,196.0,18000.0,,Card
+Aditya Pillai,2023-01-02,Health,1030.0,20000.0,,NetBanking
+Vivek Menon,2023-01-02,Utilities,2020.0,18000.0,,Cash
+Varun Gupta,2023-01-03,Rent,8755.0,20000.0,,UPI
+Amit Sharma,2023-01-03,Groceries,996.0,20000.0,,Cash
+Pooja Mehta,2023-01-03,Study Materials,1078.0,30000.0,,NetBanking
+Arjun Nair,2023-01-03,Groceries,1589.0,22000.0,,Card
+Amit Sharma,2023-01-03,Utilities,2135.0,20000.0,,Cash
+Pooja Mehta,2023-01-03,Study Materials,818.0,30000.0,,Card
+Nisha Sharma,2023-01-04,Groceries,2473.0,18000.0,,NetBanking
+Tanvi Jain,2023-01-04,Food,190.0,30000.0,,UPI
+Vikram Joshi,2023-01-04,Rent,9836.0,25000.0,,UPI
+Swathi Reddy,2023-01-04,Food,212.0,25000.0,,UPI
+Amit Sharma,2023-01-04,Miscellaneous,132.0,20000.0,,Card
+Varun Gupta,2023-01-04,Rent,8754.0,20000.0,,UPI
+Divya Yeddu,2023-01-05,Miscellaneous,119.0,25000.0,,UPI
+Ishita Roy,2023-01-05,Health,1183.0,22000.0,,Cash
+Pooja Mehta,2023-01-05,Food,431.0,30000.0,,Cash
+Swathi Reddy,2023-01-05,Health,1713.0,25000.0,,Cash
+Harsha Patel,2023-01-05,Food,304.0,30000.0,,NetBanking
+Karthik Rao,2023-01-05,Study Materials,1033.0,18000.0,,NetBanking
+Rahul Kumar,2023-01-05,Health,1657.0,20000.0,,UPI
+Sneha Kapoor,2023-01-05,Health,985.0,18000.0,,Card
+Vivek Menon,2023-01-05,Rent,5184.0,18000.0,,Card
+Ishita Roy,2023-01-05,Food,660.0,22000.0,,Cash
+Siddharth Rao,2023-01-05,Groceries,1570.0,30000.0,,NetBanking
+Swathi Reddy,2023-01-06,Utilities,133.0,25000.0,,Cash
+Divya Yeddu,2023-01-06,Rent,7989.0,25000.0,,NetBanking
+Priya Iyer,2023-01-06,Miscellaneous,332.0,18000.0,,Card
+Ishita Roy,2023-01-06,Miscellaneous,1457.0,22000.0,,NetBanking
+Sneha Kapoor,2023-01-06,Travel,370.0,18000.0,,Cash
+Rohan Verma,2023-01-06,Miscellaneous,386.0,20000.0,,NetBanking
+Swathi Reddy,2023-01-06,Health,2040.0,25000.0,,Cash
+Harsha Patel,2023-01-06,Utilities,2048.0,30000.0,,Card
+Divya Yeddu,2023-01-06,Utilities,1380.0,25000.0,,UPI
+Arjun Nair,2023-01-06,Miscellaneous,1594.0,22000.0,,Cash
+Ananya Singh,2023-01-06,Groceries,1204.0,30000.0,,Cash
+Rohan Verma,2023-01-06,Groceries,2422.0,20000.0,,UPI
+Arjun Nair,2023-01-06,Health,2428.0,22000.0,,NetBanking
+Shreya Sen,2023-01-06,Travel,577.0,18000.0,,UPI
+Priya Iyer,2023-01-06,Study Materials,1263.0,18000.0,,UPI
+Karthik Rao,2023-01-07,Groceries,2436.0,18000.0,,Card
+Harini Bhat,2023-01-07,Groceries,727.0,30000.0,,UPI
+Amit Sharma,2023-01-07,Health,2135.0,20000.0,,Cash
+Vikram Joshi,2023-01-07,Utilities,1568.0,25000.0,,Cash
+Rahul Kumar,2023-01-07,Groceries,1591.0,20000.0,,UPI
+Varun Gupta,2023-01-07,Entertainment,445.0,20000.0,,NetBanking
+Harini Bhat,2023-01-07,Utilities,1452.0,30000.0,,Card
+Harsha Patel,2023-01-07,Travel,522.0,30000.0,,NetBanking
+Pooja Mehta,2023-01-07,Health,773.0,30000.0,,Card
+Arjun Nair,2023-01-08,Rent,8108.0,22000.0,,Cash
+Swathi Reddy,2023-01-08,Travel,157.0,25000.0,,NetBanking
+Aditya Pillai,2023-01-08,Groceries,514.0,20000.0,,UPI
+Shreya Sen,2023-01-08,Rent,10048.0,18000.0,,Card
+Vivek Menon,2023-01-08,Health,1057.0,18000.0,,Card
+Ishita Roy,2023-01-08,Travel,240.0,22000.0,,Cash
+Vikram Joshi,2023-01-09,Rent,7823.0,25000.0,,Card
+Vikram Joshi,2023-01-09,Utilities,1364.0,25000.0,,NetBanking
+Vikram Joshi,2023-01-09,Health,241.0,25000.0,,Cash
+Ananya Singh,2023-01-09,Travel,537.0,30000.0,,Card
+Ishita Roy,2023-01-09,Health,1876.0,22000.0,,Cash
+Sneha Kapoor,2023-01-09,Miscellaneous,985.0,18000.0,,Cash
+Pooja Mehta,2023-01-09,Health,1415.0,30000.0,,Card
+Siddharth Rao,2023-01-10,Groceries,244.0,30000.0,,NetBanking
+Varun Gupta,2023-01-10,Miscellaneous,1973.0,20000.0,,UPI
+Divya Yeddu,2023-01-10,Food,376.0,25000.0,,NetBanking
+Vivek Menon,2023-01-10,Rent,9285.0,18000.0,,UPI
+Varun Gupta,2023-01-10,Utilities,259.0,20000.0,,NetBanking
+Megha Das,2023-01-10,Entertainment,868.0,25000.0,,Cash
+Divya Yeddu,2023-01-10,Health,2468.0,25000.0,,Card
+Krishna Rao,2023-01-11,Travel,176.0,30000.0,,NetBanking
+Swathi Reddy,2023-01-11,Groceries,1802.0,25000.0,,UPI
+Harini Bhat,2023-01-11,Groceries,928.0,30000.0,,Card
+Krishna Rao,2023-01-11,Food,181.0,30000.0,,Cash
+Pooja Mehta,2023-01-11,Health,286.0,30000.0,,Card
+Krishna Rao,2023-01-11,Groceries,1731.0,30000.0,,UPI
+Tanvi Jain,2023-01-12,Entertainment,1648.0,30000.0,,UPI
+Varun Gupta,2023-01-12,Food,116.0,20000.0,,UPI
+Megha Das,2023-01-12,Travel,175.0,25000.0,,Cash
+Rahul Kumar,2023-01-12,Food,587.0,20000.0,,Cash
+Vikram Joshi,2023-01-12,Travel,349.0,25000.0,,Card
+Swathi Reddy,2023-01-12,Miscellaneous,1675.0,25000.0,,Cash
+Harsha Patel,2023-01-12,Study Materials,648.0,30000.0,,UPI
+Karthik Rao,2023-01-13,Study Materials,1128.0,18000.0,,Card
+Ishita Roy,2023-01-13,Health,1663.0,22000.0,,NetBanking
+Vikram Joshi,2023-01-13,Miscellaneous,237.0,25000.0,,Cash
+Siddharth Rao,2023-01-13,Travel,592.0,30000.0,,NetBanking
+Varun Gupta,2023-01-13,Food,490.0,20000.0,,Cash
+Swathi Reddy,2023-01-13,Health,1154.0,25000.0,,Cash
+Ananya Singh,2023-01-13,Entertainment,1396.0,30000.0,,UPI
+Rahul Kumar,2023-01-13,Groceries,618.0,20000.0,,Cash
+Nisha Sharma,2023-01-13,Miscellaneous,1519.0,18000.0,,Card
+Varun Gupta,2023-01-13,Health,1153.0,20000.0,,Cash
+Vikram Joshi,2023-01-13,Entertainment,2350.0,25000.0,,Cash
+Sneha Kapoor,2023-01-13,Travel,226.0,18000.0,,Cash
+Tanvi Jain,2023-01-14,Groceries,2291.0,30000.0,,UPI
+Varun Gupta,2023-01-14,Miscellaneous,1429.0,20000.0,,UPI
+Harini Bhat,2023-01-14,Travel,79.0,30000.0,,UPI
+Arjun Nair,2023-01-14,Study Materials,1367.0,22000.0,,UPI
+Varun Gupta,2023-01-14,Study Materials,656.0,20000.0,,Card
+Ananya Singh,2023-01-14,Rent,11196.0,30000.0,,NetBanking
+Vivek Menon,2023-01-14,Travel,540.0,18000.0,,NetBanking
+Varun Gupta,2023-01-14,Utilities,650.0,20000.0,,UPI
+Shreya Sen,2023-01-14,Health,1121.0,18000.0,,Cash
+Karthik Rao,2023-01-14,Food,123.0,18000.0,,NetBanking
+Divya Yeddu,2023-01-14,Miscellaneous,1642.0,25000.0,,UPI
+Amit Sharma,2023-01-15,Utilities,630.0,20000.0,,NetBanking
+Divya Yeddu,2023-01-15,Study Materials,915.0,25000.0,,Card
+Nisha Sharma,2023-01-15,Health,1730.0,18000.0,,NetBanking
+Arjun Nair,2023-01-15,Study Materials,420.0,22000.0,,Cash
+Pooja Mehta,2023-01-15,Travel,334.0,30000.0,,NetBanking
+Sneha Kapoor,2023-01-15,Food,568.0,18000.0,,NetBanking
+Swathi Reddy,2023-01-15,Health,868.0,25000.0,,UPI
+Priya Iyer,2023-01-15,Study Materials,1105.0,18000.0,,UPI
+Priya Iyer,2023-01-15,Groceries,464.0,18000.0,,Cash
+Amit Sharma,2023-01-15,Miscellaneous,1709.0,20000.0,,NetBanking
+Vivek Menon,2023-01-16,Groceries,2397.0,18000.0,,Card
+Ishita Roy,2023-01-16,Study Materials,659.0,22000.0,,NetBanking
+Pooja Mehta,2023-01-16,Health,1107.0,30000.0,,NetBanking
+Vivek Menon,2023-01-16,Rent,7510.0,18000.0,,Cash
+Megha Das,2023-01-16,Utilities,1459.0,25000.0,,UPI
+Amit Sharma,2023-01-16,Travel,195.0,20000.0,,NetBanking
+Siddharth Rao,2023-01-16,Study Materials,738.0,30000.0,,UPI
+Ishita Roy,2023-01-17,Rent,6432.0,22000.0,,Cash
+Priya Iyer,2023-01-17,Groceries,194.0,18000.0,,Card
+Rahul Kumar,2023-01-17,Food,458.0,20000.0,,NetBanking
+Ishita Roy,2023-01-17,Health,1433.0,22000.0,,Card
+Ishita Roy,2023-01-17,Food,214.0,22000.0,,NetBanking
+Divya Yeddu,2023-01-17,Utilities,963.0,25000.0,,UPI
+Siddharth Rao,2023-01-17,Miscellaneous,533.0,30000.0,,Card
+Swathi Reddy,2023-01-17,Food,678.0,25000.0,,UPI
+Aditya Pillai,2023-01-17,Study Materials,486.0,20000.0,,Card
+Aditya Pillai,2023-01-17,Study Materials,1497.0,20000.0,,UPI
+Varun Gupta,2023-01-17,Groceries,1432.0,20000.0,,Card
+Siddharth Rao,2023-01-17,Travel,229.0,30000.0,,UPI
+Arjun Nair,2023-01-18,Rent,8734.0,22000.0,,UPI
+Vivek Menon,2023-01-18,Utilities,2306.0,18000.0,,NetBanking
+Sneha Kapoor,2023-01-18,Groceries,2159.0,18000.0,,UPI
+Priya Iyer,2023-01-18,Health,1644.0,18000.0,,UPI
+Vivek Menon,2023-01-19,Travel,403.0,18000.0,,Card
+Harini Bhat,2023-01-19,Study Materials,565.0,30000.0,,Cash
+Swathi Reddy,2023-01-19,Groceries,1348.0,25000.0,,NetBanking
+Ishita Roy,2023-01-19,Food,504.0,22000.0,,Cash
+Ishita Roy,2023-01-19,Study Materials,659.0,22000.0,,UPI
+Ananya Singh,2023-01-19,Travel,397.0,30000.0,,Card
+Shreya Sen,2023-01-19,Rent,7407.0,18000.0,,Cash
+Ishita Roy,2023-01-20,Entertainment,870.0,22000.0,,NetBanking
+Vivek Menon,2023-01-20,Food,604.0,18000.0,,UPI
+Ananya Singh,2023-01-20,Study Materials,1453.0,30000.0,,UPI
+Ishita Roy,2023-01-20,Rent,7943.0,22000.0,,NetBanking
+Harsha Patel,2023-01-20,Health,2198.0,30000.0,,UPI
+Swathi Reddy,2023-01-20,Miscellaneous,869.0,25000.0,,Cash
+Priya Iyer,2023-01-20,Travel,319.0,18000.0,,Card
+Rahul Kumar,2023-01-21,Groceries,1400.0,20000.0,,UPI
+Rahul Kumar,2023-01-21,Study Materials,385.0,20000.0,,Cash
+Swathi Reddy,2023-01-21,Utilities,1915.0,25000.0,,NetBanking
+Harsha Patel,2023-01-21,Travel,197.0,30000.0,,Cash
+Rohan Verma,2023-01-21,Rent,4824.0,20000.0,,NetBanking
+Krishna Rao,2023-01-21,Health,1034.0,30000.0,,Cash
+Ishita Roy,2023-01-21,Groceries,575.0,22000.0,,UPI
+Shreya Sen,2023-01-21,Utilities,219.0,18000.0,,UPI
+Karthik Rao,2023-01-21,Travel,205.0,18000.0,,Card
+Siddharth Rao,2023-01-22,Study Materials,312.0,30000.0,,Card
+Ishita Roy,2023-01-22,Rent,6043.0,22000.0,,Cash
+Harsha Patel,2023-01-22,Health,2165.0,30000.0,,UPI
+Vivek Menon,2023-01-22,Rent,6074.0,18000.0,,Card
+Ishita Roy,2023-01-22,Food,338.0,22000.0,,Card
+Krishna Rao,2023-01-22,Entertainment,138.0,30000.0,,Card
+Priya Iyer,2023-01-22,Food,241.0,18000.0,,UPI
+Rohan Verma,2023-01-23,Groceries,2096.0,20000.0,,NetBanking
+Arjun Nair,2023-01-23,Entertainment,670.0,22000.0,,Cash
+Divya Yeddu,2023-01-23,Food,698.0,25000.0,,Card
+Priya Iyer,2023-01-23,Utilities,2458.0,18000.0,,Card
+Tanvi Jain,2023-01-24,Miscellaneous,585.0,30000.0,,Cash
+Rahul Kumar,2023-01-24,Groceries,226.0,20000.0,,Card
+Divya Yeddu,2023-01-24,Utilities,1849.0,25000.0,,Card
+Amit Sharma,2023-01-24,Groceries,591.0,20000.0,,Card
+Pooja Mehta,2023-01-24,Food,126.0,30000.0,,UPI
+Shreya Sen,2023-01-24,Miscellaneous,1858.0,18000.0,,Card
+Amit Sharma,2023-01-24,Food,404.0,20000.0,,NetBanking
+Aditya Pillai,2023-01-25,Entertainment,2116.0,20000.0,,NetBanking
+Aditya Pillai,2023-01-25,Utilities,1996.0,20000.0,,NetBanking
+Rahul Kumar,2023-01-25,Food,541.0,20000.0,,UPI
+Siddharth Rao,2023-01-25,Utilities,1369.0,30000.0,,Cash
+Divya Yeddu,2023-01-25,Food,671.0,25000.0,,Card
+Nisha Sharma,2023-01-25,Rent,10889.0,18000.0,,NetBanking
+Vikram Joshi,2023-01-26,Rent,6940.0,25000.0,,UPI
+Swathi Reddy,2023-01-26,Entertainment,898.0,25000.0,,Cash
+Ishita Roy,2023-01-26,Food,216.0,22000.0,,Card
+Rohan Verma,2023-01-26,Groceries,1101.0,20000.0,,UPI
+Siddharth Rao,2023-01-26,Health,1157.0,30000.0,,NetBanking
+Harini Bhat,2023-01-26,Miscellaneous,732.0,30000.0,,NetBanking
+Priya Iyer,2023-01-26,Groceries,249.0,18000.0,,NetBanking
+Vivek Menon,2023-01-26,Groceries,192.0,18000.0,,Card
+Karthik Rao,2023-01-26,Health,202.0,18000.0,,UPI
+Rohan Verma,2023-01-26,Health,2480.0,20000.0,,NetBanking
+Karthik Rao,2023-01-27,Health,729.0,18000.0,,Card
+Rahul Kumar,2023-01-27,Utilities,729.0,20000.0,,UPI
+Rohan Verma,2023-01-27,Rent,6827.0,20000.0,,UPI
+Pooja Mehta,2023-01-27,Entertainment,1129.0,30000.0,,UPI
+Rohan Verma,2023-01-27,Health,123.0,20000.0,,UPI
+Amit Sharma,2023-01-27,Miscellaneous,298.0,20000.0,,Cash
+Sneha Kapoor,2023-01-27,Travel,329.0,18000.0,,Card
+Vikram Joshi,2023-01-27,Miscellaneous,2098.0,25000.0,,Card
+Ishita Roy,2023-01-27,Miscellaneous,308.0,22000.0,,NetBanking
+Vikram Joshi,2023-01-28,Entertainment,1160.0,25000.0,,NetBanking
+Megha Das,2023-01-28,Rent,10324.0,25000.0,,UPI
+Priya Iyer,2023-01-28,Utilities,1180.0,18000.0,,UPI
+Varun Gupta,2023-01-28,Entertainment,533.0,20000.0,,Cash
+Pooja Mehta,2023-01-28,Travel,320.0,30000.0,,NetBanking
+Sneha Kapoor,2023-01-29,Groceries,1492.0,18000.0,,Card
+Vikram Joshi,2023-01-29,Utilities,2206.0,25000.0,,Card
+Megha Das,2023-01-29,Health,925.0,25000.0,,NetBanking
+Sneha Kapoor,2023-01-29,Entertainment,195.0,18000.0,,Cash
+Ananya Singh,2023-01-29,Health,2153.0,30000.0,,Card
+Karthik Rao,2023-01-29,Food,259.0,18000.0,,Cash
+Aditya Pillai,2023-01-29,Utilities,655.0,20000.0,,UPI
+Megha Das,2023-01-29,Entertainment,920.0,25000.0,,NetBanking
+Nisha Sharma,2023-01-30,Utilities,1750.0,18000.0,,NetBanking
+Pooja Mehta,2023-01-30,Entertainment,2339.0,30000.0,,NetBanking
+Ishita Roy,2023-01-30,Rent,11492.0,22000.0,,Card
+Vikram Joshi,2023-01-30,Health,2266.0,25000.0,,Cash
+Ananya Singh,2023-01-30,Travel,392.0,30000.0,,UPI
+Rohan Verma,2023-01-31,Miscellaneous,165.0,20000.0,,Card
+Siddharth Rao,2023-01-31,Groceries,2499.0,30000.0,,UPI
+Tanvi Jain,2023-01-31,Travel,219.0,30000.0,,UPI
+Pooja Mehta,2023-01-31,Miscellaneous,2490.0,30000.0,,Card
+Swathi Reddy,2023-02-01,Utilities,740.0,25000.0,,Card
+Sneha Kapoor,2023-02-01,Rent,11978.0,18000.0,,NetBanking
+Priya Iyer,2023-02-01,Miscellaneous,1928.0,18000.0,,NetBanking
+Amit Sharma,2023-02-01,Utilities,435.0,20000.0,,UPI
+Divya Yeddu,2023-02-01,Utilities,1303.0,25000.0,,Card
+Nisha Sharma,2023-02-01,Entertainment,1609.0,18000.0,,NetBanking
+Vikram Joshi,2023-02-01,Utilities,259.0,25000.0,,NetBanking
+Priya Iyer,2023-02-01,Travel,292.0,18000.0,,Cash
+Krishna Rao,2023-02-02,Groceries,1052.0,30000.0,,UPI
+Siddharth Rao,2023-02-02,Utilities,1972.0,30000.0,,Card
+Rahul Kumar,2023-02-02,Utilities,1424.0,20000.0,,UPI
+Shreya Sen,2023-02-02,Study Materials,371.0,18000.0,,NetBanking
+Harsha Patel,2023-02-02,Miscellaneous,1842.0,30000.0,,Cash
+Sneha Kapoor,2023-02-02,Health,129.0,18000.0,,Card
+Krishna Rao,2023-02-02,Entertainment,2282.0,30000.0,,Card
+Swathi Reddy,2023-02-02,Entertainment,812.0,25000.0,,NetBanking
+Vikram Joshi,2023-02-02,Food,642.0,25000.0,,Cash
+Pooja Mehta,2023-02-02,Rent,11363.0,30000.0,,Card
+Siddharth Rao,2023-02-02,Miscellaneous,556.0,30000.0,,UPI
+Rahul Kumar,2023-02-02,Food,548.0,20000.0,,Card
+Nisha Sharma,2023-02-02,Study Materials,1639.0,18000.0,,UPI
+Harini Bhat,2023-02-02,Food,168.0,30000.0,,NetBanking
+Sneha Kapoor,2023-02-02,Health,1084.0,18000.0,,Card
+Divya Yeddu,2023-02-02,Travel,162.0,25000.0,,Card
+Pooja Mehta,2023-02-03,Groceries,330.0,30000.0,,NetBanking
+Pooja Mehta,2023-02-03,Study Materials,1136.0,30000.0,,UPI
+Siddharth Rao,2023-02-03,Rent,11594.0,30000.0,,UPI
+Varun Gupta,2023-02-03,Food,263.0,20000.0,,Cash
+Ishita Roy,2023-02-03,Study Materials,1586.0,22000.0,,Card
+Priya Iyer,2023-02-03,Rent,8452.0,18000.0,,NetBanking
+Ananya Singh,2023-02-03,Health,405.0,30000.0,,NetBanking
+Ishita Roy,2023-02-03,Utilities,1626.0,22000.0,,UPI
+Arjun Nair,2023-02-03,Utilities,223.0,22000.0,,Cash
+Priya Iyer,2023-02-04,Utilities,2471.0,18000.0,,UPI
+Krishna Rao,2023-02-04,Utilities,1940.0,30000.0,,Cash
+Sneha Kapoor,2023-02-04,Food,207.0,18000.0,,UPI
+Megha Das,2023-02-05,Rent,4140.0,25000.0,,NetBanking
+Nisha Sharma,2023-02-05,Groceries,1029.0,18000.0,,NetBanking
+Amit Sharma,2023-02-05,Food,297.0,20000.0,,UPI
+Ananya Singh,2023-02-05,Travel,315.0,30000.0,,UPI
+Nisha Sharma,2023-02-05,Study Materials,769.0,18000.0,,UPI
+Rohan Verma,2023-02-05,Rent,10718.0,20000.0,,NetBanking
+Pooja Mehta,2023-02-06,Food,649.0,30000.0,,Card
+Harini Bhat,2023-02-06,Entertainment,1731.0,30000.0,,NetBanking
+Karthik Rao,2023-02-06,Miscellaneous,991.0,18000.0,,UPI
+Vikram Joshi,2023-02-06,Groceries,2211.0,25000.0,,NetBanking
+Ishita Roy,2023-02-06,Food,603.0,22000.0,,UPI
+Priya Iyer,2023-02-06,Travel,153.0,18000.0,,NetBanking
+Shreya Sen,2023-02-06,Travel,216.0,18000.0,,NetBanking
+Tanvi Jain,2023-02-06,Study Materials,1648.0,30000.0,,Card
+Shreya Sen,2023-02-06,Entertainment,381.0,18000.0,,UPI
+Rohan Verma,2023-02-06,Rent,10212.0,20000.0,,UPI
+Vivek Menon,2023-02-07,Entertainment,1833.0,18000.0,,UPI
+Megha Das,2023-02-07,Miscellaneous,1477.0,25000.0,,Card
+Amit Sharma,2023-02-07,Food,235.0,20000.0,,Cash
+Megha Das,2023-02-07,Entertainment,304.0,25000.0,,Cash
+Sneha Kapoor,2023-02-07,Health,1677.0,18000.0,,UPI
+Varun Gupta,2023-02-07,Food,326.0,20000.0,,NetBanking
+Varun Gupta,2023-02-07,Food,182.0,20000.0,,UPI
+Sneha Kapoor,2023-02-08,Utilities,1427.0,18000.0,,Card
+Swathi Reddy,2023-02-08,Study Materials,615.0,25000.0,,UPI
+Siddharth Rao,2023-02-08,Food,502.0,30000.0,,NetBanking
+Sneha Kapoor,2023-02-08,Health,2014.0,18000.0,,UPI
+Swathi Reddy,2023-02-08,Utilities,324.0,25000.0,,NetBanking
+Rahul Kumar,2023-02-08,Utilities,1141.0,20000.0,,Card
+Swathi Reddy,2023-02-08,Study Materials,1059.0,25000.0,,NetBanking
+Rahul Kumar,2023-02-08,Entertainment,1010.0,20000.0,,Card
+Rahul Kumar,2023-02-08,Health,1115.0,20000.0,,NetBanking
+Aditya Pillai,2023-02-09,Entertainment,1887.0,20000.0,,Cash
+Krishna Rao,2023-02-09,Groceries,2499.0,30000.0,,NetBanking
+Varun Gupta,2023-02-09,Groceries,2169.0,20000.0,,NetBanking
+Divya Yeddu,2023-02-09,Utilities,2241.0,25000.0,,UPI
+Pooja Mehta,2023-02-09,Entertainment,2311.0,30000.0,,Cash
+Harini Bhat,2023-02-09,Entertainment,516.0,30000.0,,Cash
+Sneha Kapoor,2023-02-09,Miscellaneous,897.0,18000.0,,Cash
+Nisha Sharma,2023-02-09,Groceries,1951.0,18000.0,,UPI
+Karthik Rao,2023-02-09,Food,491.0,18000.0,,UPI
+Siddharth Rao,2023-02-09,Rent,5537.0,30000.0,,UPI
+Harsha Patel,2023-02-10,Health,1262.0,30000.0,,Card
+Ishita Roy,2023-02-10,Food,207.0,22000.0,,NetBanking
+Vikram Joshi,2023-02-10,Study Materials,1909.0,25000.0,,Cash
+Varun Gupta,2023-02-10,Utilities,2396.0,20000.0,,NetBanking
+Nisha Sharma,2023-02-10,Study Materials,502.0,18000.0,,NetBanking
+Varun Gupta,2023-02-10,Rent,8609.0,20000.0,,Cash
+Ananya Singh,2023-02-10,Study Materials,726.0,30000.0,,Cash
+Pooja Mehta,2023-02-10,Study Materials,1915.0,30000.0,,UPI
+Rahul Kumar,2023-02-10,Entertainment,1351.0,20000.0,,NetBanking
+Rohan Verma,2023-02-10,Miscellaneous,2336.0,20000.0,,Cash
+Shreya Sen,2023-02-10,Entertainment,1351.0,18000.0,,NetBanking
+Megha Das,2023-02-10,Study Materials,686.0,25000.0,,Card
+Sneha Kapoor,2023-02-10,Entertainment,1173.0,18000.0,,UPI
+Priya Iyer,2023-02-11,Health,2254.0,18000.0,,UPI
+Harsha Patel,2023-02-11,Rent,4689.0,30000.0,,Card
+Sneha Kapoor,2023-02-11,Food,611.0,18000.0,,Cash
+Harini Bhat,2023-02-11,Groceries,363.0,30000.0,,UPI
+Arjun Nair,2023-02-11,Miscellaneous,1329.0,22000.0,,Card
+Ananya Singh,2023-02-11,Utilities,1281.0,30000.0,,UPI
+Sneha Kapoor,2023-02-11,Rent,5355.0,18000.0,,NetBanking
+Megha Das,2023-02-11,Entertainment,934.0,25000.0,,Cash
+Shreya Sen,2023-02-11,Travel,522.0,18000.0,,UPI
+Karthik Rao,2023-02-12,Food,529.0,18000.0,,UPI
+Siddharth Rao,2023-02-12,Study Materials,1806.0,30000.0,,NetBanking
+Harsha Patel,2023-02-12,Health,2193.0,30000.0,,Cash
+Vikram Joshi,2023-02-12,Miscellaneous,2057.0,25000.0,,Cash
+Aditya Pillai,2023-02-12,Travel,458.0,20000.0,,Cash
+Siddharth Rao,2023-02-12,Health,1341.0,30000.0,,Card
+Vikram Joshi,2023-02-12,Rent,5439.0,25000.0,,UPI
+Siddharth Rao,2023-02-12,Travel,498.0,30000.0,,Card
+Tanvi Jain,2023-02-12,Study Materials,1615.0,30000.0,,NetBanking
+Nisha Sharma,2023-02-12,Utilities,635.0,18000.0,,NetBanking
+Harini Bhat,2023-02-12,Groceries,1105.0,30000.0,,Cash
+Siddharth Rao,2023-02-12,Travel,305.0,30000.0,,UPI
+Arjun Nair,2023-02-13,Food,122.0,22000.0,,Card
+Harini Bhat,2023-02-13,Entertainment,2162.0,30000.0,,Card
+Swathi Reddy,2023-02-13,Health,2126.0,25000.0,,UPI
+Arjun Nair,2023-02-13,Groceries,1500.0,22000.0,,Card
+Karthik Rao,2023-02-13,Groceries,772.0,18000.0,,Cash
+Krishna Rao,2023-02-13,Groceries,1486.0,30000.0,,NetBanking
+Priya Iyer,2023-02-13,Entertainment,1829.0,18000.0,,NetBanking
+Ishita Roy,2023-02-13,Groceries,689.0,22000.0,,NetBanking
+Shreya Sen,2023-02-13,Groceries,1740.0,18000.0,,Card
+Aditya Pillai,2023-02-14,Groceries,1060.0,20000.0,,NetBanking
+Karthik Rao,2023-02-14,Health,1658.0,18000.0,,Card
+Siddharth Rao,2023-02-14,Food,136.0,30000.0,,UPI
+Shreya Sen,2023-02-14,Utilities,2219.0,18000.0,,UPI
+Arjun Nair,2023-02-15,Rent,5305.0,22000.0,,NetBanking
+Ananya Singh,2023-02-15,Groceries,1865.0,30000.0,,Cash
+Megha Das,2023-02-15,Miscellaneous,1592.0,25000.0,,Card
+Priya Iyer,2023-02-15,Rent,9512.0,18000.0,,Card
+Amit Sharma,2023-02-15,Utilities,1764.0,20000.0,,UPI
+Swathi Reddy,2023-02-15,Miscellaneous,1059.0,25000.0,,Cash
+Rohan Verma,2023-02-15,Health,1505.0,20000.0,,Card
+Nisha Sharma,2023-02-15,Travel,560.0,18000.0,,Cash
+Pooja Mehta,2023-02-15,Rent,11891.0,30000.0,,NetBanking
+Arjun Nair,2023-02-15,Groceries,1223.0,22000.0,,NetBanking
+Shreya Sen,2023-02-15,Entertainment,1322.0,18000.0,,Card
+Vivek Menon,2023-02-15,Miscellaneous,2161.0,18000.0,,Card
+Ananya Singh,2023-02-15,Travel,247.0,30000.0,,Cash
+Priya Iyer,2023-02-16,Utilities,1522.0,18000.0,,NetBanking
+Rahul Kumar,2023-02-16,Health,1542.0,20000.0,,NetBanking
+Karthik Rao,2023-02-16,Travel,598.0,18000.0,,UPI
+Ishita Roy,2023-02-16,Travel,313.0,22000.0,,Card
+Pooja Mehta,2023-02-16,Food,362.0,30000.0,,Cash
+Swathi Reddy,2023-02-16,Travel,197.0,25000.0,,NetBanking
+Ananya Singh,2023-02-16,Utilities,2303.0,30000.0,,UPI
+Siddharth Rao,2023-02-16,Travel,457.0,30000.0,,Card
+Nisha Sharma,2023-02-16,Miscellaneous,1301.0,18000.0,,Card
+Vivek Menon,2023-02-16,Miscellaneous,354.0,18000.0,,UPI
+Swathi Reddy,2023-02-16,Travel,152.0,25000.0,,UPI
+Amit Sharma,2023-02-17,Groceries,1663.0,20000.0,,NetBanking
+Shreya Sen,2023-02-17,Groceries,2137.0,18000.0,,Cash
+Harini Bhat,2023-02-17,Miscellaneous,1968.0,30000.0,,Cash
+Ishita Roy,2023-02-17,Study Materials,1984.0,22000.0,,NetBanking
+Harsha Patel,2023-02-17,Entertainment,1281.0,30000.0,,Card
+Rohan Verma,2023-02-17,Utilities,2248.0,20000.0,,Cash
+Karthik Rao,2023-02-17,Miscellaneous,1494.0,18000.0,,Card
+Nisha Sharma,2023-02-18,Travel,279.0,18000.0,,NetBanking
+Shreya Sen,2023-02-18,Rent,11971.0,18000.0,,UPI
+Tanvi Jain,2023-02-18,Travel,68.0,30000.0,,NetBanking
+Aditya Pillai,2023-02-18,Groceries,1473.0,20000.0,,Card
+Harsha Patel,2023-02-18,Rent,11328.0,30000.0,,Card
+Karthik Rao,2023-02-18,Rent,4531.0,18000.0,,Cash
+Harini Bhat,2023-02-18,Entertainment,2356.0,30000.0,,Cash
+Rohan Verma,2023-02-18,Health,1452.0,20000.0,,UPI
+Nisha Sharma,2023-02-19,Health,1050.0,18000.0,,UPI
+Pooja Mehta,2023-02-19,Utilities,398.0,30000.0,,UPI
+Harsha Patel,2023-02-19,Groceries,777.0,30000.0,,Cash
+Nisha Sharma,2023-02-19,Food,668.0,18000.0,,UPI
+Tanvi Jain,2023-02-19,Utilities,1562.0,30000.0,,Cash
+Megha Das,2023-02-19,Health,718.0,25000.0,,Card
+Krishna Rao,2023-02-19,Entertainment,1203.0,30000.0,,Cash
+Tanvi Jain,2023-02-19,Rent,4850.0,30000.0,,Card
+Vivek Menon,2023-02-20,Food,479.0,18000.0,,Card
+Megha Das,2023-02-20,Groceries,1858.0,25000.0,,UPI
+Amit Sharma,2023-02-20,Groceries,2312.0,20000.0,,Cash
+Rohan Verma,2023-02-20,Health,878.0,20000.0,,NetBanking
+Priya Iyer,2023-02-20,Utilities,1297.0,18000.0,,Card
+Priya Iyer,2023-02-20,Food,126.0,18000.0,,Card
+Vikram Joshi,2023-02-20,Miscellaneous,289.0,25000.0,,NetBanking
+Karthik Rao,2023-02-21,Food,225.0,18000.0,,Card
+Vivek Menon,2023-02-21,Rent,8294.0,18000.0,,Cash
+Rohan Verma,2023-02-21,Study Materials,940.0,20000.0,,NetBanking
+Priya Iyer,2023-02-21,Miscellaneous,2406.0,18000.0,,Card
+Siddharth Rao,2023-02-21,Utilities,1793.0,30000.0,,NetBanking
+Divya Yeddu,2023-02-21,Travel,264.0,25000.0,,UPI
+Harini Bhat,2023-02-22,Utilities,581.0,30000.0,,UPI
+Harsha Patel,2023-02-22,Health,1427.0,30000.0,,NetBanking
+Arjun Nair,2023-02-22,Rent,4410.0,22000.0,,Card
+Vivek Menon,2023-02-22,Health,1792.0,18000.0,,UPI
+Siddharth Rao,2023-02-22,Groceries,1811.0,30000.0,,Card
+Sneha Kapoor,2023-02-22,Utilities,1287.0,18000.0,,Card
+Shreya Sen,2023-02-22,Study Materials,1986.0,18000.0,,Card
+Divya Yeddu,2023-02-22,Miscellaneous,744.0,25000.0,,Cash
+Siddharth Rao,2023-02-23,Travel,392.0,30000.0,,Cash
+Nisha Sharma,2023-02-23,Health,1346.0,18000.0,,NetBanking
+Arjun Nair,2023-02-23,Utilities,1134.0,22000.0,,Cash
+Rahul Kumar,2023-02-23,Food,618.0,20000.0,,Cash
+Tanvi Jain,2023-02-23,Rent,7790.0,30000.0,,UPI
+Nisha Sharma,2023-02-23,Rent,7846.0,18000.0,,NetBanking
+Sneha Kapoor,2023-02-24,Food,437.0,18000.0,,NetBanking
+Krishna Rao,2023-02-24,Entertainment,272.0,30000.0,,UPI
+Rahul Kumar,2023-02-24,Rent,5930.0,20000.0,,UPI
+Pooja Mehta,2023-02-24,Rent,8397.0,30000.0,,NetBanking
+Arjun Nair,2023-02-24,Miscellaneous,700.0,22000.0,,Card
+Krishna Rao,2023-02-24,Study Materials,648.0,30000.0,,Cash
+Varun Gupta,2023-02-24,Entertainment,920.0,20000.0,,Cash
+Krishna Rao,2023-02-24,Food,559.0,30000.0,,Cash
+Harini Bhat,2023-02-24,Utilities,1856.0,30000.0,,UPI
+Harini Bhat,2023-02-25,Miscellaneous,351.0,30000.0,,UPI
+Amit Sharma,2023-02-25,Entertainment,384.0,20000.0,,Cash
+Tanvi Jain,2023-02-25,Travel,557.0,30000.0,,Card
+Ishita Roy,2023-02-26,Groceries,2466.0,22000.0,,UPI
+Divya Yeddu,2023-02-26,Food,459.0,25000.0,,Cash
+Pooja Mehta,2023-02-26,Utilities,360.0,30000.0,,NetBanking
+Tanvi Jain,2023-02-26,Utilities,1977.0,30000.0,,Card
+Harini Bhat,2023-02-26,Travel,590.0,30000.0,,UPI
+Karthik Rao,2023-02-26,Groceries,2369.0,18000.0,,Card
+Arjun Nair,2023-02-26,Entertainment,2165.0,22000.0,,UPI
+Krishna Rao,2023-02-26,Rent,8438.0,30000.0,,Cash
+Divya Yeddu,2023-02-26,Rent,10156.0,25000.0,,UPI
+Ananya Singh,2023-02-26,Entertainment,1113.0,30000.0,,UPI
+Divya Yeddu,2023-02-26,Miscellaneous,303.0,25000.0,,UPI
+Ishita Roy,2023-02-26,Rent,5309.0,22000.0,,UPI
+Arjun Nair,2023-02-27,Rent,6769.0,22000.0,,Card
+Vivek Menon,2023-02-27,Entertainment,2015.0,18000.0,,Card
+Priya Iyer,2023-02-27,Rent,11061.0,18000.0,,Cash
+Vikram Joshi,2023-02-27,Miscellaneous,582.0,25000.0,,NetBanking
+Krishna Rao,2023-02-27,Study Materials,1364.0,30000.0,,NetBanking
+Priya Iyer,2023-02-27,Groceries,1689.0,18000.0,,UPI
+Nisha Sharma,2023-02-27,Utilities,1031.0,18000.0,,NetBanking
+Harini Bhat,2023-02-27,Travel,214.0,30000.0,,Cash
+Karthik Rao,2023-02-27,Study Materials,357.0,18000.0,,UPI
+Shreya Sen,2023-02-27,Entertainment,764.0,18000.0,,UPI
+Vivek Menon,2023-02-27,Travel,503.0,18000.0,,UPI
+Varun Gupta,2023-02-28,Entertainment,565.0,20000.0,,Cash
+Vikram Joshi,2023-02-28,Study Materials,871.0,25000.0,,UPI
+Megha Das,2023-02-28,Food,402.0,25000.0,,Card
+Aditya Pillai,2023-02-28,Entertainment,1019.0,20000.0,,NetBanking
+Harsha Patel,2023-02-28,Travel,371.0,30000.0,,UPI
+Shreya Sen,2023-02-28,Travel,263.0,18000.0,,NetBanking
+Vikram Joshi,2023-02-28,Health,1666.0,25000.0,,UPI
+Amit Sharma,2023-02-28,Entertainment,427.0,20000.0,,Cash
+Ananya Singh,2023-02-28,Entertainment,2041.0,30000.0,,Card
+Arjun Nair,2023-02-28,Health,1560.0,22000.0,,NetBanking
+Ananya Singh,2023-03-01,Miscellaneous,1112.0,30000.0,,Card
+Ananya Singh,2023-03-01,Miscellaneous,750.0,30000.0,,UPI
+Vivek Menon,2023-03-01,Miscellaneous,2400.0,18000.0,,Card
+Priya Iyer,2023-03-01,Food,335.0,18000.0,,Cash
+Siddharth Rao,2023-03-01,Study Materials,964.0,30000.0,,Cash
+Krishna Rao,2023-03-01,Health,2015.0,30000.0,,Cash
+Priya Iyer,2023-03-01,Food,174.0,18000.0,,UPI
+Aditya Pillai,2023-03-01,Miscellaneous,2024.0,20000.0,,UPI
+Vivek Menon,2023-03-01,Miscellaneous,255.0,18000.0,,UPI
+Swathi Reddy,2023-03-01,Miscellaneous,1352.0,25000.0,,Cash
+Krishna Rao,2023-03-01,Travel,511.0,30000.0,,NetBanking
+Karthik Rao,2023-03-01,Groceries,224.0,18000.0,,UPI
+Sneha Kapoor,2023-03-02,Study Materials,1831.0,18000.0,,Card
+Ananya Singh,2023-03-02,Study Materials,1591.0,30000.0,,UPI
+Amit Sharma,2023-03-02,Groceries,1906.0,20000.0,,UPI
+Harini Bhat,2023-03-02,Entertainment,494.0,30000.0,,UPI
+Vikram Joshi,2023-03-02,Health,2174.0,25000.0,,Card
+Siddharth Rao,2023-03-02,Miscellaneous,344.0,30000.0,,Card
+Arjun Nair,2023-03-02,Miscellaneous,1602.0,22000.0,,Card
+Harsha Patel,2023-03-02,Travel,263.0,30000.0,,UPI
+Sneha Kapoor,2023-03-02,Travel,546.0,18000.0,,Card
+Shreya Sen,2023-03-03,Rent,9076.0,18000.0,,UPI
+Tanvi Jain,2023-03-03,Entertainment,2133.0,30000.0,,Cash
+Tanvi Jain,2023-03-03,Travel,542.0,30000.0,,Card
+Varun Gupta,2023-03-03,Rent,10440.0,20000.0,,Card
+Harsha Patel,2023-03-03,Utilities,503.0,30000.0,,UPI
+Swathi Reddy,2023-03-03,Study Materials,767.0,25000.0,,NetBanking
+Vivek Menon,2023-03-03,Miscellaneous,464.0,18000.0,,NetBanking
+Rohan Verma,2023-03-03,Rent,4524.0,20000.0,,Card
+Amit Sharma,2023-03-03,Rent,11796.0,20000.0,,Card
+Aditya Pillai,2023-03-03,Health,679.0,20000.0,,NetBanking
+Vivek Menon,2023-03-03,Groceries,437.0,18000.0,,Cash
+Varun Gupta,2023-03-03,Rent,5713.0,20000.0,,UPI
+Tanvi Jain,2023-03-03,Rent,11949.0,30000.0,,UPI
+Rohan Verma,2023-03-03,Entertainment,657.0,20000.0,,NetBanking
+Rahul Kumar,2023-03-04,Utilities,1202.0,20000.0,,Card
+Nisha Sharma,2023-03-04,Rent,6931.0,18000.0,,Card
+Arjun Nair,2023-03-04,Miscellaneous,1223.0,22000.0,,Cash
+Swathi Reddy,2023-03-04,Health,1093.0,25000.0,,Card
+Siddharth Rao,2023-03-04,Miscellaneous,2059.0,30000.0,,Cash
+Pooja Mehta,2023-03-04,Utilities,856.0,30000.0,,NetBanking
+Divya Yeddu,2023-03-04,Miscellaneous,1589.0,25000.0,,NetBanking
+Vivek Menon,2023-03-04,Entertainment,1899.0,18000.0,,Cash
+Megha Das,2023-03-04,Food,607.0,25000.0,,Card
+Vivek Menon,2023-03-04,Entertainment,156.0,18000.0,,Card
+Swathi Reddy,2023-03-05,Study Materials,1399.0,25000.0,,UPI
+Priya Iyer,2023-03-05,Food,517.0,18000.0,,NetBanking
+Megha Das,2023-03-05,Entertainment,2473.0,25000.0,,Cash
+Nisha Sharma,2023-03-05,Travel,111.0,18000.0,,Card
+Amit Sharma,2023-03-05,Rent,6099.0,20000.0,,NetBanking
+Krishna Rao,2023-03-05,Entertainment,2289.0,30000.0,,Card
+Ishita Roy,2023-03-05,Food,187.0,22000.0,,UPI
+Amit Sharma,2023-03-05,Rent,10511.0,20000.0,,Cash
+Karthik Rao,2023-03-06,Utilities,262.0,18000.0,,UPI
+Harini Bhat,2023-03-06,Rent,7608.0,30000.0,,NetBanking
+Priya Iyer,2023-03-06,Health,1931.0,18000.0,,Card
+Harsha Patel,2023-03-06,Health,465.0,30000.0,,Card
+Karthik Rao,2023-03-06,Study Materials,1114.0,18000.0,,Card
+Nisha Sharma,2023-03-06,Miscellaneous,2069.0,18000.0,,NetBanking
+Vikram Joshi,2023-03-06,Miscellaneous,1559.0,25000.0,,Card
+Siddharth Rao,2023-03-07,Miscellaneous,1949.0,30000.0,,Card
+Varun Gupta,2023-03-07,Miscellaneous,892.0,20000.0,,Card
+Varun Gupta,2023-03-07,Groceries,611.0,20000.0,,Card
+Krishna Rao,2023-03-07,Miscellaneous,994.0,30000.0,,UPI
+Sneha Kapoor,2023-03-07,Rent,11570.0,18000.0,,Card
+Sneha Kapoor,2023-03-08,Utilities,1013.0,18000.0,,Cash
+Pooja Mehta,2023-03-08,Health,326.0,30000.0,,UPI
+Swathi Reddy,2023-03-08,Groceries,1342.0,25000.0,,NetBanking
+Harini Bhat,2023-03-08,Entertainment,696.0,30000.0,,Card
+Megha Das,2023-03-08,Travel,587.0,25000.0,,Cash
+Vikram Joshi,2023-03-08,Travel,284.0,25000.0,,Cash
+Ishita Roy,2023-03-08,Utilities,187.0,22000.0,,NetBanking
+Nisha Sharma,2023-03-08,Miscellaneous,1437.0,18000.0,,Card
+Priya Iyer,2023-03-08,Food,626.0,18000.0,,Cash
+Rohan Verma,2023-03-08,Groceries,1672.0,20000.0,,Cash
+Vikram Joshi,2023-03-08,Rent,7946.0,25000.0,,UPI
+Nisha Sharma,2023-03-08,Entertainment,1255.0,18000.0,,Card
+Karthik Rao,2023-03-08,Groceries,2269.0,18000.0,,UPI
+Ananya Singh,2023-03-09,Entertainment,2141.0,30000.0,,Cash
+Siddharth Rao,2023-03-09,Travel,157.0,30000.0,,Card
+Aditya Pillai,2023-03-09,Study Materials,1259.0,20000.0,,Card
+Rohan Verma,2023-03-09,Travel,378.0,20000.0,,UPI
+Sneha Kapoor,2023-03-09,Study Materials,1013.0,18000.0,,Cash
+Karthik Rao,2023-03-09,Food,609.0,18000.0,,Cash
+Arjun Nair,2023-03-09,Travel,508.0,22000.0,,UPI
+Rohan Verma,2023-03-09,Rent,8612.0,20000.0,,NetBanking
+Varun Gupta,2023-03-10,Study Materials,1276.0,20000.0,,Cash
+Priya Iyer,2023-03-10,Utilities,1756.0,18000.0,,NetBanking
+Ishita Roy,2023-03-10,Health,1472.0,22000.0,,Cash
+Vivek Menon,2023-03-10,Groceries,1716.0,18000.0,,UPI
+Pooja Mehta,2023-03-10,Study Materials,1895.0,30000.0,,Card
+Siddharth Rao,2023-03-10,Utilities,2312.0,30000.0,,Card
+Arjun Nair,2023-03-10,Travel,212.0,22000.0,,NetBanking
+Siddharth Rao,2023-03-11,Utilities,112.0,30000.0,,NetBanking
+Rohan Verma,2023-03-11,Health,1629.0,20000.0,,Cash
+Shreya Sen,2023-03-11,Utilities,698.0,18000.0,,Card
+Krishna Rao,2023-03-11,Travel,108.0,30000.0,,Cash
+Amit Sharma,2023-03-11,Entertainment,292.0,20000.0,,NetBanking
+Arjun Nair,2023-03-11,Rent,7964.0,22000.0,,NetBanking
+Swathi Reddy,2023-03-12,Travel,416.0,25000.0,,Cash
+Rohan Verma,2023-03-12,Utilities,1192.0,20000.0,,NetBanking
+Megha Das,2023-03-12,Study Materials,446.0,25000.0,,Cash
+Arjun Nair,2023-03-12,Food,261.0,22000.0,,NetBanking
+Ishita Roy,2023-03-12,Food,673.0,22000.0,,Card
+Tanvi Jain,2023-03-12,Health,447.0,30000.0,,Card
+Megha Das,2023-03-12,Utilities,269.0,25000.0,,NetBanking
+Arjun Nair,2023-03-12,Entertainment,727.0,22000.0,,Card
+Vivek Menon,2023-03-13,Health,238.0,18000.0,,NetBanking
+Pooja Mehta,2023-03-13,Travel,557.0,30000.0,,Card
+Arjun Nair,2023-03-13,Rent,10748.0,22000.0,,UPI
+Pooja Mehta,2023-03-13,Entertainment,645.0,30000.0,,UPI
+Varun Gupta,2023-03-14,Entertainment,150.0,20000.0,,Card
+Tanvi Jain,2023-03-14,Entertainment,2124.0,30000.0,,Card
+Pooja Mehta,2023-03-14,Utilities,1196.0,30000.0,,UPI
+Priya Iyer,2023-03-14,Groceries,2079.0,18000.0,,Card
+Aditya Pillai,2023-03-15,Miscellaneous,802.0,20000.0,,NetBanking
+Karthik Rao,2023-03-15,Miscellaneous,647.0,18000.0,,NetBanking
+Krishna Rao,2023-03-15,Food,656.0,30000.0,,NetBanking
+Ishita Roy,2023-03-15,Food,294.0,22000.0,,UPI
+Krishna Rao,2023-03-15,Travel,183.0,30000.0,,Cash
+Shreya Sen,2023-03-15,Rent,11585.0,18000.0,,NetBanking
+Rahul Kumar,2023-03-16,Entertainment,173.0,20000.0,,Cash
+Harsha Patel,2023-03-16,Utilities,933.0,30000.0,,NetBanking
+Megha Das,2023-03-16,Groceries,687.0,25000.0,,Cash
+Swathi Reddy,2023-03-16,Health,1583.0,25000.0,,Cash
+Siddharth Rao,2023-03-16,Health,1236.0,30000.0,,UPI
+Harini Bhat,2023-03-16,Rent,6463.0,30000.0,,Card
+Harini Bhat,2023-03-16,Health,2480.0,30000.0,,NetBanking
+Swathi Reddy,2023-03-16,Groceries,1737.0,25000.0,,Cash
+Ananya Singh,2023-03-16,Rent,9635.0,30000.0,,UPI
+Krishna Rao,2023-03-16,Utilities,1914.0,30000.0,,Card
+Nisha Sharma,2023-03-16,Travel,323.0,18000.0,,Card
+Rahul Kumar,2023-03-16,Travel,494.0,20000.0,,Cash
+Shreya Sen,2023-03-17,Miscellaneous,1656.0,18000.0,,Cash
+Siddharth Rao,2023-03-17,Miscellaneous,167.0,30000.0,,UPI
+Vikram Joshi,2023-03-17,Entertainment,350.0,25000.0,,Cash
+Varun Gupta,2023-03-17,Health,775.0,20000.0,,Card
+Swathi Reddy,2023-03-17,Food,278.0,25000.0,,Card
+Shreya Sen,2023-03-17,Groceries,441.0,18000.0,,NetBanking
+Nisha Sharma,2023-03-17,Utilities,1654.0,18000.0,,NetBanking
+Amit Sharma,2023-03-17,Entertainment,1717.0,20000.0,,Cash
+Ananya Singh,2023-03-17,Study Materials,662.0,30000.0,,NetBanking
+Rohan Verma,2023-03-17,Travel,561.0,20000.0,,UPI
+Arjun Nair,2023-03-18,Groceries,838.0,22000.0,,Cash
+Amit Sharma,2023-03-18,Travel,337.0,20000.0,,Cash
+Priya Iyer,2023-03-18,Health,2384.0,18000.0,,NetBanking
+Vikram Joshi,2023-03-18,Rent,7505.0,25000.0,,Cash
+Tanvi Jain,2023-03-18,Food,205.0,30000.0,,NetBanking
+Shreya Sen,2023-03-18,Entertainment,1803.0,18000.0,,NetBanking
+Harini Bhat,2023-03-18,Travel,183.0,30000.0,,UPI
+Vivek Menon,2023-03-18,Food,467.0,18000.0,,Card
+Karthik Rao,2023-03-18,Miscellaneous,1687.0,18000.0,,UPI
+Ananya Singh,2023-03-18,Study Materials,1004.0,30000.0,,UPI
+Ishita Roy,2023-03-19,Utilities,1135.0,22000.0,,NetBanking
+Harsha Patel,2023-03-19,Entertainment,387.0,30000.0,,NetBanking
+Karthik Rao,2023-03-19,Entertainment,265.0,18000.0,,UPI
+Rohan Verma,2023-03-19,Rent,7033.0,20000.0,,Cash
+Harini Bhat,2023-03-19,Rent,10927.0,30000.0,,Card
+Pooja Mehta,2023-03-19,Travel,554.0,30000.0,,NetBanking
+Varun Gupta,2023-03-19,Entertainment,758.0,20000.0,,Cash
+Vikram Joshi,2023-03-20,Travel,59.0,25000.0,,Card
+Karthik Rao,2023-03-20,Travel,86.0,18000.0,,UPI
+Sneha Kapoor,2023-03-20,Groceries,1120.0,18000.0,,Card
+Shreya Sen,2023-03-20,Miscellaneous,1665.0,18000.0,,Cash
+Ishita Roy,2023-03-20,Study Materials,566.0,22000.0,,Cash
+Megha Das,2023-03-20,Utilities,252.0,25000.0,,NetBanking
+Nisha Sharma,2023-03-21,Food,665.0,18000.0,,UPI
+Megha Das,2023-03-21,Groceries,349.0,25000.0,,Card
+Megha Das,2023-03-21,Food,211.0,25000.0,,Card
+Pooja Mehta,2023-03-21,Miscellaneous,2089.0,30000.0,,Cash
+Karthik Rao,2023-03-21,Rent,4096.0,18000.0,,Cash
+Nisha Sharma,2023-03-21,Utilities,2132.0,18000.0,,NetBanking
+Vikram Joshi,2023-03-21,Food,397.0,25000.0,,Card
+Ishita Roy,2023-03-22,Health,1513.0,22000.0,,Cash
+Karthik Rao,2023-03-22,Rent,6112.0,18000.0,,Card
+Siddharth Rao,2023-03-22,Study Materials,1247.0,30000.0,,Cash
+Harini Bhat,2023-03-22,Health,133.0,30000.0,,UPI
+Sneha Kapoor,2023-03-23,Health,1073.0,18000.0,,Cash
+Ishita Roy,2023-03-23,Groceries,1783.0,22000.0,,Card
+Ananya Singh,2023-03-23,Food,404.0,30000.0,,Cash
+Krishna Rao,2023-03-23,Entertainment,1549.0,30000.0,,Card
+Amit Sharma,2023-03-24,Utilities,133.0,20000.0,,UPI
+Tanvi Jain,2023-03-24,Travel,386.0,30000.0,,Cash
+Pooja Mehta,2023-03-24,Groceries,393.0,30000.0,,Card
+Nisha Sharma,2023-03-24,Miscellaneous,2010.0,18000.0,,NetBanking
+Swathi Reddy,2023-03-24,Entertainment,909.0,25000.0,,Cash
+Pooja Mehta,2023-03-25,Utilities,351.0,30000.0,,Card
+Shreya Sen,2023-03-25,Groceries,271.0,18000.0,,UPI
+Harsha Patel,2023-03-25,Miscellaneous,595.0,30000.0,,Cash
+Karthik Rao,2023-03-25,Utilities,616.0,18000.0,,UPI
+Arjun Nair,2023-03-25,Miscellaneous,677.0,22000.0,,Cash
+Harsha Patel,2023-03-25,Rent,11597.0,30000.0,,NetBanking
+Vivek Menon,2023-03-25,Rent,10085.0,18000.0,,NetBanking
+Amit Sharma,2023-03-25,Miscellaneous,335.0,20000.0,,Card
+Karthik Rao,2023-03-26,Health,1507.0,18000.0,,NetBanking
+Priya Iyer,2023-03-26,Travel,379.0,18000.0,,UPI
+Aditya Pillai,2023-03-26,Rent,7744.0,20000.0,,Cash
+Rahul Kumar,2023-03-26,Groceries,902.0,20000.0,,NetBanking
+Pooja Mehta,2023-03-26,Utilities,613.0,30000.0,,Cash
+Aditya Pillai,2023-03-26,Travel,425.0,20000.0,,Card
+Divya Yeddu,2023-03-26,Health,744.0,25000.0,,UPI
+Krishna Rao,2023-03-26,Utilities,1837.0,30000.0,,Cash
+Vikram Joshi,2023-03-26,Study Materials,909.0,25000.0,,UPI
+Swathi Reddy,2023-03-26,Rent,4446.0,25000.0,,Cash
+Swathi Reddy,2023-03-27,Food,409.0,25000.0,,UPI
+Arjun Nair,2023-03-27,Food,695.0,22000.0,,Cash
+Divya Yeddu,2023-03-27,Food,570.0,25000.0,,NetBanking
+Swathi Reddy,2023-03-27,Entertainment,1087.0,25000.0,,NetBanking
+Sneha Kapoor,2023-03-28,Utilities,1522.0,18000.0,,Cash
+Varun Gupta,2023-03-28,Health,370.0,20000.0,,UPI
+Aditya Pillai,2023-03-28,Groceries,2203.0,20000.0,,NetBanking
+Sneha Kapoor,2023-03-28,Health,1924.0,18000.0,,Card
+Arjun Nair,2023-03-28,Utilities,1103.0,22000.0,,Card
+Divya Yeddu,2023-03-28,Travel,402.0,25000.0,,UPI
+Swathi Reddy,2023-03-28,Miscellaneous,1173.0,25000.0,,NetBanking
+Rohan Verma,2023-03-28,Food,207.0,20000.0,,Card
+Vikram Joshi,2023-03-28,Food,406.0,25000.0,,UPI
+Karthik Rao,2023-03-29,Study Materials,949.0,18000.0,,Card
+Tanvi Jain,2023-03-29,Travel,186.0,30000.0,,UPI
+Rohan Verma,2023-03-29,Miscellaneous,2302.0,20000.0,,Cash
+Megha Das,2023-03-29,Health,2238.0,25000.0,,Card
+Arjun Nair,2023-03-29,Rent,11479.0,22000.0,,Cash
+Megha Das,2023-03-29,Health,2034.0,25000.0,,UPI
+Divya Yeddu,2023-03-30,Travel,467.0,25000.0,,NetBanking
+Sneha Kapoor,2023-03-30,Groceries,714.0,18000.0,,NetBanking
+Ananya Singh,2023-03-30,Miscellaneous,286.0,30000.0,,UPI
+Arjun Nair,2023-03-30,Groceries,1666.0,22000.0,,Cash
+Tanvi Jain,2023-03-30,Groceries,1094.0,30000.0,,Cash
+Arjun Nair,2023-03-30,Food,600.0,22000.0,,NetBanking
+Karthik Rao,2023-03-30,Food,153.0,18000.0,,Card
+Harsha Patel,2023-03-31,Travel,269.0,30000.0,,Card
+Amit Sharma,2023-03-31,Groceries,881.0,20000.0,,Card
+Aditya Pillai,2023-03-31,Travel,111.0,20000.0,,NetBanking
+Rohan Verma,2023-03-31,Study Materials,1762.0,20000.0,,UPI
+Tanvi Jain,2023-03-31,Travel,554.0,30000.0,,UPI
+Harini Bhat,2023-03-31,Travel,428.0,30000.0,,Card
+Swathi Reddy,2023-03-31,Food,643.0,25000.0,,UPI
+Arjun Nair,2023-03-31,Food,230.0,22000.0,,UPI
+Harini Bhat,2023-03-31,Travel,277.0,30000.0,,Card
+Vikram Joshi,2023-03-31,Travel,269.0,25000.0,,UPI
+Arjun Nair,2023-03-31,Entertainment,2200.0,22000.0,,UPI
+Vikram Joshi,2023-04-01,Miscellaneous,482.0,25000.0,,UPI
+Priya Iyer,2023-04-01,Miscellaneous,665.0,18000.0,,NetBanking
+Shreya Sen,2023-04-01,Travel,407.0,18000.0,,Card
+Pooja Mehta,2023-04-01,Travel,58.0,30000.0,,NetBanking
+Ananya Singh,2023-04-01,Entertainment,1268.0,30000.0,,Card
+Priya Iyer,2023-04-01,Study Materials,1730.0,18000.0,,NetBanking
+Rohan Verma,2023-04-01,Health,951.0,20000.0,,NetBanking
+Vivek Menon,2023-04-01,Food,293.0,18000.0,,UPI
+Swathi Reddy,2023-04-02,Food,609.0,25000.0,,UPI
+Divya Yeddu,2023-04-02,Rent,11827.0,25000.0,,Card
+Megha Das,2023-04-02,Entertainment,1584.0,25000.0,,Card
+Aditya Pillai,2023-04-02,Travel,402.0,20000.0,,Cash
+Varun Gupta,2023-04-02,Miscellaneous,209.0,20000.0,,UPI
+Arjun Nair,2023-04-02,Miscellaneous,845.0,22000.0,,Cash
+Megha Das,2023-04-02,Health,2181.0,25000.0,,Card
+Shreya Sen,2023-04-02,Entertainment,1233.0,18000.0,,NetBanking
+Aditya Pillai,2023-04-03,Travel,136.0,20000.0,,UPI
+Pooja Mehta,2023-04-03,Travel,95.0,30000.0,,NetBanking
+Varun Gupta,2023-04-03,Miscellaneous,2344.0,20000.0,,NetBanking
+Swathi Reddy,2023-04-03,Utilities,933.0,25000.0,,Cash
+Arjun Nair,2023-04-03,Study Materials,1857.0,22000.0,,UPI
+Shreya Sen,2023-04-03,Groceries,824.0,18000.0,,Card
+Swathi Reddy,2023-04-03,Health,2468.0,25000.0,,Cash
+Divya Yeddu,2023-04-03,Entertainment,1043.0,25000.0,,UPI
+Arjun Nair,2023-04-03,Food,533.0,22000.0,,NetBanking
+Aditya Pillai,2023-04-03,Groceries,1833.0,20000.0,,Cash
+Megha Das,2023-04-04,Study Materials,1695.0,25000.0,,UPI
+Megha Das,2023-04-04,Entertainment,2221.0,25000.0,,UPI
+Megha Das,2023-04-04,Rent,5701.0,25000.0,,Card
+Ananya Singh,2023-04-04,Miscellaneous,1021.0,30000.0,,NetBanking
+Priya Iyer,2023-04-04,Study Materials,1417.0,18000.0,,NetBanking
+Ishita Roy,2023-04-04,Food,380.0,22000.0,,UPI
+Swathi Reddy,2023-04-04,Study Materials,1318.0,25000.0,,Cash
+Ananya Singh,2023-04-04,Health,356.0,30000.0,,Cash
+Vivek Menon,2023-04-04,Utilities,1574.0,18000.0,,Card
+Shreya Sen,2023-04-05,Entertainment,1190.0,18000.0,,Card
+Pooja Mehta,2023-04-05,Rent,8014.0,30000.0,,Cash
+Vivek Menon,2023-04-05,Travel,343.0,18000.0,,Cash
+Ishita Roy,2023-04-05,Entertainment,2009.0,22000.0,,NetBanking
+Harsha Patel,2023-04-05,Study Materials,1150.0,30000.0,,UPI
+Ananya Singh,2023-04-05,Groceries,1955.0,30000.0,,Card
+Megha Das,2023-04-05,Study Materials,1908.0,25000.0,,Card
+Nisha Sharma,2023-04-05,Groceries,1228.0,18000.0,,NetBanking
+Ananya Singh,2023-04-05,Rent,4894.0,30000.0,,NetBanking
+Rahul Kumar,2023-04-05,Miscellaneous,1273.0,20000.0,,Cash
+Arjun Nair,2023-04-06,Study Materials,1161.0,22000.0,,Cash
+Tanvi Jain,2023-04-06,Utilities,1463.0,30000.0,,UPI
+Swathi Reddy,2023-04-06,Utilities,1957.0,25000.0,,NetBanking
+Pooja Mehta,2023-04-06,Food,236.0,30000.0,,Cash
+Varun Gupta,2023-04-06,Miscellaneous,1924.0,20000.0,,UPI
+Krishna Rao,2023-04-06,Rent,5814.0,30000.0,,UPI
+Pooja Mehta,2023-04-07,Travel,376.0,30000.0,,Cash
+Nisha Sharma,2023-04-07,Groceries,2020.0,18000.0,,Card
+Megha Das,2023-04-07,Travel,229.0,25000.0,,UPI
+Nisha Sharma,2023-04-07,Food,355.0,18000.0,,Card
+Vikram Joshi,2023-04-08,Groceries,1404.0,25000.0,,UPI
+Pooja Mehta,2023-04-08,Rent,4636.0,30000.0,,NetBanking
+Harini Bhat,2023-04-08,Entertainment,319.0,30000.0,,UPI
+Krishna Rao,2023-04-08,Utilities,149.0,30000.0,,UPI
+Ishita Roy,2023-04-08,Study Materials,655.0,22000.0,,Cash
+Harsha Patel,2023-04-08,Entertainment,370.0,30000.0,,NetBanking
+Ananya Singh,2023-04-08,Food,586.0,30000.0,,UPI
+Krishna Rao,2023-04-09,Utilities,734.0,30000.0,,UPI
+Amit Sharma,2023-04-09,Study Materials,1278.0,20000.0,,UPI
+Vivek Menon,2023-04-09,Study Materials,396.0,18000.0,,Cash
+Tanvi Jain,2023-04-09,Entertainment,1481.0,30000.0,,Card
+Divya Yeddu,2023-04-09,Entertainment,1156.0,25000.0,,Cash
+Sneha Kapoor,2023-04-09,Travel,472.0,18000.0,,UPI
+Harsha Patel,2023-04-10,Miscellaneous,1099.0,30000.0,,NetBanking
+Shreya Sen,2023-04-10,Entertainment,615.0,18000.0,,Cash
+Nisha Sharma,2023-04-10,Study Materials,490.0,18000.0,,NetBanking
+Harsha Patel,2023-04-10,Entertainment,2424.0,30000.0,,Cash
+Amit Sharma,2023-04-10,Miscellaneous,1915.0,20000.0,,UPI
+Megha Das,2023-04-10,Health,2399.0,25000.0,,NetBanking
+Ananya Singh,2023-04-10,Groceries,1969.0,30000.0,,Cash
+Aditya Pillai,2023-04-10,Miscellaneous,1675.0,20000.0,,Cash
+Arjun Nair,2023-04-11,Utilities,1771.0,22000.0,,Cash
+Divya Yeddu,2023-04-11,Study Materials,1569.0,25000.0,,Card
+Arjun Nair,2023-04-11,Groceries,2202.0,22000.0,,UPI
+Shreya Sen,2023-04-11,Food,123.0,18000.0,,UPI
+Ishita Roy,2023-04-11,Rent,11693.0,22000.0,,Cash
+Vikram Joshi,2023-04-11,Study Materials,719.0,25000.0,,Cash
+Nisha Sharma,2023-04-11,Utilities,1813.0,18000.0,,Card
+Harini Bhat,2023-04-11,Rent,9360.0,30000.0,,Cash
+Swathi Reddy,2023-04-11,Miscellaneous,286.0,25000.0,,Card
+Ananya Singh,2023-04-12,Health,2470.0,30000.0,,Card
+Harini Bhat,2023-04-12,Groceries,1538.0,30000.0,,NetBanking
+Nisha Sharma,2023-04-12,Miscellaneous,1728.0,18000.0,,Card
+Nisha Sharma,2023-04-12,Groceries,405.0,18000.0,,Card
+Rohan Verma,2023-04-12,Travel,460.0,20000.0,,UPI
+Harini Bhat,2023-04-12,Groceries,325.0,30000.0,,Cash
+Krishna Rao,2023-04-12,Rent,4375.0,30000.0,,NetBanking
+Harini Bhat,2023-04-12,Study Materials,1114.0,30000.0,,NetBanking
+Vikram Joshi,2023-04-12,Utilities,2482.0,25000.0,,UPI
+Arjun Nair,2023-04-12,Study Materials,617.0,22000.0,,NetBanking
+Vivek Menon,2023-04-13,Groceries,577.0,18000.0,,Cash
+Megha Das,2023-04-13,Entertainment,860.0,25000.0,,Card
+Megha Das,2023-04-13,Travel,549.0,25000.0,,UPI
+Harsha Patel,2023-04-13,Health,2276.0,30000.0,,NetBanking
+Ishita Roy,2023-04-13,Entertainment,1277.0,22000.0,,NetBanking
+Rahul Kumar,2023-04-13,Health,219.0,20000.0,,NetBanking
+Krishna Rao,2023-04-13,Entertainment,1809.0,30000.0,,Cash
+Vivek Menon,2023-04-13,Food,625.0,18000.0,,UPI
+Arjun Nair,2023-04-14,Groceries,888.0,22000.0,,NetBanking
+Krishna Rao,2023-04-14,Groceries,981.0,30000.0,,Card
+Divya Yeddu,2023-04-14,Utilities,922.0,25000.0,,Cash
+Divya Yeddu,2023-04-14,Health,1830.0,25000.0,,UPI
+Karthik Rao,2023-04-14,Food,258.0,18000.0,,Card
+Divya Yeddu,2023-04-14,Rent,9528.0,25000.0,,Card
+Tanvi Jain,2023-04-14,Food,511.0,30000.0,,UPI
+Ishita Roy,2023-04-14,Miscellaneous,1272.0,22000.0,,UPI
+Rahul Kumar,2023-04-15,Health,338.0,20000.0,,NetBanking
+Harini Bhat,2023-04-15,Rent,8109.0,30000.0,,UPI
+Ishita Roy,2023-04-15,Rent,8205.0,22000.0,,UPI
+Rohan Verma,2023-04-15,Health,1133.0,20000.0,,Card
+Vikram Joshi,2023-04-15,Miscellaneous,1378.0,25000.0,,NetBanking
+Shreya Sen,2023-04-15,Utilities,1151.0,18000.0,,UPI
+Priya Iyer,2023-04-15,Health,1965.0,18000.0,,Cash
+Aditya Pillai,2023-04-15,Entertainment,930.0,20000.0,,Cash
+Harini Bhat,2023-04-16,Rent,5039.0,30000.0,,Card
+Amit Sharma,2023-04-16,Entertainment,1085.0,20000.0,,NetBanking
+Shreya Sen,2023-04-16,Food,603.0,18000.0,,NetBanking
+Vivek Menon,2023-04-16,Rent,9689.0,18000.0,,NetBanking
+Ishita Roy,2023-04-16,Health,655.0,22000.0,,UPI
+Nisha Sharma,2023-04-16,Study Materials,392.0,18000.0,,NetBanking
+Harini Bhat,2023-04-17,Health,473.0,30000.0,,Card
+Krishna Rao,2023-04-17,Study Materials,1048.0,30000.0,,NetBanking
+Nisha Sharma,2023-04-17,Miscellaneous,733.0,18000.0,,UPI
+Pooja Mehta,2023-04-17,Travel,281.0,30000.0,,Card
+Karthik Rao,2023-04-17,Utilities,700.0,18000.0,,Card
+Sneha Kapoor,2023-04-17,Groceries,2000.0,18000.0,,Card
+Tanvi Jain,2023-04-17,Groceries,1609.0,30000.0,,Card
+Amit Sharma,2023-04-17,Groceries,1565.0,20000.0,,Card
+Ishita Roy,2023-04-17,Utilities,1609.0,22000.0,,UPI
+Harini Bhat,2023-04-18,Rent,6255.0,30000.0,,NetBanking
+Priya Iyer,2023-04-18,Utilities,1900.0,18000.0,,UPI
+Priya Iyer,2023-04-18,Rent,11378.0,18000.0,,Card
+Harsha Patel,2023-04-18,Miscellaneous,1524.0,30000.0,,Cash
+Arjun Nair,2023-04-18,Miscellaneous,1519.0,22000.0,,NetBanking
+Arjun Nair,2023-04-18,Rent,11913.0,22000.0,,Cash
+Arjun Nair,2023-04-18,Groceries,177.0,22000.0,,UPI
+Amit Sharma,2023-04-18,Miscellaneous,825.0,20000.0,,Cash
+Siddharth Rao,2023-04-18,Entertainment,844.0,30000.0,,UPI
+Arjun Nair,2023-04-19,Food,229.0,22000.0,,NetBanking
+Vivek Menon,2023-04-19,Groceries,551.0,18000.0,,UPI
+Vivek Menon,2023-04-19,Travel,567.0,18000.0,,Card
+Amit Sharma,2023-04-19,Rent,8852.0,20000.0,,Cash
+Rahul Kumar,2023-04-19,Rent,6427.0,20000.0,,NetBanking
+Amit Sharma,2023-04-19,Study Materials,1429.0,20000.0,,Cash
+Vivek Menon,2023-04-19,Miscellaneous,1393.0,18000.0,,NetBanking
+Divya Yeddu,2023-04-19,Travel,194.0,25000.0,,UPI
+Siddharth Rao,2023-04-20,Study Materials,1242.0,30000.0,,NetBanking
+Swathi Reddy,2023-04-20,Rent,11636.0,25000.0,,Card
+Varun Gupta,2023-04-20,Food,636.0,20000.0,,Card
+Rohan Verma,2023-04-20,Miscellaneous,531.0,20000.0,,UPI
+Amit Sharma,2023-04-20,Study Materials,1339.0,20000.0,,NetBanking
+Ananya Singh,2023-04-20,Entertainment,1146.0,30000.0,,UPI
+Rohan Verma,2023-04-20,Travel,456.0,20000.0,,Card
+Ishita Roy,2023-04-20,Food,392.0,22000.0,,UPI
+Amit Sharma,2023-04-20,Utilities,1000.0,20000.0,,Cash
+Rohan Verma,2023-04-20,Entertainment,791.0,20000.0,,Card
+Vikram Joshi,2023-04-21,Study Materials,1492.0,25000.0,,UPI
+Swathi Reddy,2023-04-21,Health,2119.0,25000.0,,Cash
+Krishna Rao,2023-04-21,Rent,5252.0,30000.0,,Cash
+Ananya Singh,2023-04-21,Rent,5554.0,30000.0,,NetBanking
+Priya Iyer,2023-04-21,Health,594.0,18000.0,,Cash
+Priya Iyer,2023-04-22,Entertainment,1686.0,18000.0,,NetBanking
+Aditya Pillai,2023-04-22,Health,1034.0,20000.0,,Cash
+Krishna Rao,2023-04-22,Groceries,2065.0,30000.0,,Cash
+Harsha Patel,2023-04-22,Entertainment,2192.0,30000.0,,UPI
+Vivek Menon,2023-04-22,Groceries,183.0,18000.0,,Cash
+Siddharth Rao,2023-04-23,Health,1988.0,30000.0,,UPI
+Ishita Roy,2023-04-23,Rent,8080.0,22000.0,,Card
+Vikram Joshi,2023-04-23,Health,1878.0,25000.0,,NetBanking
+Ananya Singh,2023-04-23,Utilities,878.0,30000.0,,Cash
+Harsha Patel,2023-04-23,Study Materials,1869.0,30000.0,,UPI
+Sneha Kapoor,2023-04-23,Study Materials,701.0,18000.0,,Card
+Siddharth Rao,2023-04-24,Entertainment,2176.0,30000.0,,NetBanking
+Harini Bhat,2023-04-24,Groceries,253.0,30000.0,,NetBanking
+Vikram Joshi,2023-04-24,Health,1083.0,25000.0,,Cash
+Megha Das,2023-04-24,Groceries,2299.0,25000.0,,UPI
+Ishita Roy,2023-04-24,Rent,10473.0,22000.0,,Cash
+Krishna Rao,2023-04-24,Food,597.0,30000.0,,NetBanking
+Nisha Sharma,2023-04-24,Entertainment,636.0,18000.0,,Cash
+Shreya Sen,2023-04-24,Groceries,1150.0,18000.0,,Cash
+Swathi Reddy,2023-04-24,Utilities,180.0,25000.0,,Cash
+Amit Sharma,2023-04-25,Miscellaneous,775.0,20000.0,,Cash
+Pooja Mehta,2023-04-25,Travel,406.0,30000.0,,Cash
+Arjun Nair,2023-04-25,Groceries,534.0,22000.0,,NetBanking
+Vikram Joshi,2023-04-25,Study Materials,710.0,25000.0,,Cash
+Tanvi Jain,2023-04-25,Health,701.0,30000.0,,Cash
+Nisha Sharma,2023-04-26,Study Materials,1322.0,18000.0,,Cash
+Sneha Kapoor,2023-04-26,Groceries,1925.0,18000.0,,Cash
+Siddharth Rao,2023-04-26,Rent,6027.0,30000.0,,NetBanking
+Nisha Sharma,2023-04-26,Miscellaneous,860.0,18000.0,,Cash
+Swathi Reddy,2023-04-26,Study Materials,963.0,25000.0,,UPI
+Harini Bhat,2023-04-26,Groceries,1938.0,30000.0,,NetBanking
+Harini Bhat,2023-04-26,Rent,9379.0,30000.0,,NetBanking
+Sneha Kapoor,2023-04-26,Health,1255.0,18000.0,,UPI
+Varun Gupta,2023-04-26,Health,1152.0,20000.0,,Cash
+Swathi Reddy,2023-04-27,Entertainment,230.0,25000.0,,NetBanking
+Ananya Singh,2023-04-27,Health,1945.0,30000.0,,UPI
+Rahul Kumar,2023-04-27,Food,615.0,20000.0,,Card
+Vikram Joshi,2023-04-27,Utilities,2228.0,25000.0,,Card
+Harini Bhat,2023-04-27,Utilities,746.0,30000.0,,NetBanking
+Priya Iyer,2023-04-27,Miscellaneous,454.0,18000.0,,Cash
+Vivek Menon,2023-04-27,Groceries,1727.0,18000.0,,Card
+Nisha Sharma,2023-04-28,Miscellaneous,2060.0,18000.0,,Cash
+Vivek Menon,2023-04-28,Miscellaneous,2161.0,18000.0,,Card
+Ishita Roy,2023-04-28,Utilities,398.0,22000.0,,NetBanking
+Shreya Sen,2023-04-28,Groceries,2054.0,18000.0,,NetBanking
+Sneha Kapoor,2023-04-28,Groceries,1755.0,18000.0,,Card
+Priya Iyer,2023-04-29,Miscellaneous,1937.0,18000.0,,NetBanking
+Krishna Rao,2023-04-29,Study Materials,1684.0,30000.0,,UPI
+Pooja Mehta,2023-04-29,Groceries,519.0,30000.0,,Cash
+Nisha Sharma,2023-04-29,Rent,6293.0,18000.0,,NetBanking
+Tanvi Jain,2023-04-29,Miscellaneous,720.0,30000.0,,Cash
+Arjun Nair,2023-04-29,Rent,5192.0,22000.0,,Card
+Arjun Nair,2023-04-29,Groceries,1612.0,22000.0,,Cash
+Varun Gupta,2023-04-29,Health,1422.0,20000.0,,Cash
+Megha Das,2023-04-29,Rent,10723.0,25000.0,,Cash
+Rahul Kumar,2023-04-30,Health,262.0,20000.0,,NetBanking
+Arjun Nair,2023-04-30,Entertainment,122.0,22000.0,,Card
+Nisha Sharma,2023-04-30,Entertainment,1476.0,18000.0,,NetBanking
+Nisha Sharma,2023-04-30,Study Materials,925.0,18000.0,,NetBanking
+Siddharth Rao,2023-04-30,Entertainment,2061.0,30000.0,,Cash
+Varun Gupta,2023-04-30,Utilities,364.0,20000.0,,NetBanking
+Rahul Kumar,2023-04-30,Food,381.0,20000.0,,UPI
+Aditya Pillai,2023-04-30,Entertainment,1167.0,20000.0,,NetBanking
+Sneha Kapoor,2023-04-30,Entertainment,593.0,18000.0,,NetBanking
+Ananya Singh,2023-04-30,Travel,275.0,30000.0,,Cash
+Ishita Roy,2023-04-30,Health,2290.0,22000.0,,Cash
+Sneha Kapoor,2023-04-30,Utilities,429.0,18000.0,,UPI
+Ananya Singh,2023-04-30,Utilities,2372.0,30000.0,,Card
+Harini Bhat,2023-04-30,Miscellaneous,284.0,30000.0,,Card
+Vikram Joshi,2023-05-01,Travel,219.0,25000.0,,Cash
+Megha Das,2023-05-01,Travel,386.0,25000.0,,Cash
+Tanvi Jain,2023-05-02,Miscellaneous,731.0,30000.0,,Cash
+Vivek Menon,2023-05-02,Health,1395.0,18000.0,,UPI
+Siddharth Rao,2023-05-02,Rent,5968.0,30000.0,,NetBanking
+Vikram Joshi,2023-05-02,Utilities,238.0,25000.0,,NetBanking
+Harini Bhat,2023-05-03,Miscellaneous,639.0,30000.0,,UPI
+Amit Sharma,2023-05-03,Entertainment,1228.0,20000.0,,UPI
+Varun Gupta,2023-05-03,Utilities,1521.0,20000.0,,UPI
+Rahul Kumar,2023-05-03,Groceries,1094.0,20000.0,,NetBanking
+Arjun Nair,2023-05-03,Study Materials,1368.0,22000.0,,UPI
+Swathi Reddy,2023-05-03,Utilities,305.0,25000.0,,UPI
+Ishita Roy,2023-05-03,Food,129.0,22000.0,,UPI
+Vikram Joshi,2023-05-04,Study Materials,688.0,25000.0,,UPI
+Karthik Rao,2023-05-04,Rent,5249.0,18000.0,,Cash
+Rohan Verma,2023-05-04,Utilities,2381.0,20000.0,,Card
+Rahul Kumar,2023-05-04,Food,647.0,20000.0,,UPI
+Harini Bhat,2023-05-04,Groceries,1587.0,30000.0,,UPI
+Vikram Joshi,2023-05-04,Entertainment,2412.0,25000.0,,Cash
+Arjun Nair,2023-05-05,Utilities,386.0,22000.0,,UPI
+Shreya Sen,2023-05-05,Health,189.0,18000.0,,Card
+Ishita Roy,2023-05-05,Health,2184.0,22000.0,,Cash
+Ananya Singh,2023-05-05,Utilities,1807.0,30000.0,,UPI
+Priya Iyer,2023-05-05,Travel,152.0,18000.0,,Cash
+Priya Iyer,2023-05-05,Health,1629.0,18000.0,,Card
+Harini Bhat,2023-05-05,Entertainment,752.0,30000.0,,Cash
+Karthik Rao,2023-05-06,Utilities,692.0,18000.0,,Card
+Ananya Singh,2023-05-06,Food,473.0,30000.0,,Cash
+Arjun Nair,2023-05-06,Rent,8353.0,22000.0,,Cash
+Karthik Rao,2023-05-06,Miscellaneous,1212.0,18000.0,,Card
+Priya Iyer,2023-05-06,Travel,558.0,18000.0,,NetBanking
+Swathi Reddy,2023-05-06,Rent,11338.0,25000.0,,UPI
+Ishita Roy,2023-05-06,Miscellaneous,324.0,22000.0,,Cash
+Ishita Roy,2023-05-06,Entertainment,1118.0,22000.0,,UPI
+Harsha Patel,2023-05-06,Food,557.0,30000.0,,Cash
+Vivek Menon,2023-05-06,Food,267.0,18000.0,,Card
+Varun Gupta,2023-05-06,Study Materials,1267.0,20000.0,,NetBanking
+Harini Bhat,2023-05-06,Travel,258.0,30000.0,,Card
+Pooja Mehta,2023-05-07,Study Materials,970.0,30000.0,,Card
+Krishna Rao,2023-05-07,Health,1827.0,30000.0,,NetBanking
+Arjun Nair,2023-05-07,Food,517.0,22000.0,,Cash
+Ishita Roy,2023-05-07,Utilities,321.0,22000.0,,NetBanking
+Harini Bhat,2023-05-07,Food,146.0,30000.0,,Cash
+Karthik Rao,2023-05-07,Health,1979.0,18000.0,,NetBanking
+Harsha Patel,2023-05-07,Rent,11170.0,30000.0,,UPI
+Sneha Kapoor,2023-05-08,Entertainment,1662.0,18000.0,,UPI
+Karthik Rao,2023-05-08,Study Materials,1378.0,18000.0,,UPI
+Karthik Rao,2023-05-08,Groceries,2409.0,18000.0,,Cash
+Vivek Menon,2023-05-08,Groceries,616.0,18000.0,,UPI
+Aditya Pillai,2023-05-08,Miscellaneous,1293.0,20000.0,,NetBanking
+Harini Bhat,2023-05-08,Utilities,705.0,30000.0,,Cash
+Priya Iyer,2023-05-08,Food,651.0,18000.0,,UPI
+Ananya Singh,2023-05-08,Travel,332.0,30000.0,,Cash
+Siddharth Rao,2023-05-09,Entertainment,1237.0,30000.0,,Card
+Pooja Mehta,2023-05-09,Travel,347.0,30000.0,,NetBanking
+Nisha Sharma,2023-05-09,Groceries,1672.0,18000.0,,NetBanking
+Rohan Verma,2023-05-09,Study Materials,1507.0,20000.0,,NetBanking
+Krishna Rao,2023-05-09,Study Materials,1907.0,30000.0,,UPI
+Siddharth Rao,2023-05-09,Food,290.0,30000.0,,NetBanking
+Vikram Joshi,2023-05-10,Utilities,1211.0,25000.0,,Cash
+Pooja Mehta,2023-05-10,Utilities,2022.0,30000.0,,Cash
+Sneha Kapoor,2023-05-10,Food,232.0,18000.0,,UPI
+Divya Yeddu,2023-05-10,Rent,4620.0,25000.0,,NetBanking
+Vivek Menon,2023-05-10,Rent,8087.0,18000.0,,Cash
+Megha Das,2023-05-10,Rent,10957.0,25000.0,,NetBanking
+Amit Sharma,2023-05-10,Miscellaneous,1394.0,20000.0,,NetBanking
+Amit Sharma,2023-05-11,Utilities,2316.0,20000.0,,UPI
+Krishna Rao,2023-05-11,Study Materials,1023.0,30000.0,,Card
+Vikram Joshi,2023-05-11,Miscellaneous,1488.0,25000.0,,NetBanking
+Amit Sharma,2023-05-11,Food,284.0,20000.0,,Cash
+Divya Yeddu,2023-05-11,Rent,10110.0,25000.0,,UPI
+Siddharth Rao,2023-05-11,Food,411.0,30000.0,,UPI
+Tanvi Jain,2023-05-11,Utilities,2156.0,30000.0,,Cash
+Shreya Sen,2023-05-11,Travel,544.0,18000.0,,Cash
+Sneha Kapoor,2023-05-11,Food,393.0,18000.0,,UPI
+Rahul Kumar,2023-05-12,Rent,9170.0,20000.0,,Cash
+Sneha Kapoor,2023-05-12,Utilities,284.0,18000.0,,Card
+Vivek Menon,2023-05-12,Travel,247.0,18000.0,,NetBanking
+Harsha Patel,2023-05-12,Travel,292.0,30000.0,,NetBanking
+Harini Bhat,2023-05-12,Miscellaneous,1190.0,30000.0,,NetBanking
+Pooja Mehta,2023-05-12,Miscellaneous,1805.0,30000.0,,Card
+Siddharth Rao,2023-05-12,Groceries,2181.0,30000.0,,Card
+Harsha Patel,2023-05-12,Food,136.0,30000.0,,NetBanking
+Tanvi Jain,2023-05-12,Groceries,1737.0,30000.0,,Cash
+Tanvi Jain,2023-05-12,Groceries,2270.0,30000.0,,UPI
+Swathi Reddy,2023-05-13,Entertainment,1806.0,25000.0,,NetBanking
+Ishita Roy,2023-05-13,Food,192.0,22000.0,,NetBanking
+Tanvi Jain,2023-05-13,Utilities,1047.0,30000.0,,UPI
+Krishna Rao,2023-05-13,Rent,7761.0,30000.0,,NetBanking
+Tanvi Jain,2023-05-13,Utilities,1330.0,30000.0,,NetBanking
+Varun Gupta,2023-05-13,Utilities,449.0,20000.0,,NetBanking
+Rohan Verma,2023-05-13,Food,288.0,20000.0,,UPI
+Ananya Singh,2023-05-13,Health,2000.0,30000.0,,UPI
+Varun Gupta,2023-05-13,Entertainment,174.0,20000.0,,NetBanking
+Rahul Kumar,2023-05-13,Food,268.0,20000.0,,Cash
+Megha Das,2023-05-14,Rent,5769.0,25000.0,,Cash
+Aditya Pillai,2023-05-14,Health,1776.0,20000.0,,UPI
+Aditya Pillai,2023-05-14,Food,294.0,20000.0,,Card
+Megha Das,2023-05-14,Health,1269.0,25000.0,,UPI
+Ishita Roy,2023-05-14,Health,486.0,22000.0,,Card
+Divya Yeddu,2023-05-14,Rent,10283.0,25000.0,,Card
+Shreya Sen,2023-05-14,Miscellaneous,1626.0,18000.0,,Cash
+Krishna Rao,2023-05-14,Utilities,1724.0,30000.0,,NetBanking
+Arjun Nair,2023-05-15,Utilities,144.0,22000.0,,Cash
+Shreya Sen,2023-05-15,Travel,553.0,18000.0,,NetBanking
+Vikram Joshi,2023-05-15,Travel,291.0,25000.0,,Cash
+Sneha Kapoor,2023-05-15,Travel,363.0,18000.0,,UPI
+Tanvi Jain,2023-05-15,Food,151.0,30000.0,,UPI
+Ananya Singh,2023-05-15,Rent,6215.0,30000.0,,Card
+Ishita Roy,2023-05-15,Food,350.0,22000.0,,NetBanking
+Megha Das,2023-05-15,Utilities,1448.0,25000.0,,Cash
+Swathi Reddy,2023-05-15,Entertainment,1495.0,25000.0,,UPI
+Priya Iyer,2023-05-16,Groceries,2325.0,18000.0,,UPI
+Shreya Sen,2023-05-16,Utilities,568.0,18000.0,,Cash
+Arjun Nair,2023-05-16,Study Materials,1115.0,22000.0,,UPI
+Vivek Menon,2023-05-16,Travel,57.0,18000.0,,UPI
+Sneha Kapoor,2023-05-17,Miscellaneous,587.0,18000.0,,NetBanking
+Krishna Rao,2023-05-17,Groceries,2312.0,30000.0,,Cash
+Amit Sharma,2023-05-17,Health,2455.0,20000.0,,Cash
+Aditya Pillai,2023-05-17,Entertainment,2403.0,20000.0,,Card
+Swathi Reddy,2023-05-17,Food,130.0,25000.0,,Card
+Divya Yeddu,2023-05-17,Travel,130.0,25000.0,,Card
+Vikram Joshi,2023-05-17,Travel,241.0,25000.0,,NetBanking
+Pooja Mehta,2023-05-18,Groceries,1615.0,30000.0,,UPI
+Ishita Roy,2023-05-18,Utilities,696.0,22000.0,,NetBanking
+Pooja Mehta,2023-05-18,Utilities,2324.0,30000.0,,UPI
+Megha Das,2023-05-18,Study Materials,1802.0,25000.0,,Cash
+Harsha Patel,2023-05-18,Travel,100.0,30000.0,,Cash
+Rahul Kumar,2023-05-18,Groceries,215.0,20000.0,,Card
+Arjun Nair,2023-05-18,Miscellaneous,925.0,22000.0,,Cash
+Harsha Patel,2023-05-18,Rent,5927.0,30000.0,,NetBanking
+Arjun Nair,2023-05-18,Health,390.0,22000.0,,UPI
+Sneha Kapoor,2023-05-18,Study Materials,1308.0,18000.0,,Card
+Ishita Roy,2023-05-18,Entertainment,662.0,22000.0,,NetBanking
+Rohan Verma,2023-05-18,Health,2306.0,20000.0,,UPI
+Amit Sharma,2023-05-18,Study Materials,1270.0,20000.0,,Card
+Swathi Reddy,2023-05-19,Health,1182.0,25000.0,,Cash
+Harsha Patel,2023-05-19,Groceries,1644.0,30000.0,,Cash
+Nisha Sharma,2023-05-19,Health,2158.0,18000.0,,NetBanking
+Varun Gupta,2023-05-19,Food,131.0,20000.0,,Cash
+Priya Iyer,2023-05-19,Health,1262.0,18000.0,,Cash
+Megha Das,2023-05-19,Utilities,527.0,25000.0,,Cash
+Rohan Verma,2023-05-19,Food,247.0,20000.0,,Cash
+Ananya Singh,2023-05-19,Study Materials,668.0,30000.0,,Cash
+Swathi Reddy,2023-05-19,Travel,498.0,25000.0,,NetBanking
+Krishna Rao,2023-05-20,Food,630.0,30000.0,,Cash
+Divya Yeddu,2023-05-20,Health,2258.0,25000.0,,Cash
+Harini Bhat,2023-05-20,Miscellaneous,892.0,30000.0,,Cash
+Divya Yeddu,2023-05-20,Groceries,1542.0,25000.0,,Card
+Divya Yeddu,2023-05-21,Rent,9113.0,25000.0,,NetBanking
+Priya Iyer,2023-05-21,Groceries,1845.0,18000.0,,UPI
+Ananya Singh,2023-05-21,Groceries,1300.0,30000.0,,NetBanking
+Divya Yeddu,2023-05-21,Health,833.0,25000.0,,UPI
+Swathi Reddy,2023-05-21,Food,334.0,25000.0,,Cash
+Pooja Mehta,2023-05-21,Miscellaneous,1413.0,30000.0,,Card
+Sneha Kapoor,2023-05-21,Health,2296.0,18000.0,,Cash
+Nisha Sharma,2023-05-21,Food,304.0,18000.0,,Cash
+Divya Yeddu,2023-05-21,Health,2078.0,25000.0,,NetBanking
+Pooja Mehta,2023-05-22,Utilities,632.0,30000.0,,Cash
+Tanvi Jain,2023-05-22,Travel,522.0,30000.0,,Cash
+Harini Bhat,2023-05-22,Travel,73.0,30000.0,,Cash
+Siddharth Rao,2023-05-22,Study Materials,631.0,30000.0,,NetBanking
+Pooja Mehta,2023-05-22,Entertainment,241.0,30000.0,,NetBanking
+Krishna Rao,2023-05-22,Rent,5692.0,30000.0,,Card
+Pooja Mehta,2023-05-22,Groceries,2283.0,30000.0,,Card
+Ananya Singh,2023-05-22,Miscellaneous,1656.0,30000.0,,Card
+Priya Iyer,2023-05-22,Groceries,885.0,18000.0,,Card
+Harsha Patel,2023-05-22,Groceries,125.0,30000.0,,Cash
+Harini Bhat,2023-05-22,Utilities,1102.0,30000.0,,Cash
+Harini Bhat,2023-05-22,Miscellaneous,1175.0,30000.0,,Cash
+Aditya Pillai,2023-05-23,Food,404.0,20000.0,,Cash
+Ananya Singh,2023-05-23,Miscellaneous,2208.0,30000.0,,Card
+Divya Yeddu,2023-05-23,Health,429.0,25000.0,,NetBanking
+Amit Sharma,2023-05-23,Food,644.0,20000.0,,NetBanking
+Arjun Nair,2023-05-23,Groceries,187.0,22000.0,,UPI
+Vivek Menon,2023-05-23,Study Materials,431.0,18000.0,,NetBanking
+Varun Gupta,2023-05-23,Rent,10334.0,20000.0,,Card
+Sneha Kapoor,2023-05-23,Travel,144.0,18000.0,,Cash
+Priya Iyer,2023-05-23,Utilities,1688.0,18000.0,,UPI
+Vivek Menon,2023-05-23,Study Materials,304.0,18000.0,,Cash
+Siddharth Rao,2023-05-23,Groceries,858.0,30000.0,,Card
+Divya Yeddu,2023-05-24,Health,406.0,25000.0,,Cash
+Nisha Sharma,2023-05-24,Travel,146.0,18000.0,,Cash
+Harsha Patel,2023-05-24,Study Materials,1925.0,30000.0,,Card
+Ishita Roy,2023-05-24,Entertainment,2421.0,22000.0,,Card
+Megha Das,2023-05-24,Groceries,330.0,25000.0,,Card
+Nisha Sharma,2023-05-24,Study Materials,541.0,18000.0,,UPI
+Shreya Sen,2023-05-24,Groceries,2160.0,18000.0,,UPI
+Vikram Joshi,2023-05-24,Travel,253.0,25000.0,,Cash
+Vivek Menon,2023-05-24,Study Materials,1526.0,18000.0,,Card
+Amit Sharma,2023-05-24,Health,1596.0,20000.0,,NetBanking
+Varun Gupta,2023-05-24,Groceries,544.0,20000.0,,Cash
+Pooja Mehta,2023-05-24,Health,278.0,30000.0,,Cash
+Aditya Pillai,2023-05-25,Health,912.0,20000.0,,UPI
+Nisha Sharma,2023-05-25,Entertainment,1952.0,18000.0,,NetBanking
+Megha Das,2023-05-25,Food,388.0,25000.0,,UPI
+Aditya Pillai,2023-05-25,Groceries,738.0,20000.0,,NetBanking
+Krishna Rao,2023-05-25,Entertainment,153.0,30000.0,,Cash
+Varun Gupta,2023-05-25,Study Materials,1657.0,20000.0,,UPI
+Krishna Rao,2023-05-25,Entertainment,623.0,30000.0,,Card
+Tanvi Jain,2023-05-25,Health,1418.0,30000.0,,UPI
+Vivek Menon,2023-05-26,Food,357.0,18000.0,,Card
+Megha Das,2023-05-26,Entertainment,2438.0,25000.0,,Cash
+Vikram Joshi,2023-05-26,Travel,148.0,25000.0,,Card
+Pooja Mehta,2023-05-26,Food,461.0,30000.0,,Cash
+Swathi Reddy,2023-05-26,Food,195.0,25000.0,,Cash
+Nisha Sharma,2023-05-26,Groceries,1646.0,18000.0,,Cash
+Rohan Verma,2023-05-26,Utilities,575.0,20000.0,,Card
+Vivek Menon,2023-05-26,Entertainment,351.0,18000.0,,Card
+Aditya Pillai,2023-05-26,Groceries,1898.0,20000.0,,Cash
+Ishita Roy,2023-05-26,Travel,540.0,22000.0,,UPI
+Arjun Nair,2023-05-27,Study Materials,515.0,22000.0,,Card
+Vivek Menon,2023-05-27,Entertainment,1181.0,18000.0,,NetBanking
+Rohan Verma,2023-05-27,Study Materials,511.0,20000.0,,UPI
+Vivek Menon,2023-05-27,Entertainment,1111.0,18000.0,,NetBanking
+Divya Yeddu,2023-05-27,Utilities,1394.0,25000.0,,Cash
+Nisha Sharma,2023-05-27,Utilities,1637.0,18000.0,,NetBanking
+Siddharth Rao,2023-05-27,Study Materials,856.0,30000.0,,Card
+Nisha Sharma,2023-05-27,Entertainment,2039.0,18000.0,,UPI
+Harsha Patel,2023-05-27,Food,329.0,30000.0,,Cash
+Pooja Mehta,2023-05-27,Entertainment,400.0,30000.0,,Card
+Harsha Patel,2023-05-27,Study Materials,1024.0,30000.0,,UPI
+Varun Gupta,2023-05-28,Utilities,1211.0,20000.0,,Cash
+Swathi Reddy,2023-05-28,Food,653.0,25000.0,,UPI
+Karthik Rao,2023-05-28,Groceries,560.0,18000.0,,Cash
+Vivek Menon,2023-05-28,Miscellaneous,589.0,18000.0,,Card
+Arjun Nair,2023-05-29,Entertainment,135.0,22000.0,,UPI
+Sneha Kapoor,2023-05-29,Travel,347.0,18000.0,,UPI
+Rahul Kumar,2023-05-29,Utilities,1148.0,20000.0,,NetBanking
+Amit Sharma,2023-05-30,Entertainment,386.0,20000.0,,UPI
+Ananya Singh,2023-05-30,Miscellaneous,1153.0,30000.0,,Card
+Vivek Menon,2023-05-30,Groceries,2441.0,18000.0,,Cash
+Harini Bhat,2023-05-30,Rent,10984.0,30000.0,,Card
+Swathi Reddy,2023-05-30,Food,174.0,25000.0,,Cash
+Vivek Menon,2023-05-30,Food,457.0,18000.0,,Cash
+Priya Iyer,2023-05-31,Rent,10735.0,18000.0,,Cash
+Shreya Sen,2023-05-31,Groceries,177.0,18000.0,,UPI
+Krishna Rao,2023-05-31,Rent,4121.0,30000.0,,Cash
+Karthik Rao,2023-05-31,Groceries,565.0,18000.0,,Card
+Karthik Rao,2023-05-31,Food,341.0,18000.0,,Cash
+Rahul Kumar,2023-06-01,Travel,134.0,20000.0,,UPI
+Ananya Singh,2023-06-01,Miscellaneous,2461.0,30000.0,,Cash
+Priya Iyer,2023-06-01,Study Materials,1531.0,18000.0,,Cash
+Vivek Menon,2023-06-01,Health,477.0,18000.0,,NetBanking
+Krishna Rao,2023-06-01,Groceries,668.0,30000.0,,Card
+Karthik Rao,2023-06-01,Food,685.0,18000.0,,UPI
+Rahul Kumar,2023-06-01,Entertainment,1028.0,20000.0,,UPI
+Arjun Nair,2023-06-01,Utilities,2385.0,22000.0,,NetBanking
+Nisha Sharma,2023-06-01,Utilities,704.0,18000.0,,Cash
+Sneha Kapoor,2023-06-01,Miscellaneous,1278.0,18000.0,,UPI
+Krishna Rao,2023-06-01,Study Materials,665.0,30000.0,,UPI
+Harsha Patel,2023-06-01,Rent,9616.0,30000.0,,Cash
+Divya Yeddu,2023-06-01,Miscellaneous,1262.0,25000.0,,NetBanking
+Arjun Nair,2023-06-02,Utilities,437.0,22000.0,,NetBanking
+Ishita Roy,2023-06-02,Health,762.0,22000.0,,Cash
+Ishita Roy,2023-06-02,Study Materials,1017.0,22000.0,,NetBanking
+Arjun Nair,2023-06-02,Health,2356.0,22000.0,,UPI
+Varun Gupta,2023-06-02,Travel,477.0,20000.0,,Card
+Siddharth Rao,2023-06-02,Travel,245.0,30000.0,,UPI
+Harini Bhat,2023-06-02,Study Materials,1728.0,30000.0,,Card
+Megha Das,2023-06-02,Miscellaneous,1758.0,25000.0,,Card
+Priya Iyer,2023-06-02,Entertainment,654.0,18000.0,,Cash
+Vikram Joshi,2023-06-02,Miscellaneous,205.0,25000.0,,Cash
+Amit Sharma,2023-06-02,Rent,7171.0,20000.0,,Cash
+Divya Yeddu,2023-06-03,Study Materials,433.0,25000.0,,NetBanking
+Nisha Sharma,2023-06-03,Health,787.0,18000.0,,UPI
+Arjun Nair,2023-06-03,Food,248.0,22000.0,,UPI
+Amit Sharma,2023-06-03,Food,427.0,20000.0,,Cash
+Sneha Kapoor,2023-06-03,Food,658.0,18000.0,,Cash
+Sneha Kapoor,2023-06-03,Health,1682.0,18000.0,,NetBanking
+Pooja Mehta,2023-06-03,Health,1645.0,30000.0,,NetBanking
+Swathi Reddy,2023-06-03,Travel,509.0,25000.0,,Cash
+Varun Gupta,2023-06-03,Study Materials,1082.0,20000.0,,UPI
+Swathi Reddy,2023-06-04,Utilities,1798.0,25000.0,,NetBanking
+Nisha Sharma,2023-06-04,Food,329.0,18000.0,,UPI
+Amit Sharma,2023-06-04,Utilities,1754.0,20000.0,,NetBanking
+Karthik Rao,2023-06-04,Travel,584.0,18000.0,,NetBanking
+Ananya Singh,2023-06-04,Study Materials,897.0,30000.0,,UPI
+Swathi Reddy,2023-06-04,Food,303.0,25000.0,,NetBanking
+Ananya Singh,2023-06-04,Food,513.0,30000.0,,Cash
+Arjun Nair,2023-06-04,Groceries,1559.0,22000.0,,NetBanking
+Priya Iyer,2023-06-04,Health,938.0,18000.0,,Cash
+Swathi Reddy,2023-06-04,Groceries,1562.0,25000.0,,NetBanking
+Karthik Rao,2023-06-04,Groceries,2338.0,18000.0,,Cash
+Harini Bhat,2023-06-04,Miscellaneous,1933.0,30000.0,,NetBanking
+Shreya Sen,2023-06-05,Food,205.0,18000.0,,UPI
+Divya Yeddu,2023-06-05,Rent,5855.0,25000.0,,Cash
+Vikram Joshi,2023-06-05,Entertainment,1684.0,25000.0,,Card
+Rohan Verma,2023-06-05,Rent,7205.0,20000.0,,NetBanking
+Siddharth Rao,2023-06-05,Rent,6311.0,30000.0,,Cash
+Ananya Singh,2023-06-05,Food,438.0,30000.0,,UPI
+Ishita Roy,2023-06-05,Utilities,1153.0,22000.0,,NetBanking
+Sneha Kapoor,2023-06-05,Study Materials,302.0,18000.0,,UPI
+Rohan Verma,2023-06-05,Entertainment,1869.0,20000.0,,Cash
+Pooja Mehta,2023-06-06,Study Materials,690.0,30000.0,,UPI
+Krishna Rao,2023-06-06,Food,563.0,30000.0,,UPI
+Priya Iyer,2023-06-06,Travel,389.0,18000.0,,Card
+Ananya Singh,2023-06-06,Travel,450.0,30000.0,,UPI
+Rahul Kumar,2023-06-06,Rent,6377.0,20000.0,,Card
+Arjun Nair,2023-06-06,Health,2265.0,22000.0,,UPI
+Amit Sharma,2023-06-06,Miscellaneous,2434.0,20000.0,,NetBanking
+Rohan Verma,2023-06-06,Study Materials,625.0,20000.0,,NetBanking
+Siddharth Rao,2023-06-06,Study Materials,1485.0,30000.0,,NetBanking
+Nisha Sharma,2023-06-06,Utilities,819.0,18000.0,,UPI
+Sneha Kapoor,2023-06-06,Utilities,419.0,18000.0,,Cash
+Sneha Kapoor,2023-06-06,Food,366.0,18000.0,,NetBanking
+Vikram Joshi,2023-06-06,Miscellaneous,1320.0,25000.0,,UPI
+Ishita Roy,2023-06-07,Utilities,2203.0,22000.0,,NetBanking
+Aditya Pillai,2023-06-07,Study Materials,1089.0,20000.0,,UPI
+Tanvi Jain,2023-06-07,Study Materials,979.0,30000.0,,NetBanking
+Vikram Joshi,2023-06-07,Groceries,1364.0,25000.0,,Cash
+Vikram Joshi,2023-06-07,Study Materials,1159.0,25000.0,,Cash
+Harini Bhat,2023-06-07,Groceries,1093.0,30000.0,,NetBanking
+Sneha Kapoor,2023-06-07,Miscellaneous,1184.0,18000.0,,Cash
+Sneha Kapoor,2023-06-07,Rent,7463.0,18000.0,,Cash
+Arjun Nair,2023-06-07,Health,146.0,22000.0,,Cash
+Harini Bhat,2023-06-07,Utilities,1625.0,30000.0,,UPI
+Harini Bhat,2023-06-08,Food,560.0,30000.0,,Cash
+Tanvi Jain,2023-06-08,Study Materials,1607.0,30000.0,,Cash
+Harsha Patel,2023-06-08,Food,509.0,30000.0,,NetBanking
+Rohan Verma,2023-06-08,Miscellaneous,330.0,20000.0,,Card
+Vikram Joshi,2023-06-08,Rent,6247.0,25000.0,,Card
+Priya Iyer,2023-06-08,Entertainment,1298.0,18000.0,,UPI
+Swathi Reddy,2023-06-08,Health,1296.0,25000.0,,Cash
+Karthik Rao,2023-06-08,Rent,11118.0,18000.0,,Card
+Arjun Nair,2023-06-09,Groceries,1303.0,22000.0,,NetBanking
+Ishita Roy,2023-06-09,Travel,491.0,22000.0,,Cash
+Shreya Sen,2023-06-09,Study Materials,1312.0,18000.0,,Cash
+Aditya Pillai,2023-06-09,Groceries,2249.0,20000.0,,Cash
+Krishna Rao,2023-06-09,Entertainment,1938.0,30000.0,,Card
+Vivek Menon,2023-06-09,Rent,5415.0,18000.0,,Card
+Harsha Patel,2023-06-09,Entertainment,345.0,30000.0,,Cash
+Ananya Singh,2023-06-09,Groceries,2407.0,30000.0,,UPI
+Vikram Joshi,2023-06-10,Utilities,483.0,25000.0,,NetBanking
+Nisha Sharma,2023-06-10,Entertainment,580.0,18000.0,,Cash
+Nisha Sharma,2023-06-10,Miscellaneous,923.0,18000.0,,NetBanking
+Siddharth Rao,2023-06-10,Study Materials,1769.0,30000.0,,Cash
+Vikram Joshi,2023-06-10,Travel,530.0,25000.0,,Card
+Harsha Patel,2023-06-10,Food,537.0,30000.0,,NetBanking
+Megha Das,2023-06-10,Entertainment,1708.0,25000.0,,NetBanking
+Shreya Sen,2023-06-10,Study Materials,757.0,18000.0,,UPI
+Harini Bhat,2023-06-11,Groceries,1232.0,30000.0,,UPI
+Shreya Sen,2023-06-11,Health,1679.0,18000.0,,Card
+Rahul Kumar,2023-06-11,Miscellaneous,262.0,20000.0,,NetBanking
+Ishita Roy,2023-06-11,Groceries,839.0,22000.0,,Card
+Vikram Joshi,2023-06-11,Food,347.0,25000.0,,UPI
+Swathi Reddy,2023-06-11,Groceries,645.0,25000.0,,NetBanking
+Ishita Roy,2023-06-11,Groceries,385.0,22000.0,,NetBanking
+Nisha Sharma,2023-06-11,Utilities,2364.0,18000.0,,Card
+Tanvi Jain,2023-06-12,Entertainment,1207.0,30000.0,,NetBanking
+Sneha Kapoor,2023-06-12,Entertainment,1937.0,18000.0,,UPI
+Rahul Kumar,2023-06-12,Utilities,423.0,20000.0,,UPI
+Aditya Pillai,2023-06-12,Study Materials,1647.0,20000.0,,Card
+Siddharth Rao,2023-06-12,Health,220.0,30000.0,,NetBanking
+Ishita Roy,2023-06-12,Travel,154.0,22000.0,,Card
+Nisha Sharma,2023-06-13,Travel,395.0,18000.0,,NetBanking
+Karthik Rao,2023-06-13,Entertainment,1282.0,18000.0,,NetBanking
+Ishita Roy,2023-06-13,Miscellaneous,2034.0,22000.0,,NetBanking
+Divya Yeddu,2023-06-13,Rent,6818.0,25000.0,,UPI
+Arjun Nair,2023-06-13,Miscellaneous,1571.0,22000.0,,Cash
+Varun Gupta,2023-06-13,Utilities,1046.0,20000.0,,Card
+Krishna Rao,2023-06-13,Health,614.0,30000.0,,Card
+Tanvi Jain,2023-06-13,Groceries,1271.0,30000.0,,NetBanking
+Rohan Verma,2023-06-13,Rent,5839.0,20000.0,,Card
+Arjun Nair,2023-06-14,Entertainment,1137.0,22000.0,,Cash
+Ananya Singh,2023-06-14,Study Materials,1868.0,30000.0,,UPI
+Vivek Menon,2023-06-14,Rent,10643.0,18000.0,,UPI
+Tanvi Jain,2023-06-14,Utilities,876.0,30000.0,,NetBanking
+Harsha Patel,2023-06-14,Entertainment,1218.0,30000.0,,Card
+Vivek Menon,2023-06-14,Food,445.0,18000.0,,Card
+Nisha Sharma,2023-06-14,Travel,188.0,18000.0,,Cash
+Nisha Sharma,2023-06-14,Study Materials,1607.0,18000.0,,UPI
+Pooja Mehta,2023-06-14,Food,664.0,30000.0,,NetBanking
+Sneha Kapoor,2023-06-15,Rent,8345.0,18000.0,,UPI
+Priya Iyer,2023-06-15,Travel,170.0,18000.0,,UPI
+Swathi Reddy,2023-06-15,Travel,525.0,25000.0,,Card
+Ananya Singh,2023-06-15,Utilities,504.0,30000.0,,Cash
+Rohan Verma,2023-06-15,Entertainment,1401.0,20000.0,,NetBanking
+Varun Gupta,2023-06-15,Health,547.0,20000.0,,Cash
+Megha Das,2023-06-15,Groceries,486.0,25000.0,,Cash
+Arjun Nair,2023-06-15,Rent,8704.0,22000.0,,NetBanking
+Siddharth Rao,2023-06-15,Miscellaneous,563.0,30000.0,,Card
+Aditya Pillai,2023-06-16,Rent,6225.0,20000.0,,Cash
+Swathi Reddy,2023-06-16,Miscellaneous,297.0,25000.0,,Card
+Pooja Mehta,2023-06-16,Study Materials,686.0,30000.0,,Cash
+Sneha Kapoor,2023-06-16,Groceries,1476.0,18000.0,,Card
+Varun Gupta,2023-06-16,Rent,6821.0,20000.0,,Cash
+Nisha Sharma,2023-06-16,Travel,304.0,18000.0,,NetBanking
+Pooja Mehta,2023-06-16,Rent,11136.0,30000.0,,Card
+Tanvi Jain,2023-06-16,Rent,7841.0,30000.0,,Cash
+Pooja Mehta,2023-06-16,Health,1854.0,30000.0,,Cash
+Karthik Rao,2023-06-16,Utilities,1860.0,18000.0,,Card
+Megha Das,2023-06-16,Travel,271.0,25000.0,,NetBanking
+Ishita Roy,2023-06-16,Rent,4212.0,22000.0,,Card
+Sneha Kapoor,2023-06-17,Utilities,267.0,18000.0,,NetBanking
+Megha Das,2023-06-17,Entertainment,576.0,25000.0,,Card
+Shreya Sen,2023-06-17,Rent,8222.0,18000.0,,Cash
+Megha Das,2023-06-17,Health,2240.0,25000.0,,Card
+Tanvi Jain,2023-06-17,Health,791.0,30000.0,,NetBanking
+Megha Das,2023-06-17,Rent,8323.0,25000.0,,NetBanking
+Swathi Reddy,2023-06-17,Food,227.0,25000.0,,Card
+Harini Bhat,2023-06-17,Miscellaneous,1714.0,30000.0,,Card
+Divya Yeddu,2023-06-17,Study Materials,1330.0,25000.0,,UPI
+Harsha Patel,2023-06-17,Rent,4805.0,30000.0,,UPI
+Ishita Roy,2023-06-17,Food,657.0,22000.0,,NetBanking
+Harsha Patel,2023-06-17,Food,490.0,30000.0,,UPI
+Amit Sharma,2023-06-18,Health,2392.0,20000.0,,Cash
+Arjun Nair,2023-06-18,Utilities,1776.0,22000.0,,NetBanking
+Vikram Joshi,2023-06-18,Groceries,1100.0,25000.0,,Cash
+Vivek Menon,2023-06-18,Miscellaneous,138.0,18000.0,,Card
+Priya Iyer,2023-06-18,Food,147.0,18000.0,,Card
+Krishna Rao,2023-06-18,Study Materials,1955.0,30000.0,,UPI
+Ananya Singh,2023-06-18,Entertainment,122.0,30000.0,,Cash
+Vikram Joshi,2023-06-18,Health,1760.0,25000.0,,NetBanking
+Vikram Joshi,2023-06-19,Food,168.0,25000.0,,Cash
+Amit Sharma,2023-06-19,Entertainment,2372.0,20000.0,,NetBanking
+Sneha Kapoor,2023-06-19,Health,1314.0,18000.0,,Card
+Varun Gupta,2023-06-19,Rent,4635.0,20000.0,,Card
+Swathi Reddy,2023-06-19,Miscellaneous,137.0,25000.0,,Cash
+Harsha Patel,2023-06-19,Miscellaneous,546.0,30000.0,,Cash
+Harini Bhat,2023-06-19,Food,618.0,30000.0,,UPI
+Ananya Singh,2023-06-20,Travel,193.0,30000.0,,NetBanking
+Harsha Patel,2023-06-20,Rent,11590.0,30000.0,,UPI
+Harini Bhat,2023-06-20,Entertainment,859.0,30000.0,,Cash
+Tanvi Jain,2023-06-20,Miscellaneous,2242.0,30000.0,,UPI
+Shreya Sen,2023-06-20,Health,1169.0,18000.0,,Card
+Divya Yeddu,2023-06-20,Study Materials,700.0,25000.0,,Card
+Vikram Joshi,2023-06-20,Study Materials,584.0,25000.0,,NetBanking
+Vikram Joshi,2023-06-20,Food,498.0,25000.0,,UPI
+Shreya Sen,2023-06-21,Study Materials,1873.0,18000.0,,Card
+Siddharth Rao,2023-06-21,Miscellaneous,2456.0,30000.0,,NetBanking
+Karthik Rao,2023-06-21,Study Materials,1444.0,18000.0,,Card
+Amit Sharma,2023-06-21,Rent,4799.0,20000.0,,Cash
+Vivek Menon,2023-06-21,Travel,528.0,18000.0,,Cash
+Shreya Sen,2023-06-22,Utilities,1143.0,18000.0,,Cash
+Ananya Singh,2023-06-22,Groceries,906.0,30000.0,,NetBanking
+Harini Bhat,2023-06-22,Utilities,2329.0,30000.0,,UPI
+Ananya Singh,2023-06-22,Miscellaneous,1974.0,30000.0,,NetBanking
+Krishna Rao,2023-06-22,Entertainment,1471.0,30000.0,,UPI
+Nisha Sharma,2023-06-22,Rent,8620.0,18000.0,,Cash
+Vikram Joshi,2023-06-22,Miscellaneous,1445.0,25000.0,,Cash
+Shreya Sen,2023-06-22,Entertainment,561.0,18000.0,,Card
+Sneha Kapoor,2023-06-22,Study Materials,1758.0,18000.0,,UPI
+Ishita Roy,2023-06-23,Utilities,263.0,22000.0,,UPI
+Aditya Pillai,2023-06-23,Rent,5909.0,20000.0,,UPI
+Karthik Rao,2023-06-23,Food,671.0,18000.0,,Cash
+Karthik Rao,2023-06-24,Travel,525.0,18000.0,,UPI
+Ananya Singh,2023-06-24,Rent,8168.0,30000.0,,Card
+Priya Iyer,2023-06-24,Study Materials,1884.0,18000.0,,NetBanking
+Megha Das,2023-06-24,Groceries,1792.0,25000.0,,NetBanking
+Megha Das,2023-06-24,Groceries,2296.0,25000.0,,Card
+Nisha Sharma,2023-06-24,Health,2028.0,18000.0,,Cash
+Divya Yeddu,2023-06-24,Food,659.0,25000.0,,Card
+Priya Iyer,2023-06-25,Study Materials,1605.0,18000.0,,Card
+Vikram Joshi,2023-06-25,Groceries,2325.0,25000.0,,Cash
+Swathi Reddy,2023-06-25,Food,307.0,25000.0,,Cash
+Harini Bhat,2023-06-25,Study Materials,1748.0,30000.0,,Cash
+Aditya Pillai,2023-06-25,Food,526.0,20000.0,,Cash
+Vivek Menon,2023-06-25,Travel,132.0,18000.0,,Cash
+Rahul Kumar,2023-06-26,Rent,4988.0,20000.0,,Card
+Siddharth Rao,2023-06-26,Miscellaneous,566.0,30000.0,,UPI
+Pooja Mehta,2023-06-26,Travel,560.0,30000.0,,Cash
+Karthik Rao,2023-06-26,Study Materials,1848.0,18000.0,,NetBanking
+Harsha Patel,2023-06-26,Health,167.0,30000.0,,Card
+Sneha Kapoor,2023-06-26,Rent,6261.0,18000.0,,UPI
+Harini Bhat,2023-06-27,Entertainment,438.0,30000.0,,NetBanking
+Divya Yeddu,2023-06-27,Entertainment,2322.0,25000.0,,NetBanking
+Priya Iyer,2023-06-27,Food,537.0,18000.0,,UPI
+Shreya Sen,2023-06-27,Travel,591.0,18000.0,,NetBanking
+Tanvi Jain,2023-06-27,Health,2149.0,30000.0,,UPI
+Siddharth Rao,2023-06-27,Food,266.0,30000.0,,UPI
+Harini Bhat,2023-06-27,Utilities,2293.0,30000.0,,Cash
+Arjun Nair,2023-06-27,Rent,10303.0,22000.0,,NetBanking
+Ananya Singh,2023-06-28,Miscellaneous,2134.0,30000.0,,NetBanking
+Priya Iyer,2023-06-28,Utilities,1935.0,18000.0,,NetBanking
+Shreya Sen,2023-06-28,Travel,382.0,18000.0,,Card
+Karthik Rao,2023-06-28,Health,2363.0,18000.0,,UPI
+Amit Sharma,2023-06-28,Rent,10593.0,20000.0,,Card
+Pooja Mehta,2023-06-28,Miscellaneous,823.0,30000.0,,Cash
+Arjun Nair,2023-06-28,Health,447.0,22000.0,,Card
+Vivek Menon,2023-06-28,Utilities,1331.0,18000.0,,NetBanking
+Divya Yeddu,2023-06-28,Utilities,1387.0,25000.0,,Cash
+Priya Iyer,2023-06-28,Utilities,1225.0,18000.0,,NetBanking
+Varun Gupta,2023-06-28,Study Materials,523.0,20000.0,,NetBanking
+Priya Iyer,2023-06-29,Groceries,236.0,18000.0,,Cash
+Krishna Rao,2023-06-29,Study Materials,1922.0,30000.0,,Card
+Karthik Rao,2023-06-29,Utilities,1566.0,18000.0,,Card
+Rahul Kumar,2023-06-29,Health,2398.0,20000.0,,Cash
+Amit Sharma,2023-06-29,Health,1450.0,20000.0,,Card
+Varun Gupta,2023-06-29,Travel,236.0,20000.0,,Card
+Pooja Mehta,2023-06-29,Entertainment,992.0,30000.0,,Cash
+Siddharth Rao,2023-06-30,Study Materials,882.0,30000.0,,NetBanking
+Rohan Verma,2023-06-30,Food,592.0,20000.0,,NetBanking
+Vivek Menon,2023-06-30,Utilities,1446.0,18000.0,,Card
+Megha Das,2023-06-30,Health,1421.0,25000.0,,Cash
+Rahul Kumar,2023-06-30,Travel,76.0,20000.0,,Cash
+Tanvi Jain,2023-06-30,Entertainment,156.0,30000.0,,UPI
+Divya Yeddu,2023-06-30,Food,478.0,25000.0,,UPI
+Arjun Nair,2023-06-30,Utilities,1850.0,22000.0,,Cash
+Rohan Verma,2023-07-01,Groceries,1441.0,20000.0,,Card
+Harsha Patel,2023-07-01,Miscellaneous,908.0,30000.0,,Cash
+Priya Iyer,2023-07-01,Miscellaneous,1688.0,18000.0,,NetBanking
+Harsha Patel,2023-07-01,Travel,63.0,30000.0,,Cash
+Amit Sharma,2023-07-01,Groceries,1173.0,20000.0,,Cash
+Pooja Mehta,2023-07-01,Travel,59.0,30000.0,,Cash
+Varun Gupta,2023-07-01,Miscellaneous,712.0,20000.0,,Card
+Rahul Kumar,2023-07-01,Groceries,1612.0,20000.0,,UPI
+Rohan Verma,2023-07-02,Utilities,1479.0,20000.0,,NetBanking
+Varun Gupta,2023-07-02,Food,136.0,20000.0,,Cash
+Ananya Singh,2023-07-02,Entertainment,1431.0,30000.0,,NetBanking
+Vivek Menon,2023-07-02,Food,549.0,18000.0,,NetBanking
+Karthik Rao,2023-07-02,Groceries,2123.0,18000.0,,NetBanking
+Divya Yeddu,2023-07-02,Entertainment,2024.0,25000.0,,Card
+Rohan Verma,2023-07-02,Utilities,264.0,20000.0,,Card
+Ishita Roy,2023-07-02,Food,277.0,22000.0,,Card
+Aditya Pillai,2023-07-02,Groceries,1510.0,20000.0,,UPI
+Vivek Menon,2023-07-02,Travel,532.0,18000.0,,UPI
+Aditya Pillai,2023-07-02,Rent,6365.0,20000.0,,Cash
+Tanvi Jain,2023-07-02,Food,209.0,30000.0,,Card
+Divya Yeddu,2023-07-03,Utilities,2405.0,25000.0,,Cash
+Tanvi Jain,2023-07-03,Entertainment,371.0,30000.0,,UPI
+Harini Bhat,2023-07-04,Travel,117.0,30000.0,,UPI
+Amit Sharma,2023-07-04,Travel,501.0,20000.0,,NetBanking
+Ananya Singh,2023-07-04,Miscellaneous,2143.0,30000.0,,UPI
+Aditya Pillai,2023-07-04,Health,2253.0,20000.0,,UPI
+Amit Sharma,2023-07-04,Health,1613.0,20000.0,,NetBanking
+Varun Gupta,2023-07-04,Health,1910.0,20000.0,,Cash
+Vivek Menon,2023-07-04,Rent,8290.0,18000.0,,NetBanking
+Varun Gupta,2023-07-04,Study Materials,573.0,20000.0,,UPI
+Siddharth Rao,2023-07-04,Study Materials,630.0,30000.0,,Card
+Varun Gupta,2023-07-04,Health,1819.0,20000.0,,Cash
+Amit Sharma,2023-07-04,Groceries,277.0,20000.0,,UPI
+Siddharth Rao,2023-07-04,Rent,9533.0,30000.0,,Cash
+Harsha Patel,2023-07-05,Health,806.0,30000.0,,UPI
+Arjun Nair,2023-07-05,Travel,375.0,22000.0,,UPI
+Vivek Menon,2023-07-05,Miscellaneous,877.0,18000.0,,UPI
+Pooja Mehta,2023-07-05,Groceries,1848.0,30000.0,,UPI
+Tanvi Jain,2023-07-05,Miscellaneous,948.0,30000.0,,UPI
+Sneha Kapoor,2023-07-05,Food,374.0,18000.0,,NetBanking
+Aditya Pillai,2023-07-05,Miscellaneous,1706.0,20000.0,,Card
+Rohan Verma,2023-07-05,Utilities,692.0,20000.0,,NetBanking
+Aditya Pillai,2023-07-05,Utilities,277.0,20000.0,,Cash
+Vikram Joshi,2023-07-06,Entertainment,254.0,25000.0,,Cash
+Ananya Singh,2023-07-06,Travel,585.0,30000.0,,UPI
+Aditya Pillai,2023-07-06,Health,1163.0,20000.0,,UPI
+Ananya Singh,2023-07-06,Travel,347.0,30000.0,,UPI
+Vivek Menon,2023-07-06,Groceries,2116.0,18000.0,,NetBanking
+Divya Yeddu,2023-07-06,Entertainment,173.0,25000.0,,Cash
+Aditya Pillai,2023-07-07,Entertainment,1246.0,20000.0,,Cash
+Amit Sharma,2023-07-07,Entertainment,1637.0,20000.0,,NetBanking
+Tanvi Jain,2023-07-07,Study Materials,796.0,30000.0,,UPI
+Siddharth Rao,2023-07-07,Study Materials,1844.0,30000.0,,UPI
+Sneha Kapoor,2023-07-07,Study Materials,844.0,18000.0,,Card
+Shreya Sen,2023-07-07,Food,502.0,18000.0,,Cash
+Amit Sharma,2023-07-07,Utilities,2299.0,20000.0,,UPI
+Rahul Kumar,2023-07-07,Utilities,990.0,20000.0,,Cash
+Harsha Patel,2023-07-07,Health,2268.0,30000.0,,Cash
+Priya Iyer,2023-07-07,Miscellaneous,967.0,18000.0,,NetBanking
+Rahul Kumar,2023-07-07,Study Materials,627.0,20000.0,,Card
+Swathi Reddy,2023-07-07,Food,535.0,25000.0,,NetBanking
+Swathi Reddy,2023-07-07,Food,491.0,25000.0,,Cash
+Rahul Kumar,2023-07-08,Groceries,1251.0,20000.0,,Cash
+Swathi Reddy,2023-07-08,Entertainment,330.0,25000.0,,NetBanking
+Ananya Singh,2023-07-08,Groceries,1595.0,30000.0,,Cash
+Divya Yeddu,2023-07-08,Groceries,1057.0,25000.0,,Card
+Ananya Singh,2023-07-08,Utilities,2054.0,30000.0,,Cash
+Vikram Joshi,2023-07-08,Groceries,865.0,25000.0,,Card
+Harsha Patel,2023-07-08,Entertainment,1722.0,30000.0,,NetBanking
+Harsha Patel,2023-07-08,Health,2436.0,30000.0,,Cash
+Sneha Kapoor,2023-07-08,Health,1646.0,18000.0,,Card
+Rahul Kumar,2023-07-09,Entertainment,1517.0,20000.0,,UPI
+Sneha Kapoor,2023-07-09,Entertainment,1426.0,18000.0,,UPI
+Amit Sharma,2023-07-09,Rent,6528.0,20000.0,,NetBanking
+Harini Bhat,2023-07-09,Food,254.0,30000.0,,Card
+Arjun Nair,2023-07-10,Miscellaneous,1634.0,22000.0,,Cash
+Rohan Verma,2023-07-10,Entertainment,1624.0,20000.0,,NetBanking
+Pooja Mehta,2023-07-10,Groceries,116.0,30000.0,,Cash
+Karthik Rao,2023-07-10,Entertainment,2190.0,18000.0,,Card
+Harini Bhat,2023-07-11,Utilities,1454.0,30000.0,,UPI
+Karthik Rao,2023-07-11,Study Materials,890.0,18000.0,,NetBanking
+Aditya Pillai,2023-07-11,Study Materials,743.0,20000.0,,NetBanking
+Nisha Sharma,2023-07-11,Travel,128.0,18000.0,,NetBanking
+Priya Iyer,2023-07-11,Utilities,742.0,18000.0,,Card
+Ananya Singh,2023-07-11,Health,196.0,30000.0,,Cash
+Sneha Kapoor,2023-07-11,Miscellaneous,2377.0,18000.0,,Cash
+Nisha Sharma,2023-07-11,Travel,369.0,18000.0,,UPI
+Vikram Joshi,2023-07-11,Utilities,1161.0,25000.0,,NetBanking
+Rahul Kumar,2023-07-11,Travel,235.0,20000.0,,Card
+Ananya Singh,2023-07-11,Health,345.0,30000.0,,Cash
+Shreya Sen,2023-07-11,Study Materials,749.0,18000.0,,UPI
+Tanvi Jain,2023-07-11,Groceries,2308.0,30000.0,,NetBanking
+Shreya Sen,2023-07-11,Groceries,2044.0,18000.0,,UPI
+Ishita Roy,2023-07-11,Groceries,597.0,22000.0,,UPI
+Vikram Joshi,2023-07-11,Groceries,1210.0,25000.0,,NetBanking
+Harini Bhat,2023-07-11,Food,359.0,30000.0,,UPI
+Megha Das,2023-07-11,Health,433.0,25000.0,,Cash
+Ananya Singh,2023-07-12,Travel,311.0,30000.0,,Card
+Ananya Singh,2023-07-12,Health,1502.0,30000.0,,Card
+Siddharth Rao,2023-07-12,Health,1798.0,30000.0,,Cash
+Harsha Patel,2023-07-12,Study Materials,428.0,30000.0,,Card
+Megha Das,2023-07-12,Groceries,1918.0,25000.0,,NetBanking
+Sneha Kapoor,2023-07-12,Groceries,1073.0,18000.0,,UPI
+Shreya Sen,2023-07-12,Utilities,795.0,18000.0,,UPI
+Tanvi Jain,2023-07-12,Miscellaneous,533.0,30000.0,,Card
+Amit Sharma,2023-07-12,Study Materials,488.0,20000.0,,Card
+Priya Iyer,2023-07-13,Utilities,720.0,18000.0,,UPI
+Swathi Reddy,2023-07-13,Groceries,372.0,25000.0,,Cash
+Megha Das,2023-07-13,Food,498.0,25000.0,,NetBanking
+Priya Iyer,2023-07-14,Miscellaneous,2367.0,18000.0,,NetBanking
+Megha Das,2023-07-14,Travel,199.0,25000.0,,NetBanking
+Harsha Patel,2023-07-14,Food,299.0,30000.0,,UPI
+Shreya Sen,2023-07-14,Utilities,704.0,18000.0,,Card
+Varun Gupta,2023-07-14,Study Materials,522.0,20000.0,,Card
+Harini Bhat,2023-07-14,Travel,491.0,30000.0,,Cash
+Siddharth Rao,2023-07-14,Miscellaneous,1443.0,30000.0,,Card
+Krishna Rao,2023-07-15,Health,538.0,30000.0,,Cash
+Divya Yeddu,2023-07-15,Utilities,1553.0,25000.0,,UPI
+Divya Yeddu,2023-07-15,Travel,187.0,25000.0,,Cash
+Amit Sharma,2023-07-15,Utilities,937.0,20000.0,,NetBanking
+Sneha Kapoor,2023-07-15,Miscellaneous,616.0,18000.0,,Card
+Nisha Sharma,2023-07-15,Travel,262.0,18000.0,,UPI
+Priya Iyer,2023-07-15,Food,340.0,18000.0,,NetBanking
+Rahul Kumar,2023-07-15,Food,336.0,20000.0,,Card
+Priya Iyer,2023-07-15,Food,293.0,18000.0,,UPI
+Vikram Joshi,2023-07-15,Food,174.0,25000.0,,NetBanking
+Tanvi Jain,2023-07-15,Food,632.0,30000.0,,NetBanking
+Varun Gupta,2023-07-15,Utilities,379.0,20000.0,,UPI
+Tanvi Jain,2023-07-15,Study Materials,1031.0,30000.0,,Cash
+Ishita Roy,2023-07-15,Rent,4059.0,22000.0,,Cash
+Ananya Singh,2023-07-16,Utilities,1970.0,30000.0,,UPI
+Ishita Roy,2023-07-16,Food,503.0,22000.0,,NetBanking
+Siddharth Rao,2023-07-16,Miscellaneous,1255.0,30000.0,,NetBanking
+Ishita Roy,2023-07-16,Study Materials,808.0,22000.0,,Cash
+Ishita Roy,2023-07-16,Study Materials,479.0,22000.0,,UPI
+Priya Iyer,2023-07-16,Groceries,1586.0,18000.0,,Card
+Sneha Kapoor,2023-07-16,Entertainment,2040.0,18000.0,,Cash
+Nisha Sharma,2023-07-16,Study Materials,1177.0,18000.0,,NetBanking
+Vikram Joshi,2023-07-16,Food,483.0,25000.0,,Card
+Vivek Menon,2023-07-16,Travel,451.0,18000.0,,NetBanking
+Pooja Mehta,2023-07-17,Entertainment,2316.0,30000.0,,UPI
+Harini Bhat,2023-07-17,Health,522.0,30000.0,,Cash
+Priya Iyer,2023-07-17,Food,104.0,18000.0,,UPI
+Nisha Sharma,2023-07-17,Utilities,1902.0,18000.0,,NetBanking
+Siddharth Rao,2023-07-17,Utilities,2161.0,30000.0,,NetBanking
+Megha Das,2023-07-17,Groceries,1410.0,25000.0,,Cash
+Siddharth Rao,2023-07-17,Health,2219.0,30000.0,,UPI
+Tanvi Jain,2023-07-17,Study Materials,769.0,30000.0,,Card
+Aditya Pillai,2023-07-17,Miscellaneous,731.0,20000.0,,UPI
+Aditya Pillai,2023-07-17,Food,437.0,20000.0,,Cash
+Vivek Menon,2023-07-18,Travel,115.0,18000.0,,UPI
+Sneha Kapoor,2023-07-18,Groceries,1319.0,18000.0,,NetBanking
+Ishita Roy,2023-07-18,Study Materials,612.0,22000.0,,Card
+Harini Bhat,2023-07-18,Food,410.0,30000.0,,Cash
+Aditya Pillai,2023-07-18,Study Materials,1558.0,20000.0,,Cash
+Harsha Patel,2023-07-18,Entertainment,2129.0,30000.0,,Card
+Sneha Kapoor,2023-07-18,Miscellaneous,693.0,18000.0,,Card
+Ishita Roy,2023-07-18,Study Materials,1566.0,22000.0,,Card
+Nisha Sharma,2023-07-18,Food,283.0,18000.0,,UPI
+Ishita Roy,2023-07-19,Food,663.0,22000.0,,UPI
+Harini Bhat,2023-07-19,Groceries,1398.0,30000.0,,Card
+Rohan Verma,2023-07-19,Study Materials,887.0,20000.0,,UPI
+Harini Bhat,2023-07-19,Travel,589.0,30000.0,,Card
+Nisha Sharma,2023-07-19,Rent,9631.0,18000.0,,NetBanking
+Siddharth Rao,2023-07-19,Miscellaneous,624.0,30000.0,,Card
+Sneha Kapoor,2023-07-19,Food,284.0,18000.0,,Card
+Arjun Nair,2023-07-19,Rent,11164.0,22000.0,,NetBanking
+Karthik Rao,2023-07-19,Travel,335.0,18000.0,,UPI
+Harsha Patel,2023-07-19,Travel,97.0,30000.0,,Card
+Ishita Roy,2023-07-19,Utilities,883.0,22000.0,,UPI
+Tanvi Jain,2023-07-19,Groceries,1896.0,30000.0,,Card
+Harini Bhat,2023-07-19,Food,191.0,30000.0,,Card
+Ishita Roy,2023-07-19,Health,473.0,22000.0,,Card
+Vivek Menon,2023-07-19,Groceries,451.0,18000.0,,NetBanking
+Harini Bhat,2023-07-20,Rent,10457.0,30000.0,,NetBanking
+Ananya Singh,2023-07-20,Travel,572.0,30000.0,,UPI
+Vikram Joshi,2023-07-20,Travel,457.0,25000.0,,Cash
+Rahul Kumar,2023-07-20,Travel,144.0,20000.0,,NetBanking
+Ishita Roy,2023-07-20,Health,403.0,22000.0,,Cash
+Amit Sharma,2023-07-20,Health,821.0,20000.0,,NetBanking
+Harsha Patel,2023-07-20,Travel,494.0,30000.0,,UPI
+Aditya Pillai,2023-07-21,Utilities,886.0,20000.0,,Card
+Rahul Kumar,2023-07-21,Miscellaneous,2485.0,20000.0,,Card
+Varun Gupta,2023-07-21,Rent,4929.0,20000.0,,Card
+Harsha Patel,2023-07-21,Utilities,1819.0,30000.0,,NetBanking
+Priya Iyer,2023-07-22,Entertainment,1599.0,18000.0,,Card
+Pooja Mehta,2023-07-22,Travel,452.0,30000.0,,NetBanking
+Ishita Roy,2023-07-22,Entertainment,634.0,22000.0,,Card
+Amit Sharma,2023-07-22,Utilities,1229.0,20000.0,,Cash
+Amit Sharma,2023-07-22,Health,1171.0,20000.0,,Cash
+Divya Yeddu,2023-07-22,Rent,7916.0,25000.0,,Card
+Varun Gupta,2023-07-23,Travel,352.0,20000.0,,Cash
+Karthik Rao,2023-07-23,Travel,418.0,18000.0,,Card
+Harsha Patel,2023-07-23,Food,272.0,30000.0,,NetBanking
+Arjun Nair,2023-07-24,Study Materials,1900.0,22000.0,,UPI
+Rahul Kumar,2023-07-24,Utilities,671.0,20000.0,,Cash
+Ishita Roy,2023-07-24,Health,979.0,22000.0,,Cash
+Megha Das,2023-07-24,Study Materials,1667.0,25000.0,,NetBanking
+Nisha Sharma,2023-07-24,Rent,8102.0,18000.0,,Card
+Harini Bhat,2023-07-24,Entertainment,2414.0,30000.0,,Cash
+Swathi Reddy,2023-07-24,Travel,448.0,25000.0,,UPI
+Harsha Patel,2023-07-24,Utilities,343.0,30000.0,,Card
+Aditya Pillai,2023-07-24,Miscellaneous,634.0,20000.0,,UPI
+Karthik Rao,2023-07-24,Entertainment,2024.0,18000.0,,Card
+Rahul Kumar,2023-07-24,Rent,5073.0,20000.0,,UPI
+Sneha Kapoor,2023-07-25,Rent,5529.0,18000.0,,Card
+Siddharth Rao,2023-07-25,Travel,591.0,30000.0,,Card
+Pooja Mehta,2023-07-25,Utilities,791.0,30000.0,,UPI
+Sneha Kapoor,2023-07-25,Food,125.0,18000.0,,Card
+Swathi Reddy,2023-07-25,Food,505.0,25000.0,,Cash
+Vivek Menon,2023-07-25,Rent,7609.0,18000.0,,Cash
+Aditya Pillai,2023-07-25,Groceries,1269.0,20000.0,,Card
+Rohan Verma,2023-07-26,Health,1032.0,20000.0,,Cash
+Divya Yeddu,2023-07-26,Entertainment,1949.0,25000.0,,Card
+Swathi Reddy,2023-07-26,Groceries,1180.0,25000.0,,NetBanking
+Harsha Patel,2023-07-26,Rent,11863.0,30000.0,,Cash
+Krishna Rao,2023-07-26,Study Materials,857.0,30000.0,,Cash
+Pooja Mehta,2023-07-26,Utilities,1586.0,30000.0,,Cash
+Ananya Singh,2023-07-26,Study Materials,979.0,30000.0,,NetBanking
+Aditya Pillai,2023-07-27,Utilities,1114.0,20000.0,,Cash
+Sneha Kapoor,2023-07-27,Utilities,1620.0,18000.0,,NetBanking
+Sneha Kapoor,2023-07-27,Study Materials,988.0,18000.0,,Card
+Tanvi Jain,2023-07-27,Groceries,2264.0,30000.0,,NetBanking
+Sneha Kapoor,2023-07-27,Food,642.0,18000.0,,Card
+Varun Gupta,2023-07-27,Entertainment,1030.0,20000.0,,NetBanking
+Krishna Rao,2023-07-27,Miscellaneous,694.0,30000.0,,Cash
+Vikram Joshi,2023-07-27,Groceries,1922.0,25000.0,,UPI
+Siddharth Rao,2023-07-28,Rent,11442.0,30000.0,,NetBanking
+Sneha Kapoor,2023-07-28,Utilities,477.0,18000.0,,UPI
+Vikram Joshi,2023-07-28,Travel,163.0,25000.0,,UPI
+Siddharth Rao,2023-07-28,Rent,9291.0,30000.0,,Card
+Vivek Menon,2023-07-28,Entertainment,986.0,18000.0,,UPI
+Nisha Sharma,2023-07-28,Miscellaneous,1214.0,18000.0,,Card
+Arjun Nair,2023-07-28,Groceries,2451.0,22000.0,,Card
+Harsha Patel,2023-07-28,Miscellaneous,1015.0,30000.0,,Cash
+Swathi Reddy,2023-07-28,Groceries,131.0,25000.0,,NetBanking
+Aditya Pillai,2023-07-29,Utilities,901.0,20000.0,,Cash
+Arjun Nair,2023-07-29,Food,572.0,22000.0,,NetBanking
+Harsha Patel,2023-07-29,Travel,541.0,30000.0,,UPI
+Ananya Singh,2023-07-29,Health,284.0,30000.0,,NetBanking
+Nisha Sharma,2023-07-29,Health,2077.0,18000.0,,NetBanking
+Rohan Verma,2023-07-29,Miscellaneous,2286.0,20000.0,,Cash
+Ishita Roy,2023-07-29,Rent,4444.0,22000.0,,UPI
+Karthik Rao,2023-07-29,Study Materials,362.0,18000.0,,Card
+Priya Iyer,2023-07-29,Entertainment,828.0,18000.0,,UPI
+Shreya Sen,2023-07-29,Entertainment,953.0,18000.0,,NetBanking
+Swathi Reddy,2023-07-30,Health,1703.0,25000.0,,UPI
+Shreya Sen,2023-07-30,Groceries,2440.0,18000.0,,UPI
+Sneha Kapoor,2023-07-30,Entertainment,219.0,18000.0,,UPI
+Pooja Mehta,2023-07-30,Travel,205.0,30000.0,,UPI
+Harini Bhat,2023-07-30,Rent,9975.0,30000.0,,Cash
+Amit Sharma,2023-07-30,Miscellaneous,988.0,20000.0,,Cash
+Krishna Rao,2023-07-30,Health,1574.0,30000.0,,Card
+Sneha Kapoor,2023-07-30,Travel,465.0,18000.0,,UPI
+Aditya Pillai,2023-07-30,Entertainment,718.0,20000.0,,UPI
+Arjun Nair,2023-07-30,Rent,11590.0,22000.0,,NetBanking
+Shreya Sen,2023-07-31,Entertainment,1556.0,18000.0,,Card
+Priya Iyer,2023-07-31,Miscellaneous,1125.0,18000.0,,Card
+Karthik Rao,2023-07-31,Miscellaneous,2245.0,18000.0,,UPI
+Sneha Kapoor,2023-07-31,Miscellaneous,2232.0,18000.0,,UPI
+Ishita Roy,2023-07-31,Entertainment,983.0,22000.0,,Cash
+Sneha Kapoor,2023-07-31,Groceries,661.0,18000.0,,Card
+Krishna Rao,2023-07-31,Entertainment,2449.0,30000.0,,UPI
+Varun Gupta,2023-08-01,Miscellaneous,1242.0,20000.0,,UPI
+Sneha Kapoor,2023-08-01,Study Materials,1253.0,18000.0,,NetBanking
+Harini Bhat,2023-08-01,Food,159.0,30000.0,,NetBanking
+Ishita Roy,2023-08-01,Entertainment,1053.0,22000.0,,Cash
+Rohan Verma,2023-08-01,Rent,10813.0,20000.0,,UPI
+Rahul Kumar,2023-08-01,Health,197.0,20000.0,,Card
+Arjun Nair,2023-08-02,Utilities,780.0,22000.0,,NetBanking
+Harsha Patel,2023-08-02,Rent,11379.0,30000.0,,NetBanking
+Siddharth Rao,2023-08-02,Health,647.0,30000.0,,NetBanking
+Nisha Sharma,2023-08-02,Travel,66.0,18000.0,,UPI
+Megha Das,2023-08-02,Entertainment,839.0,25000.0,,UPI
+Siddharth Rao,2023-08-02,Travel,501.0,30000.0,,Card
+Krishna Rao,2023-08-02,Study Materials,922.0,30000.0,,NetBanking
+Priya Iyer,2023-08-02,Entertainment,452.0,18000.0,,UPI
+Varun Gupta,2023-08-02,Food,218.0,20000.0,,Cash
+Divya Yeddu,2023-08-02,Rent,10838.0,25000.0,,Card
+Shreya Sen,2023-08-02,Entertainment,1867.0,18000.0,,Card
+Varun Gupta,2023-08-02,Groceries,1094.0,20000.0,,Cash
+Vikram Joshi,2023-08-02,Study Materials,1570.0,25000.0,,NetBanking
+Arjun Nair,2023-08-03,Miscellaneous,355.0,22000.0,,Card
+Nisha Sharma,2023-08-03,Rent,5346.0,18000.0,,NetBanking
+Siddharth Rao,2023-08-03,Utilities,1744.0,30000.0,,NetBanking
+Divya Yeddu,2023-08-03,Rent,10179.0,25000.0,,NetBanking
+Swathi Reddy,2023-08-03,Groceries,1447.0,25000.0,,Card
+Megha Das,2023-08-03,Travel,531.0,25000.0,,Cash
+Siddharth Rao,2023-08-03,Miscellaneous,2342.0,30000.0,,UPI
+Vivek Menon,2023-08-03,Miscellaneous,1311.0,18000.0,,Cash
+Amit Sharma,2023-08-03,Study Materials,1925.0,20000.0,,UPI
+Amit Sharma,2023-08-03,Health,681.0,20000.0,,Cash
+Swathi Reddy,2023-08-04,Rent,8313.0,25000.0,,NetBanking
+Sneha Kapoor,2023-08-04,Food,128.0,18000.0,,Card
+Krishna Rao,2023-08-04,Study Materials,503.0,30000.0,,Cash
+Megha Das,2023-08-04,Entertainment,798.0,25000.0,,UPI
+Divya Yeddu,2023-08-04,Miscellaneous,1377.0,25000.0,,Cash
+Krishna Rao,2023-08-05,Utilities,1307.0,30000.0,,Cash
+Harsha Patel,2023-08-05,Groceries,1227.0,30000.0,,UPI
+Varun Gupta,2023-08-05,Miscellaneous,2399.0,20000.0,,UPI
+Siddharth Rao,2023-08-05,Study Materials,1964.0,30000.0,,UPI
+Aditya Pillai,2023-08-05,Groceries,1187.0,20000.0,,Card
+Aditya Pillai,2023-08-05,Rent,11243.0,20000.0,,NetBanking
+Swathi Reddy,2023-08-05,Food,258.0,25000.0,,UPI
+Tanvi Jain,2023-08-05,Rent,11754.0,30000.0,,UPI
+Ananya Singh,2023-08-05,Groceries,373.0,30000.0,,Cash
+Pooja Mehta,2023-08-06,Health,1256.0,30000.0,,Cash
+Swathi Reddy,2023-08-06,Rent,4428.0,25000.0,,NetBanking
+Karthik Rao,2023-08-06,Groceries,279.0,18000.0,,NetBanking
+Megha Das,2023-08-06,Study Materials,493.0,25000.0,,NetBanking
+Swathi Reddy,2023-08-06,Food,219.0,25000.0,,Card
+Varun Gupta,2023-08-06,Health,2425.0,20000.0,,NetBanking
+Rahul Kumar,2023-08-06,Study Materials,1319.0,20000.0,,UPI
+Rohan Verma,2023-08-06,Health,2024.0,20000.0,,Cash
+Rahul Kumar,2023-08-06,Health,889.0,20000.0,,UPI
+Sneha Kapoor,2023-08-06,Rent,4988.0,18000.0,,Card
+Pooja Mehta,2023-08-07,Study Materials,348.0,30000.0,,UPI
+Priya Iyer,2023-08-07,Utilities,291.0,18000.0,,UPI
+Ishita Roy,2023-08-07,Groceries,1400.0,22000.0,,NetBanking
+Rahul Kumar,2023-08-07,Groceries,1121.0,20000.0,,Cash
+Karthik Rao,2023-08-07,Food,278.0,18000.0,,Card
+Karthik Rao,2023-08-07,Utilities,262.0,18000.0,,Cash
+Megha Das,2023-08-07,Utilities,1197.0,25000.0,,Card
+Aditya Pillai,2023-08-07,Miscellaneous,673.0,20000.0,,Card
+Tanvi Jain,2023-08-08,Groceries,2023.0,30000.0,,Card
+Krishna Rao,2023-08-08,Food,132.0,30000.0,,Card
+Arjun Nair,2023-08-08,Food,477.0,22000.0,,UPI
+Sneha Kapoor,2023-08-08,Food,182.0,18000.0,,UPI
+Sneha Kapoor,2023-08-09,Entertainment,1525.0,18000.0,,UPI
+Amit Sharma,2023-08-09,Health,1627.0,20000.0,,NetBanking
+Krishna Rao,2023-08-09,Utilities,1291.0,30000.0,,NetBanking
+Shreya Sen,2023-08-09,Rent,8238.0,18000.0,,Cash
+Arjun Nair,2023-08-09,Entertainment,1825.0,22000.0,,NetBanking
+Arjun Nair,2023-08-09,Miscellaneous,606.0,22000.0,,NetBanking
+Harini Bhat,2023-08-09,Entertainment,1059.0,30000.0,,Cash
+Karthik Rao,2023-08-09,Entertainment,1622.0,18000.0,,Cash
+Sneha Kapoor,2023-08-09,Miscellaneous,1637.0,18000.0,,Card
+Amit Sharma,2023-08-09,Entertainment,1975.0,20000.0,,NetBanking
+Vivek Menon,2023-08-10,Travel,315.0,18000.0,,Card
+Ananya Singh,2023-08-10,Miscellaneous,1762.0,30000.0,,NetBanking
+Karthik Rao,2023-08-10,Health,2263.0,18000.0,,Card
+Rohan Verma,2023-08-10,Miscellaneous,235.0,20000.0,,UPI
+Priya Iyer,2023-08-10,Rent,4461.0,18000.0,,Cash
+Megha Das,2023-08-10,Groceries,2056.0,25000.0,,Cash
+Aditya Pillai,2023-08-10,Study Materials,1592.0,20000.0,,Card
+Rahul Kumar,2023-08-10,Entertainment,1664.0,20000.0,,Card
+Ananya Singh,2023-08-10,Miscellaneous,1585.0,30000.0,,Card
+Megha Das,2023-08-11,Groceries,2390.0,25000.0,,UPI
+Amit Sharma,2023-08-11,Travel,67.0,20000.0,,Cash
+Nisha Sharma,2023-08-11,Utilities,1586.0,18000.0,,NetBanking
+Varun Gupta,2023-08-11,Travel,477.0,20000.0,,UPI
+Ananya Singh,2023-08-11,Food,612.0,30000.0,,Card
+Rohan Verma,2023-08-11,Study Materials,1948.0,20000.0,,Card
+Karthik Rao,2023-08-11,Entertainment,955.0,18000.0,,NetBanking
+Amit Sharma,2023-08-11,Utilities,931.0,20000.0,,Card
+Divya Yeddu,2023-08-11,Food,282.0,25000.0,,Cash
+Ananya Singh,2023-08-12,Rent,5681.0,30000.0,,Cash
+Amit Sharma,2023-08-12,Food,601.0,20000.0,,NetBanking
+Pooja Mehta,2023-08-13,Travel,241.0,30000.0,,NetBanking
+Sneha Kapoor,2023-08-13,Utilities,233.0,18000.0,,Card
+Divya Yeddu,2023-08-13,Groceries,1660.0,25000.0,,Cash
+Siddharth Rao,2023-08-13,Travel,495.0,30000.0,,UPI
+Tanvi Jain,2023-08-13,Travel,524.0,30000.0,,Card
+Arjun Nair,2023-08-13,Study Materials,505.0,22000.0,,NetBanking
+Pooja Mehta,2023-08-13,Groceries,634.0,30000.0,,Card
+Ishita Roy,2023-08-13,Study Materials,936.0,22000.0,,NetBanking
+Siddharth Rao,2023-08-13,Study Materials,509.0,30000.0,,Card
+Arjun Nair,2023-08-13,Rent,7242.0,22000.0,,NetBanking
+Krishna Rao,2023-08-14,Health,2096.0,30000.0,,Cash
+Ananya Singh,2023-08-14,Entertainment,1714.0,30000.0,,Cash
+Tanvi Jain,2023-08-14,Groceries,1392.0,30000.0,,Card
+Priya Iyer,2023-08-14,Travel,534.0,18000.0,,NetBanking
+Siddharth Rao,2023-08-14,Travel,131.0,30000.0,,NetBanking
+Tanvi Jain,2023-08-14,Food,255.0,30000.0,,NetBanking
+Ananya Singh,2023-08-14,Food,141.0,30000.0,,UPI
+Rahul Kumar,2023-08-15,Entertainment,2400.0,20000.0,,NetBanking
+Rahul Kumar,2023-08-15,Utilities,279.0,20000.0,,Card
+Krishna Rao,2023-08-15,Utilities,2311.0,30000.0,,Cash
+Amit Sharma,2023-08-15,Utilities,1848.0,20000.0,,Card
+Rohan Verma,2023-08-15,Entertainment,1370.0,20000.0,,NetBanking
+Amit Sharma,2023-08-16,Miscellaneous,586.0,20000.0,,Cash
+Rohan Verma,2023-08-16,Study Materials,1458.0,20000.0,,Card
+Nisha Sharma,2023-08-16,Travel,593.0,18000.0,,UPI
+Vivek Menon,2023-08-16,Study Materials,653.0,18000.0,,Cash
+Krishna Rao,2023-08-16,Study Materials,500.0,30000.0,,NetBanking
+Tanvi Jain,2023-08-16,Rent,8591.0,30000.0,,Card
+Sneha Kapoor,2023-08-16,Study Materials,1151.0,18000.0,,Card
+Divya Yeddu,2023-08-16,Rent,7309.0,25000.0,,NetBanking
+Megha Das,2023-08-17,Health,1199.0,25000.0,,Card
+Rohan Verma,2023-08-17,Health,1789.0,20000.0,,Card
+Nisha Sharma,2023-08-17,Rent,9388.0,18000.0,,UPI
+Ishita Roy,2023-08-17,Study Materials,1695.0,22000.0,,NetBanking
+Nisha Sharma,2023-08-17,Food,165.0,18000.0,,NetBanking
+Swathi Reddy,2023-08-17,Travel,95.0,25000.0,,Card
+Nisha Sharma,2023-08-17,Rent,10526.0,18000.0,,NetBanking
+Shreya Sen,2023-08-17,Health,1511.0,18000.0,,NetBanking
+Karthik Rao,2023-08-17,Rent,8812.0,18000.0,,Card
+Divya Yeddu,2023-08-17,Miscellaneous,1127.0,25000.0,,NetBanking
+Nisha Sharma,2023-08-18,Groceries,1254.0,18000.0,,Cash
+Amit Sharma,2023-08-18,Health,2452.0,20000.0,,UPI
+Krishna Rao,2023-08-18,Rent,4133.0,30000.0,,NetBanking
+Nisha Sharma,2023-08-18,Food,689.0,18000.0,,NetBanking
+Amit Sharma,2023-08-19,Food,554.0,20000.0,,NetBanking
+Nisha Sharma,2023-08-19,Travel,50.0,18000.0,,UPI
+Vikram Joshi,2023-08-19,Groceries,1940.0,25000.0,,Cash
+Tanvi Jain,2023-08-19,Travel,204.0,30000.0,,Cash
+Amit Sharma,2023-08-19,Travel,421.0,20000.0,,UPI
+Tanvi Jain,2023-08-19,Food,215.0,30000.0,,Cash
+Harini Bhat,2023-08-19,Health,956.0,30000.0,,UPI
+Aditya Pillai,2023-08-20,Health,1099.0,20000.0,,UPI
+Nisha Sharma,2023-08-20,Entertainment,1285.0,18000.0,,UPI
+Ishita Roy,2023-08-20,Health,868.0,22000.0,,Cash
+Tanvi Jain,2023-08-20,Study Materials,826.0,30000.0,,UPI
+Aditya Pillai,2023-08-20,Utilities,1413.0,20000.0,,UPI
+Ananya Singh,2023-08-20,Groceries,1612.0,30000.0,,NetBanking
+Harini Bhat,2023-08-20,Entertainment,2147.0,30000.0,,UPI
+Karthik Rao,2023-08-20,Groceries,126.0,18000.0,,NetBanking
+Siddharth Rao,2023-08-20,Health,1381.0,30000.0,,Card
+Harini Bhat,2023-08-20,Rent,9166.0,30000.0,,UPI
+Varun Gupta,2023-08-21,Study Materials,1413.0,20000.0,,Cash
+Harsha Patel,2023-08-21,Food,549.0,30000.0,,Card
+Megha Das,2023-08-21,Travel,136.0,25000.0,,Card
+Divya Yeddu,2023-08-21,Health,1773.0,25000.0,,Card
+Amit Sharma,2023-08-21,Rent,9368.0,20000.0,,Card
+Rahul Kumar,2023-08-21,Study Materials,847.0,20000.0,,NetBanking
+Rohan Verma,2023-08-21,Utilities,2443.0,20000.0,,NetBanking
+Sneha Kapoor,2023-08-21,Travel,264.0,18000.0,,Card
+Shreya Sen,2023-08-22,Entertainment,898.0,18000.0,,Cash
+Swathi Reddy,2023-08-22,Groceries,335.0,25000.0,,NetBanking
+Shreya Sen,2023-08-22,Study Materials,452.0,18000.0,,Cash
+Rohan Verma,2023-08-22,Study Materials,853.0,20000.0,,NetBanking
+Ishita Roy,2023-08-22,Study Materials,1657.0,22000.0,,Card
+Vivek Menon,2023-08-22,Rent,9916.0,18000.0,,Card
+Harsha Patel,2023-08-22,Food,104.0,30000.0,,Card
+Varun Gupta,2023-08-22,Health,1732.0,20000.0,,NetBanking
+Arjun Nair,2023-08-23,Health,1121.0,22000.0,,Card
+Ananya Singh,2023-08-23,Study Materials,732.0,30000.0,,Card
+Nisha Sharma,2023-08-23,Groceries,364.0,18000.0,,Cash
+Priya Iyer,2023-08-23,Food,330.0,18000.0,,Card
+Rohan Verma,2023-08-23,Study Materials,359.0,20000.0,,Cash
+Harsha Patel,2023-08-23,Food,134.0,30000.0,,UPI
+Aditya Pillai,2023-08-23,Food,462.0,20000.0,,Cash
+Harsha Patel,2023-08-23,Rent,11134.0,30000.0,,UPI
+Ananya Singh,2023-08-24,Food,514.0,30000.0,,Card
+Krishna Rao,2023-08-24,Miscellaneous,1797.0,30000.0,,Card
+Priya Iyer,2023-08-24,Rent,5148.0,18000.0,,NetBanking
+Varun Gupta,2023-08-24,Health,964.0,20000.0,,NetBanking
+Arjun Nair,2023-08-24,Travel,115.0,22000.0,,Card
+Ananya Singh,2023-08-24,Health,463.0,30000.0,,UPI
+Priya Iyer,2023-08-24,Rent,10213.0,18000.0,,NetBanking
+Harsha Patel,2023-08-24,Rent,10198.0,30000.0,,Cash
+Nisha Sharma,2023-08-24,Entertainment,1228.0,18000.0,,Card
+Krishna Rao,2023-08-24,Food,205.0,30000.0,,NetBanking
+Siddharth Rao,2023-08-25,Study Materials,591.0,30000.0,,NetBanking
+Krishna Rao,2023-08-25,Utilities,1148.0,30000.0,,UPI
+Vikram Joshi,2023-08-25,Entertainment,2393.0,25000.0,,NetBanking
+Vivek Menon,2023-08-25,Groceries,2077.0,18000.0,,NetBanking
+Krishna Rao,2023-08-26,Travel,552.0,30000.0,,Card
+Priya Iyer,2023-08-26,Travel,283.0,18000.0,,NetBanking
+Rahul Kumar,2023-08-26,Health,636.0,20000.0,,Card
+Ishita Roy,2023-08-26,Rent,8522.0,22000.0,,UPI
+Ishita Roy,2023-08-26,Travel,305.0,22000.0,,Card
+Rahul Kumar,2023-08-26,Groceries,756.0,20000.0,,UPI
+Amit Sharma,2023-08-26,Miscellaneous,188.0,20000.0,,Cash
+Ananya Singh,2023-08-26,Food,696.0,30000.0,,UPI
+Tanvi Jain,2023-08-27,Study Materials,336.0,30000.0,,Card
+Amit Sharma,2023-08-27,Travel,585.0,20000.0,,Cash
+Tanvi Jain,2023-08-27,Utilities,2391.0,30000.0,,UPI
+Ishita Roy,2023-08-27,Food,165.0,22000.0,,Cash
+Ananya Singh,2023-08-27,Utilities,312.0,30000.0,,UPI
+Amit Sharma,2023-08-27,Miscellaneous,1762.0,20000.0,,NetBanking
+Swathi Reddy,2023-08-27,Health,1531.0,25000.0,,NetBanking
+Rohan Verma,2023-08-28,Entertainment,1303.0,20000.0,,NetBanking
+Karthik Rao,2023-08-28,Entertainment,2305.0,18000.0,,Card
+Tanvi Jain,2023-08-28,Miscellaneous,358.0,30000.0,,NetBanking
+Rahul Kumar,2023-08-28,Health,1829.0,20000.0,,UPI
+Divya Yeddu,2023-08-28,Groceries,2329.0,25000.0,,Cash
+Vikram Joshi,2023-08-28,Rent,5307.0,25000.0,,UPI
+Priya Iyer,2023-08-28,Entertainment,833.0,18000.0,,UPI
+Krishna Rao,2023-08-28,Groceries,110.0,30000.0,,Card
+Ananya Singh,2023-08-28,Groceries,411.0,30000.0,,NetBanking
+Rahul Kumar,2023-08-28,Travel,133.0,20000.0,,Cash
+Divya Yeddu,2023-08-29,Groceries,2202.0,25000.0,,NetBanking
+Sneha Kapoor,2023-08-29,Entertainment,155.0,18000.0,,NetBanking
+Divya Yeddu,2023-08-29,Study Materials,1418.0,25000.0,,NetBanking
+Varun Gupta,2023-08-29,Utilities,1235.0,20000.0,,Cash
+Rahul Kumar,2023-08-29,Health,1460.0,20000.0,,Cash
+Karthik Rao,2023-08-29,Travel,71.0,18000.0,,Card
+Ishita Roy,2023-08-29,Health,640.0,22000.0,,Cash
+Harini Bhat,2023-08-29,Utilities,1661.0,30000.0,,Card
+Nisha Sharma,2023-08-30,Health,2084.0,18000.0,,NetBanking
+Harini Bhat,2023-08-30,Health,1418.0,30000.0,,UPI
+Karthik Rao,2023-08-30,Health,1688.0,18000.0,,UPI
+Karthik Rao,2023-08-30,Study Materials,1720.0,18000.0,,NetBanking
+Nisha Sharma,2023-08-30,Rent,9604.0,18000.0,,NetBanking
+Arjun Nair,2023-08-30,Health,876.0,22000.0,,UPI
+Rahul Kumar,2023-08-30,Rent,6860.0,20000.0,,UPI
+Rahul Kumar,2023-08-30,Study Materials,1888.0,20000.0,,UPI
+Megha Das,2023-08-30,Rent,8234.0,25000.0,,NetBanking
+Karthik Rao,2023-08-30,Utilities,1293.0,18000.0,,NetBanking
+Harsha Patel,2023-08-31,Miscellaneous,374.0,30000.0,,UPI
+Rahul Kumar,2023-08-31,Food,278.0,20000.0,,Card
+Amit Sharma,2023-08-31,Study Materials,1730.0,20000.0,,UPI
+Vivek Menon,2023-08-31,Study Materials,862.0,18000.0,,Cash
+Shreya Sen,2023-08-31,Entertainment,1332.0,18000.0,,UPI
+Sneha Kapoor,2023-08-31,Groceries,2423.0,18000.0,,Cash
+Krishna Rao,2023-08-31,Travel,510.0,30000.0,,Card
+Harsha Patel,2023-09-01,Entertainment,465.0,30000.0,,NetBanking
+Harini Bhat,2023-09-01,Miscellaneous,157.0,30000.0,,UPI
+Aditya Pillai,2023-09-01,Miscellaneous,178.0,20000.0,,NetBanking
+Pooja Mehta,2023-09-01,Health,1379.0,30000.0,,Cash
+Rahul Kumar,2023-09-01,Entertainment,1003.0,20000.0,,Card
+Ananya Singh,2023-09-01,Rent,7903.0,30000.0,,UPI
+Rohan Verma,2023-09-01,Rent,11950.0,20000.0,,Card
+Shreya Sen,2023-09-01,Study Materials,806.0,18000.0,,NetBanking
+Vivek Menon,2023-09-02,Study Materials,452.0,18000.0,,Card
+Priya Iyer,2023-09-02,Miscellaneous,1464.0,18000.0,,UPI
+Divya Yeddu,2023-09-02,Rent,7141.0,25000.0,,UPI
+Ishita Roy,2023-09-02,Miscellaneous,808.0,22000.0,,UPI
+Krishna Rao,2023-09-02,Groceries,1123.0,30000.0,,Cash
+Ananya Singh,2023-09-02,Miscellaneous,1153.0,30000.0,,NetBanking
+Arjun Nair,2023-09-02,Travel,204.0,22000.0,,NetBanking
+Divya Yeddu,2023-09-02,Travel,90.0,25000.0,,NetBanking
+Swathi Reddy,2023-09-02,Groceries,223.0,25000.0,,Cash
+Ishita Roy,2023-09-02,Entertainment,1766.0,22000.0,,Card
+Siddharth Rao,2023-09-02,Entertainment,1905.0,30000.0,,NetBanking
+Rahul Kumar,2023-09-03,Rent,5901.0,20000.0,,Cash
+Tanvi Jain,2023-09-03,Groceries,2108.0,30000.0,,UPI
+Swathi Reddy,2023-09-03,Entertainment,1558.0,25000.0,,UPI
+Ishita Roy,2023-09-03,Utilities,2328.0,22000.0,,UPI
+Megha Das,2023-09-03,Food,449.0,25000.0,,NetBanking
+Ishita Roy,2023-09-03,Utilities,1051.0,22000.0,,Card
+Swathi Reddy,2023-09-03,Groceries,1032.0,25000.0,,Cash
+Amit Sharma,2023-09-03,Groceries,1648.0,20000.0,,Cash
+Shreya Sen,2023-09-03,Food,336.0,18000.0,,UPI
+Megha Das,2023-09-03,Food,521.0,25000.0,,Cash
+Siddharth Rao,2023-09-04,Groceries,2092.0,30000.0,,Cash
+Siddharth Rao,2023-09-04,Rent,9351.0,30000.0,,UPI
+Shreya Sen,2023-09-04,Utilities,673.0,18000.0,,UPI
+Aditya Pillai,2023-09-04,Rent,5215.0,20000.0,,UPI
+Ishita Roy,2023-09-04,Groceries,298.0,22000.0,,Card
+Vivek Menon,2023-09-04,Food,662.0,18000.0,,Cash
+Arjun Nair,2023-09-04,Rent,5088.0,22000.0,,UPI
+Sneha Kapoor,2023-09-04,Miscellaneous,221.0,18000.0,,NetBanking
+Priya Iyer,2023-09-04,Miscellaneous,1099.0,18000.0,,NetBanking
+Megha Das,2023-09-04,Study Materials,921.0,25000.0,,UPI
+Swathi Reddy,2023-09-04,Entertainment,1196.0,25000.0,,UPI
+Ananya Singh,2023-09-04,Miscellaneous,733.0,30000.0,,Cash
+Sneha Kapoor,2023-09-05,Travel,580.0,18000.0,,Cash
+Varun Gupta,2023-09-05,Groceries,395.0,20000.0,,Card
+Krishna Rao,2023-09-05,Health,554.0,30000.0,,Cash
+Varun Gupta,2023-09-05,Study Materials,680.0,20000.0,,UPI
+Varun Gupta,2023-09-05,Utilities,930.0,20000.0,,Cash
+Krishna Rao,2023-09-05,Groceries,1754.0,30000.0,,Card
+Vikram Joshi,2023-09-05,Health,1758.0,25000.0,,Cash
+Rohan Verma,2023-09-05,Study Materials,1222.0,20000.0,,Cash
+Swathi Reddy,2023-09-05,Groceries,403.0,25000.0,,Cash
+Ishita Roy,2023-09-06,Groceries,1011.0,22000.0,,Cash
+Rohan Verma,2023-09-06,Miscellaneous,648.0,20000.0,,Cash
+Harsha Patel,2023-09-06,Study Materials,818.0,30000.0,,UPI
+Vikram Joshi,2023-09-06,Rent,7452.0,25000.0,,NetBanking
+Sneha Kapoor,2023-09-06,Food,492.0,18000.0,,UPI
+Harsha Patel,2023-09-06,Study Materials,1165.0,30000.0,,Cash
+Siddharth Rao,2023-09-06,Study Materials,945.0,30000.0,,Card
+Amit Sharma,2023-09-07,Study Materials,778.0,20000.0,,NetBanking
+Shreya Sen,2023-09-07,Miscellaneous,413.0,18000.0,,Cash
+Megha Das,2023-09-07,Health,426.0,25000.0,,Card
+Varun Gupta,2023-09-07,Travel,196.0,20000.0,,NetBanking
+Vivek Menon,2023-09-07,Study Materials,1422.0,18000.0,,Card
+Tanvi Jain,2023-09-07,Health,732.0,30000.0,,NetBanking
+Swathi Reddy,2023-09-07,Travel,579.0,25000.0,,Card
+Divya Yeddu,2023-09-07,Study Materials,1160.0,25000.0,,Cash
+Siddharth Rao,2023-09-07,Food,396.0,30000.0,,UPI
+Sneha Kapoor,2023-09-07,Groceries,1353.0,18000.0,,UPI
+Divya Yeddu,2023-09-07,Rent,7072.0,25000.0,,Card
+Aditya Pillai,2023-09-07,Miscellaneous,812.0,20000.0,,Card
+Varun Gupta,2023-09-08,Rent,10772.0,20000.0,,NetBanking
+Amit Sharma,2023-09-08,Rent,8764.0,20000.0,,Card
+Divya Yeddu,2023-09-08,Entertainment,2318.0,25000.0,,Card
+Megha Das,2023-09-08,Food,231.0,25000.0,,UPI
+Pooja Mehta,2023-09-08,Miscellaneous,113.0,30000.0,,NetBanking
+Harini Bhat,2023-09-08,Entertainment,342.0,30000.0,,UPI
+Harini Bhat,2023-09-08,Travel,342.0,30000.0,,Cash
+Megha Das,2023-09-08,Groceries,188.0,25000.0,,Card
+Swathi Reddy,2023-09-08,Food,230.0,25000.0,,Card
+Divya Yeddu,2023-09-08,Health,328.0,25000.0,,UPI
+Megha Das,2023-09-08,Food,669.0,25000.0,,Card
+Megha Das,2023-09-09,Travel,106.0,25000.0,,Card
+Siddharth Rao,2023-09-09,Groceries,2225.0,30000.0,,UPI
+Shreya Sen,2023-09-09,Travel,586.0,18000.0,,Card
+Vivek Menon,2023-09-09,Miscellaneous,812.0,18000.0,,Cash
+Nisha Sharma,2023-09-09,Travel,385.0,18000.0,,Cash
+Harini Bhat,2023-09-09,Rent,4195.0,30000.0,,NetBanking
+Megha Das,2023-09-09,Rent,5841.0,25000.0,,NetBanking
+Vivek Menon,2023-09-09,Health,1339.0,18000.0,,Cash
+Sneha Kapoor,2023-09-09,Food,423.0,18000.0,,Card
+Amit Sharma,2023-09-10,Entertainment,2288.0,20000.0,,UPI
+Karthik Rao,2023-09-10,Food,102.0,18000.0,,NetBanking
+Karthik Rao,2023-09-10,Entertainment,2439.0,18000.0,,Card
+Shreya Sen,2023-09-10,Rent,7549.0,18000.0,,NetBanking
+Ishita Roy,2023-09-10,Miscellaneous,2125.0,22000.0,,NetBanking
+Megha Das,2023-09-10,Utilities,1410.0,25000.0,,NetBanking
+Divya Yeddu,2023-09-10,Groceries,1493.0,25000.0,,NetBanking
+Swathi Reddy,2023-09-11,Rent,6982.0,25000.0,,NetBanking
+Rohan Verma,2023-09-11,Health,1612.0,20000.0,,Card
+Priya Iyer,2023-09-11,Travel,152.0,18000.0,,UPI
+Swathi Reddy,2023-09-11,Travel,205.0,25000.0,,NetBanking
+Harsha Patel,2023-09-11,Miscellaneous,565.0,30000.0,,UPI
+Ishita Roy,2023-09-11,Groceries,792.0,22000.0,,UPI
+Ananya Singh,2023-09-11,Travel,453.0,30000.0,,NetBanking
+Harsha Patel,2023-09-11,Travel,483.0,30000.0,,NetBanking
+Vivek Menon,2023-09-11,Travel,584.0,18000.0,,Card
+Varun Gupta,2023-09-12,Study Materials,931.0,20000.0,,UPI
+Ishita Roy,2023-09-12,Food,579.0,22000.0,,UPI
+Arjun Nair,2023-09-12,Entertainment,1812.0,22000.0,,NetBanking
+Krishna Rao,2023-09-12,Travel,334.0,30000.0,,Cash
+Arjun Nair,2023-09-12,Travel,247.0,22000.0,,NetBanking
+Harsha Patel,2023-09-12,Entertainment,1429.0,30000.0,,NetBanking
+Arjun Nair,2023-09-12,Miscellaneous,1055.0,22000.0,,NetBanking
+Siddharth Rao,2023-09-12,Rent,8451.0,30000.0,,NetBanking
+Ishita Roy,2023-09-13,Groceries,1360.0,22000.0,,UPI
+Vivek Menon,2023-09-13,Utilities,1405.0,18000.0,,Card
+Aditya Pillai,2023-09-13,Travel,231.0,20000.0,,UPI
+Vikram Joshi,2023-09-13,Food,180.0,25000.0,,NetBanking
+Ishita Roy,2023-09-13,Groceries,899.0,22000.0,,UPI
+Sneha Kapoor,2023-09-14,Utilities,570.0,18000.0,,UPI
+Karthik Rao,2023-09-14,Groceries,1355.0,18000.0,,Card
+Swathi Reddy,2023-09-14,Study Materials,1023.0,25000.0,,NetBanking
+Divya Yeddu,2023-09-14,Study Materials,1620.0,25000.0,,Card
+Ishita Roy,2023-09-15,Entertainment,2275.0,22000.0,,Card
+Varun Gupta,2023-09-15,Food,221.0,20000.0,,UPI
+Priya Iyer,2023-09-15,Health,1440.0,18000.0,,Cash
+Vivek Menon,2023-09-15,Utilities,2480.0,18000.0,,NetBanking
+Divya Yeddu,2023-09-15,Utilities,2444.0,25000.0,,NetBanking
+Priya Iyer,2023-09-15,Food,108.0,18000.0,,Cash
+Tanvi Jain,2023-09-15,Rent,10185.0,30000.0,,Card
+Vivek Menon,2023-09-15,Rent,4409.0,18000.0,,UPI
+Siddharth Rao,2023-09-16,Food,583.0,30000.0,,NetBanking
+Sneha Kapoor,2023-09-16,Utilities,1830.0,18000.0,,NetBanking
+Megha Das,2023-09-17,Study Materials,921.0,25000.0,,Cash
+Priya Iyer,2023-09-17,Rent,8969.0,18000.0,,NetBanking
+Ananya Singh,2023-09-17,Entertainment,876.0,30000.0,,Cash
+Nisha Sharma,2023-09-17,Miscellaneous,471.0,18000.0,,UPI
+Pooja Mehta,2023-09-17,Food,623.0,30000.0,,Cash
+Sneha Kapoor,2023-09-17,Food,676.0,18000.0,,NetBanking
+Megha Das,2023-09-17,Entertainment,1107.0,25000.0,,Cash
+Aditya Pillai,2023-09-17,Utilities,2148.0,20000.0,,UPI
+Arjun Nair,2023-09-17,Groceries,548.0,22000.0,,UPI
+Krishna Rao,2023-09-18,Rent,8426.0,30000.0,,Card
+Vivek Menon,2023-09-18,Rent,11534.0,18000.0,,Cash
+Vivek Menon,2023-09-18,Rent,9054.0,18000.0,,Cash
+Vivek Menon,2023-09-18,Utilities,2391.0,18000.0,,Card
+Divya Yeddu,2023-09-19,Entertainment,2375.0,25000.0,,Card
+Harini Bhat,2023-09-19,Groceries,1704.0,30000.0,,Cash
+Shreya Sen,2023-09-19,Groceries,2032.0,18000.0,,Card
+Pooja Mehta,2023-09-19,Food,420.0,30000.0,,UPI
+Aditya Pillai,2023-09-19,Health,1462.0,20000.0,,UPI
+Harini Bhat,2023-09-19,Study Materials,1066.0,30000.0,,Card
+Pooja Mehta,2023-09-19,Food,552.0,30000.0,,UPI
+Tanvi Jain,2023-09-19,Groceries,1240.0,30000.0,,UPI
+Ananya Singh,2023-09-20,Study Materials,472.0,30000.0,,NetBanking
+Harini Bhat,2023-09-21,Rent,6600.0,30000.0,,NetBanking
+Siddharth Rao,2023-09-21,Food,326.0,30000.0,,Cash
+Varun Gupta,2023-09-21,Entertainment,1404.0,20000.0,,NetBanking
+Priya Iyer,2023-09-21,Groceries,2497.0,18000.0,,Card
+Harini Bhat,2023-09-21,Utilities,2195.0,30000.0,,Cash
+Rahul Kumar,2023-09-21,Rent,9114.0,20000.0,,Cash
+Shreya Sen,2023-09-21,Utilities,1339.0,18000.0,,Card
+Ananya Singh,2023-09-22,Utilities,2420.0,30000.0,,NetBanking
+Megha Das,2023-09-22,Utilities,1047.0,25000.0,,Cash
+Shreya Sen,2023-09-22,Food,339.0,18000.0,,NetBanking
+Megha Das,2023-09-22,Groceries,1161.0,25000.0,,NetBanking
+Varun Gupta,2023-09-22,Miscellaneous,1716.0,20000.0,,Cash
+Rohan Verma,2023-09-22,Groceries,1205.0,20000.0,,Cash
+Arjun Nair,2023-09-22,Food,611.0,22000.0,,UPI
+Arjun Nair,2023-09-22,Health,877.0,22000.0,,UPI
+Harini Bhat,2023-09-22,Miscellaneous,1168.0,30000.0,,UPI
+Siddharth Rao,2023-09-22,Travel,245.0,30000.0,,NetBanking
+Krishna Rao,2023-09-23,Health,1749.0,30000.0,,Card
+Harsha Patel,2023-09-23,Rent,5762.0,30000.0,,Cash
+Megha Das,2023-09-23,Travel,133.0,25000.0,,Card
+Ishita Roy,2023-09-23,Rent,5519.0,22000.0,,Card
+Ishita Roy,2023-09-23,Entertainment,462.0,22000.0,,NetBanking
+Priya Iyer,2023-09-23,Travel,63.0,18000.0,,Card
+Megha Das,2023-09-23,Health,947.0,25000.0,,Cash
+Divya Yeddu,2023-09-24,Study Materials,1663.0,25000.0,,NetBanking
+Karthik Rao,2023-09-24,Miscellaneous,440.0,18000.0,,UPI
+Aditya Pillai,2023-09-24,Travel,544.0,20000.0,,NetBanking
+Shreya Sen,2023-09-24,Entertainment,2064.0,18000.0,,Card
+Arjun Nair,2023-09-24,Groceries,1667.0,22000.0,,Cash
+Siddharth Rao,2023-09-25,Travel,459.0,30000.0,,UPI
+Ishita Roy,2023-09-25,Health,600.0,22000.0,,Card
+Ishita Roy,2023-09-25,Groceries,1261.0,22000.0,,Card
+Ishita Roy,2023-09-25,Study Materials,1835.0,22000.0,,NetBanking
+Siddharth Rao,2023-09-25,Travel,445.0,30000.0,,NetBanking
+Pooja Mehta,2023-09-25,Utilities,2315.0,30000.0,,Card
+Swathi Reddy,2023-09-25,Food,384.0,25000.0,,Cash
+Swathi Reddy,2023-09-25,Utilities,1014.0,25000.0,,Cash
+Shreya Sen,2023-09-25,Food,236.0,18000.0,,UPI
+Harsha Patel,2023-09-25,Study Materials,1333.0,30000.0,,Cash
+Tanvi Jain,2023-09-25,Groceries,2185.0,30000.0,,Cash
+Nisha Sharma,2023-09-25,Health,558.0,18000.0,,NetBanking
+Vikram Joshi,2023-09-26,Study Materials,985.0,25000.0,,Card
+Ishita Roy,2023-09-26,Miscellaneous,1032.0,22000.0,,Cash
+Varun Gupta,2023-09-26,Travel,261.0,20000.0,,Card
+Swathi Reddy,2023-09-26,Food,142.0,25000.0,,NetBanking
+Vikram Joshi,2023-09-26,Study Materials,1427.0,25000.0,,UPI
+Aditya Pillai,2023-09-26,Food,608.0,20000.0,,Cash
+Rohan Verma,2023-09-26,Study Materials,1975.0,20000.0,,UPI
+Siddharth Rao,2023-09-27,Food,225.0,30000.0,,NetBanking
+Siddharth Rao,2023-09-27,Entertainment,1390.0,30000.0,,UPI
+Vivek Menon,2023-09-27,Utilities,2209.0,18000.0,,Card
+Sneha Kapoor,2023-09-27,Entertainment,2123.0,18000.0,,NetBanking
+Karthik Rao,2023-09-27,Study Materials,1715.0,18000.0,,Cash
+Aditya Pillai,2023-09-27,Groceries,1886.0,20000.0,,Card
+Amit Sharma,2023-09-27,Travel,583.0,20000.0,,Card
+Arjun Nair,2023-09-27,Rent,9411.0,22000.0,,Cash
+Harsha Patel,2023-09-27,Food,488.0,30000.0,,Card
+Arjun Nair,2023-09-28,Study Materials,405.0,22000.0,,UPI
+Swathi Reddy,2023-09-28,Food,447.0,25000.0,,Card
+Harsha Patel,2023-09-28,Health,335.0,30000.0,,Cash
+Tanvi Jain,2023-09-28,Food,374.0,30000.0,,UPI
+Swathi Reddy,2023-09-28,Rent,6013.0,25000.0,,Cash
+Rahul Kumar,2023-09-29,Study Materials,1824.0,20000.0,,UPI
+Nisha Sharma,2023-09-29,Travel,561.0,18000.0,,Cash
+Nisha Sharma,2023-09-29,Entertainment,1614.0,18000.0,,Cash
+Ananya Singh,2023-09-29,Utilities,1749.0,30000.0,,Card
+Siddharth Rao,2023-09-29,Food,169.0,30000.0,,Card
+Krishna Rao,2023-09-29,Groceries,2462.0,30000.0,,NetBanking
+Rohan Verma,2023-09-29,Groceries,1919.0,20000.0,,UPI
+Vivek Menon,2023-09-29,Rent,11445.0,18000.0,,Card
+Tanvi Jain,2023-09-29,Utilities,234.0,30000.0,,Cash
+Harini Bhat,2023-09-29,Food,636.0,30000.0,,NetBanking
+Divya Yeddu,2023-09-29,Travel,305.0,25000.0,,Cash
+Karthik Rao,2023-09-29,Entertainment,2155.0,18000.0,,Cash
+Krishna Rao,2023-09-29,Study Materials,1037.0,30000.0,,Card
+Megha Das,2023-09-29,Groceries,470.0,25000.0,,UPI
+Sneha Kapoor,2023-09-30,Utilities,2309.0,18000.0,,UPI
+Karthik Rao,2023-09-30,Health,1825.0,18000.0,,Card
+Arjun Nair,2023-09-30,Travel,212.0,22000.0,,Cash
+Rohan Verma,2023-09-30,Entertainment,1713.0,20000.0,,Cash
+Rahul Kumar,2023-09-30,Utilities,1405.0,20000.0,,Cash
+Varun Gupta,2023-10-01,Groceries,2375.0,20000.0,,Card
+Swathi Reddy,2023-10-01,Study Materials,1351.0,25000.0,,NetBanking
+Priya Iyer,2023-10-01,Groceries,2067.0,18000.0,,Card
+Rahul Kumar,2023-10-01,Groceries,956.0,20000.0,,UPI
+Harini Bhat,2023-10-01,Miscellaneous,529.0,30000.0,,Card
+Pooja Mehta,2023-10-01,Travel,309.0,30000.0,,Cash
+Ananya Singh,2023-10-01,Study Materials,894.0,30000.0,,UPI
+Megha Das,2023-10-01,Entertainment,402.0,25000.0,,UPI
+Nisha Sharma,2023-10-01,Utilities,2260.0,18000.0,,NetBanking
+Tanvi Jain,2023-10-01,Miscellaneous,300.0,30000.0,,UPI
+Shreya Sen,2023-10-01,Travel,264.0,18000.0,,Cash
+Swathi Reddy,2023-10-02,Travel,513.0,25000.0,,UPI
+Tanvi Jain,2023-10-02,Miscellaneous,1886.0,30000.0,,Cash
+Pooja Mehta,2023-10-02,Utilities,1374.0,30000.0,,Cash
+Vikram Joshi,2023-10-02,Study Materials,657.0,25000.0,,Card
+Krishna Rao,2023-10-02,Utilities,1967.0,30000.0,,NetBanking
+Swathi Reddy,2023-10-02,Entertainment,389.0,25000.0,,UPI
+Tanvi Jain,2023-10-02,Rent,4738.0,30000.0,,UPI
+Harini Bhat,2023-10-02,Entertainment,1088.0,30000.0,,NetBanking
+Nisha Sharma,2023-10-02,Health,1073.0,18000.0,,NetBanking
+Vivek Menon,2023-10-02,Food,201.0,18000.0,,UPI
+Sneha Kapoor,2023-10-02,Study Materials,1956.0,18000.0,,Cash
+Tanvi Jain,2023-10-03,Travel,110.0,30000.0,,UPI
+Swathi Reddy,2023-10-03,Utilities,2129.0,25000.0,,UPI
+Karthik Rao,2023-10-03,Utilities,575.0,18000.0,,Cash
+Swathi Reddy,2023-10-03,Rent,6120.0,25000.0,,UPI
+Swathi Reddy,2023-10-03,Miscellaneous,2112.0,25000.0,,Cash
+Pooja Mehta,2023-10-03,Rent,8366.0,30000.0,,Card
+Priya Iyer,2023-10-03,Miscellaneous,2180.0,18000.0,,NetBanking
+Megha Das,2023-10-03,Miscellaneous,425.0,25000.0,,Card
+Varun Gupta,2023-10-03,Groceries,1406.0,20000.0,,UPI
+Priya Iyer,2023-10-03,Study Materials,1420.0,18000.0,,Card
+Ishita Roy,2023-10-04,Health,352.0,22000.0,,NetBanking
+Siddharth Rao,2023-10-04,Utilities,792.0,30000.0,,UPI
+Rahul Kumar,2023-10-04,Groceries,2497.0,20000.0,,Card
+Harini Bhat,2023-10-04,Utilities,2035.0,30000.0,,UPI
+Priya Iyer,2023-10-04,Food,396.0,18000.0,,NetBanking
+Harini Bhat,2023-10-04,Miscellaneous,958.0,30000.0,,NetBanking
+Priya Iyer,2023-10-04,Study Materials,1194.0,18000.0,,Cash
+Amit Sharma,2023-10-04,Utilities,2370.0,20000.0,,NetBanking
+Tanvi Jain,2023-10-05,Study Materials,319.0,30000.0,,UPI
+Sneha Kapoor,2023-10-05,Miscellaneous,968.0,18000.0,,Card
+Arjun Nair,2023-10-05,Entertainment,793.0,22000.0,,Card
+Siddharth Rao,2023-10-05,Entertainment,234.0,30000.0,,Card
+Tanvi Jain,2023-10-05,Rent,8874.0,30000.0,,UPI
+Harini Bhat,2023-10-05,Food,309.0,30000.0,,UPI
+Megha Das,2023-10-05,Travel,61.0,25000.0,,Cash
+Harini Bhat,2023-10-05,Rent,7310.0,30000.0,,UPI
+Shreya Sen,2023-10-05,Miscellaneous,1779.0,18000.0,,Cash
+Sneha Kapoor,2023-10-06,Groceries,381.0,18000.0,,Card
+Harsha Patel,2023-10-06,Travel,241.0,30000.0,,Cash
+Krishna Rao,2023-10-06,Groceries,1287.0,30000.0,,Cash
+Amit Sharma,2023-10-06,Travel,488.0,20000.0,,UPI
+Swathi Reddy,2023-10-06,Entertainment,911.0,25000.0,,Cash
+Harini Bhat,2023-10-06,Groceries,1799.0,30000.0,,Cash
+Karthik Rao,2023-10-06,Utilities,1061.0,18000.0,,Card
+Divya Yeddu,2023-10-06,Rent,7223.0,25000.0,,UPI
+Varun Gupta,2023-10-06,Rent,5268.0,20000.0,,Cash
+Arjun Nair,2023-10-06,Travel,120.0,22000.0,,UPI
+Priya Iyer,2023-10-06,Travel,336.0,18000.0,,NetBanking
+Rahul Kumar,2023-10-07,Rent,11584.0,20000.0,,NetBanking
+Vivek Menon,2023-10-07,Rent,4078.0,18000.0,,Cash
+Rahul Kumar,2023-10-07,Groceries,891.0,20000.0,,UPI
+Aditya Pillai,2023-10-07,Utilities,1897.0,20000.0,,Cash
+Tanvi Jain,2023-10-07,Travel,83.0,30000.0,,NetBanking
+Rahul Kumar,2023-10-07,Travel,53.0,20000.0,,UPI
+Varun Gupta,2023-10-07,Rent,4761.0,20000.0,,UPI
+Tanvi Jain,2023-10-07,Study Materials,669.0,30000.0,,Cash
+Tanvi Jain,2023-10-07,Travel,258.0,30000.0,,UPI
+Amit Sharma,2023-10-08,Miscellaneous,375.0,20000.0,,Cash
+Vikram Joshi,2023-10-08,Health,1793.0,25000.0,,UPI
+Swathi Reddy,2023-10-08,Utilities,2211.0,25000.0,,UPI
+Megha Das,2023-10-08,Miscellaneous,286.0,25000.0,,Cash
+Tanvi Jain,2023-10-08,Food,147.0,30000.0,,NetBanking
+Pooja Mehta,2023-10-08,Utilities,467.0,30000.0,,UPI
+Priya Iyer,2023-10-09,Study Materials,1743.0,18000.0,,Cash
+Vikram Joshi,2023-10-09,Travel,294.0,25000.0,,Card
+Vikram Joshi,2023-10-09,Health,986.0,25000.0,,Cash
+Priya Iyer,2023-10-09,Entertainment,1593.0,18000.0,,Cash
+Pooja Mehta,2023-10-09,Travel,440.0,30000.0,,Card
+Harini Bhat,2023-10-09,Study Materials,960.0,30000.0,,Card
+Ishita Roy,2023-10-09,Groceries,1971.0,22000.0,,Card
+Rohan Verma,2023-10-10,Entertainment,2177.0,20000.0,,Card
+Rohan Verma,2023-10-10,Study Materials,1571.0,20000.0,,NetBanking
+Arjun Nair,2023-10-10,Groceries,1943.0,22000.0,,Card
+Ananya Singh,2023-10-10,Health,1541.0,30000.0,,Cash
+Karthik Rao,2023-10-10,Utilities,2239.0,18000.0,,Card
+Nisha Sharma,2023-10-10,Miscellaneous,1226.0,18000.0,,NetBanking
+Arjun Nair,2023-10-10,Study Materials,1560.0,22000.0,,NetBanking
+Sneha Kapoor,2023-10-10,Study Materials,1897.0,18000.0,,Card
+Shreya Sen,2023-10-10,Rent,6581.0,18000.0,,Cash
+Harsha Patel,2023-10-10,Travel,421.0,30000.0,,Card
+Ishita Roy,2023-10-10,Food,299.0,22000.0,,NetBanking
+Rohan Verma,2023-10-10,Groceries,1873.0,20000.0,,NetBanking
+Varun Gupta,2023-10-10,Health,1426.0,20000.0,,UPI
+Vikram Joshi,2023-10-10,Study Materials,1972.0,25000.0,,Card
+Megha Das,2023-10-10,Groceries,2263.0,25000.0,,Cash
+Pooja Mehta,2023-10-10,Rent,8708.0,30000.0,,Cash
+Rahul Kumar,2023-10-11,Rent,4431.0,20000.0,,UPI
+Harini Bhat,2023-10-11,Food,667.0,30000.0,,Cash
+Sneha Kapoor,2023-10-11,Groceries,1362.0,18000.0,,Card
+Amit Sharma,2023-10-11,Study Materials,982.0,20000.0,,NetBanking
+Tanvi Jain,2023-10-12,Health,648.0,30000.0,,Card
+Priya Iyer,2023-10-12,Travel,380.0,18000.0,,UPI
+Krishna Rao,2023-10-12,Food,443.0,30000.0,,UPI
+Megha Das,2023-10-12,Rent,10374.0,25000.0,,UPI
+Swathi Reddy,2023-10-12,Travel,496.0,25000.0,,Cash
+Rohan Verma,2023-10-12,Study Materials,1835.0,20000.0,,UPI
+Siddharth Rao,2023-10-12,Entertainment,161.0,30000.0,,Card
+Varun Gupta,2023-10-12,Study Materials,1057.0,20000.0,,UPI
+Priya Iyer,2023-10-13,Utilities,2222.0,18000.0,,Card
+Shreya Sen,2023-10-13,Rent,8723.0,18000.0,,UPI
+Vikram Joshi,2023-10-13,Health,1014.0,25000.0,,Cash
+Krishna Rao,2023-10-13,Utilities,1768.0,30000.0,,Card
+Karthik Rao,2023-10-13,Travel,441.0,18000.0,,Cash
+Vivek Menon,2023-10-13,Travel,61.0,18000.0,,Cash
+Shreya Sen,2023-10-13,Health,1208.0,18000.0,,Cash
+Sneha Kapoor,2023-10-13,Health,1111.0,18000.0,,Card
+Siddharth Rao,2023-10-13,Health,663.0,30000.0,,Cash
+Siddharth Rao,2023-10-13,Study Materials,1977.0,30000.0,,UPI
+Varun Gupta,2023-10-13,Food,223.0,20000.0,,Cash
+Shreya Sen,2023-10-13,Utilities,1519.0,18000.0,,Cash
+Sneha Kapoor,2023-10-14,Travel,575.0,18000.0,,Cash
+Ananya Singh,2023-10-14,Health,2381.0,30000.0,,UPI
+Amit Sharma,2023-10-14,Miscellaneous,2338.0,20000.0,,NetBanking
+Amit Sharma,2023-10-14,Groceries,519.0,20000.0,,Card
+Priya Iyer,2023-10-14,Study Materials,826.0,18000.0,,NetBanking
+Rohan Verma,2023-10-14,Study Materials,1984.0,20000.0,,NetBanking
+Krishna Rao,2023-10-14,Study Materials,1158.0,30000.0,,NetBanking
+Aditya Pillai,2023-10-14,Rent,9900.0,20000.0,,NetBanking
+Arjun Nair,2023-10-14,Travel,268.0,22000.0,,UPI
+Priya Iyer,2023-10-14,Health,1389.0,18000.0,,UPI
+Aditya Pillai,2023-10-15,Food,443.0,20000.0,,Card
+Nisha Sharma,2023-10-15,Health,1883.0,18000.0,,UPI
+Ishita Roy,2023-10-15,Groceries,1415.0,22000.0,,UPI
+Vivek Menon,2023-10-15,Rent,9878.0,18000.0,,UPI
+Karthik Rao,2023-10-15,Travel,101.0,18000.0,,Card
+Sneha Kapoor,2023-10-15,Study Materials,636.0,18000.0,,UPI
+Shreya Sen,2023-10-15,Utilities,1849.0,18000.0,,NetBanking
+Megha Das,2023-10-15,Groceries,1501.0,25000.0,,UPI
+Nisha Sharma,2023-10-16,Food,540.0,18000.0,,UPI
+Krishna Rao,2023-10-16,Travel,435.0,30000.0,,NetBanking
+Siddharth Rao,2023-10-16,Utilities,419.0,30000.0,,Card
+Krishna Rao,2023-10-16,Entertainment,1425.0,30000.0,,NetBanking
+Shreya Sen,2023-10-17,Groceries,333.0,18000.0,,Card
+Swathi Reddy,2023-10-17,Food,285.0,25000.0,,Cash
+Rahul Kumar,2023-10-17,Health,1865.0,20000.0,,Cash
+Sneha Kapoor,2023-10-17,Study Materials,1545.0,18000.0,,Cash
+Megha Das,2023-10-17,Study Materials,1338.0,25000.0,,NetBanking
+Pooja Mehta,2023-10-17,Groceries,1448.0,30000.0,,UPI
+Nisha Sharma,2023-10-17,Study Materials,856.0,18000.0,,Cash
+Sneha Kapoor,2023-10-17,Entertainment,1290.0,18000.0,,UPI
+Pooja Mehta,2023-10-18,Miscellaneous,1110.0,30000.0,,NetBanking
+Varun Gupta,2023-10-18,Rent,10856.0,20000.0,,UPI
+Varun Gupta,2023-10-18,Rent,8132.0,20000.0,,UPI
+Ananya Singh,2023-10-18,Travel,128.0,30000.0,,NetBanking
+Vikram Joshi,2023-10-19,Utilities,1200.0,25000.0,,Cash
+Aditya Pillai,2023-10-19,Food,201.0,20000.0,,Card
+Krishna Rao,2023-10-19,Entertainment,825.0,30000.0,,NetBanking
+Varun Gupta,2023-10-19,Groceries,2077.0,20000.0,,Cash
+Arjun Nair,2023-10-19,Utilities,1604.0,22000.0,,Cash
+Rohan Verma,2023-10-19,Study Materials,1631.0,20000.0,,UPI
+Rohan Verma,2023-10-19,Utilities,2267.0,20000.0,,UPI
+Shreya Sen,2023-10-20,Travel,440.0,18000.0,,Card
+Sneha Kapoor,2023-10-20,Travel,335.0,18000.0,,UPI
+Ananya Singh,2023-10-20,Study Materials,1739.0,30000.0,,NetBanking
+Vivek Menon,2023-10-20,Travel,467.0,18000.0,,Card
+Sneha Kapoor,2023-10-20,Rent,10212.0,18000.0,,NetBanking
+Arjun Nair,2023-10-20,Health,954.0,22000.0,,Card
+Harini Bhat,2023-10-20,Health,2111.0,30000.0,,Cash
+Karthik Rao,2023-10-21,Utilities,2087.0,18000.0,,Card
+Shreya Sen,2023-10-21,Miscellaneous,1833.0,18000.0,,Card
+Nisha Sharma,2023-10-21,Rent,7001.0,18000.0,,Cash
+Arjun Nair,2023-10-21,Utilities,912.0,22000.0,,NetBanking
+Ishita Roy,2023-10-21,Utilities,780.0,22000.0,,Cash
+Divya Yeddu,2023-10-21,Rent,8478.0,25000.0,,UPI
+Swathi Reddy,2023-10-21,Entertainment,2293.0,25000.0,,UPI
+Shreya Sen,2023-10-21,Food,262.0,18000.0,,UPI
+Varun Gupta,2023-10-21,Health,356.0,20000.0,,Card
+Priya Iyer,2023-10-22,Groceries,1106.0,18000.0,,Card
+Rohan Verma,2023-10-22,Groceries,2329.0,20000.0,,NetBanking
+Ishita Roy,2023-10-22,Study Materials,1309.0,22000.0,,Cash
+Sneha Kapoor,2023-10-22,Rent,9069.0,18000.0,,Card
+Krishna Rao,2023-10-22,Food,533.0,30000.0,,Cash
+Vivek Menon,2023-10-22,Utilities,464.0,18000.0,,Card
+Siddharth Rao,2023-10-22,Study Materials,481.0,30000.0,,NetBanking
+Krishna Rao,2023-10-22,Groceries,1625.0,30000.0,,NetBanking
+Amit Sharma,2023-10-22,Groceries,1253.0,20000.0,,NetBanking
+Divya Yeddu,2023-10-23,Food,411.0,25000.0,,NetBanking
+Pooja Mehta,2023-10-23,Groceries,573.0,30000.0,,NetBanking
+Karthik Rao,2023-10-23,Health,1020.0,18000.0,,UPI
+Ishita Roy,2023-10-23,Entertainment,1795.0,22000.0,,UPI
+Shreya Sen,2023-10-23,Entertainment,194.0,18000.0,,Card
+Sneha Kapoor,2023-10-23,Travel,581.0,18000.0,,Cash
+Megha Das,2023-10-23,Travel,580.0,25000.0,,Cash
+Rohan Verma,2023-10-23,Study Materials,1882.0,20000.0,,UPI
+Shreya Sen,2023-10-24,Rent,11103.0,18000.0,,NetBanking
+Harsha Patel,2023-10-24,Health,2222.0,30000.0,,UPI
+Ishita Roy,2023-10-24,Entertainment,507.0,22000.0,,Card
+Amit Sharma,2023-10-24,Groceries,788.0,20000.0,,NetBanking
+Shreya Sen,2023-10-24,Food,603.0,18000.0,,UPI
+Nisha Sharma,2023-10-24,Groceries,151.0,18000.0,,NetBanking
+Karthik Rao,2023-10-25,Miscellaneous,616.0,18000.0,,UPI
+Tanvi Jain,2023-10-25,Food,650.0,30000.0,,Cash
+Sneha Kapoor,2023-10-25,Food,432.0,18000.0,,UPI
+Swathi Reddy,2023-10-25,Utilities,2255.0,25000.0,,NetBanking
+Siddharth Rao,2023-10-25,Travel,571.0,30000.0,,UPI
+Ananya Singh,2023-10-26,Miscellaneous,1218.0,30000.0,,Card
+Ananya Singh,2023-10-26,Entertainment,558.0,30000.0,,Card
+Ananya Singh,2023-10-26,Rent,5153.0,30000.0,,Card
+Rohan Verma,2023-10-26,Rent,6819.0,20000.0,,Cash
+Harsha Patel,2023-10-26,Study Materials,440.0,30000.0,,UPI
+Priya Iyer,2023-10-26,Entertainment,782.0,18000.0,,UPI
+Megha Das,2023-10-26,Entertainment,548.0,25000.0,,Card
+Shreya Sen,2023-10-26,Miscellaneous,1504.0,18000.0,,NetBanking
+Arjun Nair,2023-10-27,Health,1347.0,22000.0,,Cash
+Megha Das,2023-10-27,Study Materials,820.0,25000.0,,NetBanking
+Siddharth Rao,2023-10-27,Groceries,775.0,30000.0,,NetBanking
+Divya Yeddu,2023-10-27,Miscellaneous,1595.0,25000.0,,Cash
+Ishita Roy,2023-10-27,Entertainment,203.0,22000.0,,Cash
+Vikram Joshi,2023-10-27,Rent,6534.0,25000.0,,Card
+Varun Gupta,2023-10-27,Entertainment,1296.0,20000.0,,Card
+Tanvi Jain,2023-10-27,Rent,5238.0,30000.0,,Cash
+Rahul Kumar,2023-10-28,Travel,564.0,20000.0,,Card
+Rahul Kumar,2023-10-28,Food,619.0,20000.0,,Cash
+Amit Sharma,2023-10-28,Health,621.0,20000.0,,UPI
+Aditya Pillai,2023-10-28,Health,2347.0,20000.0,,NetBanking
+Varun Gupta,2023-10-28,Entertainment,2488.0,20000.0,,NetBanking
+Shreya Sen,2023-10-28,Groceries,1308.0,18000.0,,Cash
+Karthik Rao,2023-10-28,Food,283.0,18000.0,,UPI
+Tanvi Jain,2023-10-28,Miscellaneous,792.0,30000.0,,UPI
+Tanvi Jain,2023-10-29,Travel,174.0,30000.0,,NetBanking
+Harini Bhat,2023-10-29,Entertainment,2460.0,30000.0,,Cash
+Nisha Sharma,2023-10-29,Rent,8324.0,18000.0,,UPI
+Aditya Pillai,2023-10-29,Rent,10397.0,20000.0,,Card
+Amit Sharma,2023-10-29,Utilities,2001.0,20000.0,,UPI
+Ananya Singh,2023-10-30,Entertainment,1119.0,30000.0,,Card
+Sneha Kapoor,2023-10-30,Health,1772.0,18000.0,,UPI
+Karthik Rao,2023-10-30,Entertainment,922.0,18000.0,,Card
+Karthik Rao,2023-10-30,Health,1330.0,18000.0,,NetBanking
+Sneha Kapoor,2023-10-30,Groceries,1238.0,18000.0,,NetBanking
+Harsha Patel,2023-10-30,Study Materials,500.0,30000.0,,NetBanking
+Varun Gupta,2023-10-30,Travel,294.0,20000.0,,Cash
+Aditya Pillai,2023-10-31,Health,2488.0,20000.0,,Card
+Amit Sharma,2023-10-31,Rent,10691.0,20000.0,,Cash
+Amit Sharma,2023-10-31,Food,346.0,20000.0,,UPI
+Vikram Joshi,2023-10-31,Travel,250.0,25000.0,,NetBanking
+Divya Yeddu,2023-10-31,Health,956.0,25000.0,,NetBanking
+Amit Sharma,2023-10-31,Miscellaneous,836.0,20000.0,,UPI
+Karthik Rao,2023-10-31,Travel,103.0,18000.0,,Card
+Karthik Rao,2023-10-31,Travel,402.0,18000.0,,UPI
+Rohan Verma,2023-10-31,Food,473.0,20000.0,,NetBanking
+Shreya Sen,2023-11-01,Health,959.0,18000.0,,NetBanking
+Sneha Kapoor,2023-11-01,Study Materials,1062.0,18000.0,,NetBanking
+Divya Yeddu,2023-11-01,Utilities,2160.0,25000.0,,Cash
+Vivek Menon,2023-11-01,Food,263.0,18000.0,,NetBanking
+Sneha Kapoor,2023-11-01,Health,291.0,18000.0,,NetBanking
+Harini Bhat,2023-11-01,Health,740.0,30000.0,,UPI
+Siddharth Rao,2023-11-02,Travel,511.0,30000.0,,NetBanking
+Divya Yeddu,2023-11-02,Travel,247.0,25000.0,,UPI
+Siddharth Rao,2023-11-02,Entertainment,1355.0,30000.0,,Card
+Nisha Sharma,2023-11-02,Study Materials,326.0,18000.0,,Cash
+Megha Das,2023-11-02,Utilities,2210.0,25000.0,,Cash
+Krishna Rao,2023-11-02,Food,126.0,30000.0,,UPI
+Pooja Mehta,2023-11-02,Entertainment,254.0,30000.0,,NetBanking
+Krishna Rao,2023-11-02,Travel,308.0,30000.0,,UPI
+Megha Das,2023-11-02,Health,453.0,25000.0,,NetBanking
+Siddharth Rao,2023-11-03,Utilities,100.0,30000.0,,UPI
+Aditya Pillai,2023-11-03,Food,678.0,20000.0,,NetBanking
+Vivek Menon,2023-11-03,Groceries,724.0,18000.0,,UPI
+Ananya Singh,2023-11-03,Utilities,1535.0,30000.0,,Card
+Swathi Reddy,2023-11-03,Groceries,2415.0,25000.0,,UPI
+Swathi Reddy,2023-11-03,Miscellaneous,819.0,25000.0,,Cash
+Megha Das,2023-11-03,Food,421.0,25000.0,,Cash
+Sneha Kapoor,2023-11-03,Health,1626.0,18000.0,,Card
+Siddharth Rao,2023-11-03,Entertainment,1350.0,30000.0,,Cash
+Tanvi Jain,2023-11-03,Study Materials,500.0,30000.0,,Card
+Nisha Sharma,2023-11-04,Rent,6245.0,18000.0,,Card
+Megha Das,2023-11-04,Rent,10686.0,25000.0,,NetBanking
+Karthik Rao,2023-11-04,Utilities,1584.0,18000.0,,UPI
+Ishita Roy,2023-11-04,Study Materials,1093.0,22000.0,,Cash
+Ananya Singh,2023-11-04,Miscellaneous,1797.0,30000.0,,Cash
+Pooja Mehta,2023-11-04,Food,215.0,30000.0,,UPI
+Aditya Pillai,2023-11-04,Groceries,654.0,20000.0,,Cash
+Harini Bhat,2023-11-04,Food,273.0,30000.0,,Cash
+Priya Iyer,2023-11-04,Miscellaneous,458.0,18000.0,,NetBanking
+Harini Bhat,2023-11-04,Utilities,2071.0,30000.0,,Cash
+Siddharth Rao,2023-11-04,Groceries,2337.0,30000.0,,Card
+Amit Sharma,2023-11-04,Health,1421.0,20000.0,,Cash
+Amit Sharma,2023-11-05,Entertainment,243.0,20000.0,,NetBanking
+Harsha Patel,2023-11-05,Entertainment,2330.0,30000.0,,NetBanking
+Ananya Singh,2023-11-05,Groceries,642.0,30000.0,,Card
+Aditya Pillai,2023-11-05,Rent,7532.0,20000.0,,Cash
+Priya Iyer,2023-11-05,Utilities,921.0,18000.0,,Card
+Karthik Rao,2023-11-05,Rent,10322.0,18000.0,,Cash
+Aditya Pillai,2023-11-05,Health,548.0,20000.0,,NetBanking
+Arjun Nair,2023-11-05,Rent,8359.0,22000.0,,Card
+Harini Bhat,2023-11-06,Miscellaneous,2068.0,30000.0,,NetBanking
+Arjun Nair,2023-11-06,Miscellaneous,1014.0,22000.0,,UPI
+Tanvi Jain,2023-11-06,Entertainment,688.0,30000.0,,Card
+Karthik Rao,2023-11-06,Entertainment,1127.0,18000.0,,UPI
+Siddharth Rao,2023-11-06,Food,421.0,30000.0,,Card
+Ananya Singh,2023-11-06,Miscellaneous,1634.0,30000.0,,Cash
+Vivek Menon,2023-11-06,Utilities,2178.0,18000.0,,NetBanking
+Ananya Singh,2023-11-06,Utilities,463.0,30000.0,,Card
+Shreya Sen,2023-11-06,Health,1249.0,18000.0,,Card
+Ishita Roy,2023-11-06,Food,486.0,22000.0,,UPI
+Varun Gupta,2023-11-06,Utilities,946.0,20000.0,,UPI
+Vikram Joshi,2023-11-07,Study Materials,306.0,25000.0,,Cash
+Sneha Kapoor,2023-11-07,Miscellaneous,1651.0,18000.0,,UPI
+Divya Yeddu,2023-11-07,Rent,10716.0,25000.0,,Card
+Pooja Mehta,2023-11-07,Health,782.0,30000.0,,UPI
+Swathi Reddy,2023-11-07,Food,231.0,25000.0,,Card
+Nisha Sharma,2023-11-07,Rent,7242.0,18000.0,,Cash
+Harsha Patel,2023-11-07,Miscellaneous,1205.0,30000.0,,Cash
+Pooja Mehta,2023-11-08,Rent,10857.0,30000.0,,Cash
+Sneha Kapoor,2023-11-08,Food,201.0,18000.0,,Cash
+Divya Yeddu,2023-11-08,Food,513.0,25000.0,,Card
+Rohan Verma,2023-11-08,Study Materials,330.0,20000.0,,Cash
+Harsha Patel,2023-11-08,Food,665.0,30000.0,,Card
+Sneha Kapoor,2023-11-08,Entertainment,372.0,18000.0,,Card
+Sneha Kapoor,2023-11-08,Rent,8595.0,18000.0,,Card
+Ishita Roy,2023-11-08,Groceries,585.0,22000.0,,Card
+Ananya Singh,2023-11-08,Groceries,2337.0,30000.0,,Card
+Aditya Pillai,2023-11-09,Rent,10767.0,20000.0,,Card
+Amit Sharma,2023-11-09,Travel,565.0,20000.0,,UPI
+Vivek Menon,2023-11-09,Travel,75.0,18000.0,,Cash
+Pooja Mehta,2023-11-09,Miscellaneous,1385.0,30000.0,,UPI
+Swathi Reddy,2023-11-09,Study Materials,1830.0,25000.0,,Card
+Rahul Kumar,2023-11-09,Food,437.0,20000.0,,Cash
+Amit Sharma,2023-11-09,Food,432.0,20000.0,,NetBanking
+Aditya Pillai,2023-11-09,Food,503.0,20000.0,,Card
+Amit Sharma,2023-11-10,Groceries,495.0,20000.0,,Card
+Megha Das,2023-11-10,Utilities,1415.0,25000.0,,NetBanking
+Megha Das,2023-11-10,Miscellaneous,1717.0,25000.0,,Card
+Ishita Roy,2023-11-10,Utilities,1022.0,22000.0,,Card
+Ananya Singh,2023-11-10,Rent,10481.0,30000.0,,NetBanking
+Ananya Singh,2023-11-10,Health,1275.0,30000.0,,UPI
+Varun Gupta,2023-11-10,Miscellaneous,2170.0,20000.0,,UPI
+Ananya Singh,2023-11-10,Travel,114.0,30000.0,,UPI
+Pooja Mehta,2023-11-10,Study Materials,1031.0,30000.0,,Card
+Harsha Patel,2023-11-10,Study Materials,1454.0,30000.0,,Cash
+Harsha Patel,2023-11-11,Entertainment,290.0,30000.0,,UPI
+Tanvi Jain,2023-11-11,Miscellaneous,2193.0,30000.0,,NetBanking
+Vivek Menon,2023-11-11,Utilities,1767.0,18000.0,,Cash
+Krishna Rao,2023-11-11,Rent,8853.0,30000.0,,Cash
+Shreya Sen,2023-11-11,Entertainment,890.0,18000.0,,Card
+Ishita Roy,2023-11-11,Health,1736.0,22000.0,,Card
+Krishna Rao,2023-11-11,Groceries,1339.0,30000.0,,UPI
+Pooja Mehta,2023-11-11,Study Materials,1142.0,30000.0,,UPI
+Harsha Patel,2023-11-11,Food,682.0,30000.0,,NetBanking
+Vikram Joshi,2023-11-11,Utilities,2389.0,25000.0,,Card
+Vikram Joshi,2023-11-11,Study Materials,863.0,25000.0,,Cash
+Ishita Roy,2023-11-11,Miscellaneous,1473.0,22000.0,,Cash
+Priya Iyer,2023-11-12,Health,1968.0,18000.0,,Cash
+Amit Sharma,2023-11-12,Health,1314.0,20000.0,,UPI
+Tanvi Jain,2023-11-12,Utilities,2049.0,30000.0,,UPI
+Harini Bhat,2023-11-12,Utilities,1049.0,30000.0,,NetBanking
+Sneha Kapoor,2023-11-12,Miscellaneous,1116.0,18000.0,,UPI
+Ananya Singh,2023-11-12,Study Materials,1345.0,30000.0,,Cash
+Harini Bhat,2023-11-12,Rent,8069.0,30000.0,,NetBanking
+Varun Gupta,2023-11-13,Study Materials,1516.0,20000.0,,UPI
+Harsha Patel,2023-11-13,Groceries,2093.0,30000.0,,UPI
+Aditya Pillai,2023-11-13,Miscellaneous,366.0,20000.0,,UPI
+Pooja Mehta,2023-11-13,Entertainment,760.0,30000.0,,NetBanking
+Siddharth Rao,2023-11-13,Groceries,553.0,30000.0,,UPI
+Vikram Joshi,2023-11-13,Food,395.0,25000.0,,NetBanking
+Pooja Mehta,2023-11-13,Rent,10907.0,30000.0,,Cash
+Arjun Nair,2023-11-13,Health,262.0,22000.0,,Card
+Divya Yeddu,2023-11-13,Rent,5851.0,25000.0,,Card
+Megha Das,2023-11-14,Rent,11255.0,25000.0,,Cash
+Tanvi Jain,2023-11-14,Health,1869.0,30000.0,,Cash
+Ishita Roy,2023-11-14,Study Materials,845.0,22000.0,,Cash
+Arjun Nair,2023-11-14,Food,363.0,22000.0,,UPI
+Arjun Nair,2023-11-14,Health,803.0,22000.0,,Cash
+Nisha Sharma,2023-11-14,Rent,8641.0,18000.0,,UPI
+Vivek Menon,2023-11-14,Study Materials,1281.0,18000.0,,Cash
+Shreya Sen,2023-11-14,Entertainment,530.0,18000.0,,Cash
+Megha Das,2023-11-14,Health,1914.0,25000.0,,NetBanking
+Vivek Menon,2023-11-15,Groceries,422.0,18000.0,,Cash
+Ananya Singh,2023-11-15,Rent,4587.0,30000.0,,UPI
+Rahul Kumar,2023-11-15,Study Materials,1623.0,20000.0,,Cash
+Tanvi Jain,2023-11-15,Groceries,1039.0,30000.0,,UPI
+Aditya Pillai,2023-11-15,Rent,5108.0,20000.0,,Card
+Amit Sharma,2023-11-15,Groceries,2274.0,20000.0,,NetBanking
+Harini Bhat,2023-11-15,Food,129.0,30000.0,,UPI
+Megha Das,2023-11-15,Utilities,287.0,25000.0,,Card
+Karthik Rao,2023-11-15,Health,1358.0,18000.0,,Cash
+Harini Bhat,2023-11-15,Health,116.0,30000.0,,Cash
+Harini Bhat,2023-11-15,Entertainment,2023.0,30000.0,,NetBanking
+Vikram Joshi,2023-11-15,Utilities,921.0,25000.0,,Card
+Vikram Joshi,2023-11-15,Travel,321.0,25000.0,,Card
+Nisha Sharma,2023-11-16,Groceries,406.0,18000.0,,Card
+Varun Gupta,2023-11-16,Food,207.0,20000.0,,Card
+Harsha Patel,2023-11-16,Travel,190.0,30000.0,,Cash
+Tanvi Jain,2023-11-16,Travel,134.0,30000.0,,Cash
+Pooja Mehta,2023-11-16,Travel,487.0,30000.0,,UPI
+Harini Bhat,2023-11-16,Miscellaneous,818.0,30000.0,,Cash
+Harsha Patel,2023-11-16,Groceries,814.0,30000.0,,NetBanking
+Vivek Menon,2023-11-16,Groceries,568.0,18000.0,,NetBanking
+Divya Yeddu,2023-11-17,Utilities,549.0,25000.0,,UPI
+Megha Das,2023-11-17,Health,2284.0,25000.0,,Cash
+Karthik Rao,2023-11-17,Entertainment,561.0,18000.0,,Card
+Harsha Patel,2023-11-17,Rent,9215.0,30000.0,,NetBanking
+Swathi Reddy,2023-11-17,Food,213.0,25000.0,,Cash
+Sneha Kapoor,2023-11-17,Miscellaneous,1104.0,18000.0,,Card
+Amit Sharma,2023-11-18,Entertainment,2450.0,20000.0,,Card
+Divya Yeddu,2023-11-18,Entertainment,2085.0,25000.0,,UPI
+Amit Sharma,2023-11-18,Utilities,1731.0,20000.0,,NetBanking
+Arjun Nair,2023-11-18,Study Materials,1651.0,22000.0,,NetBanking
+Rohan Verma,2023-11-18,Travel,443.0,20000.0,,Cash
+Vivek Menon,2023-11-18,Utilities,2284.0,18000.0,,Cash
+Vikram Joshi,2023-11-18,Travel,450.0,25000.0,,Card
+Karthik Rao,2023-11-18,Groceries,1892.0,18000.0,,Cash
+Ananya Singh,2023-11-18,Food,539.0,30000.0,,NetBanking
+Ishita Roy,2023-11-19,Study Materials,520.0,22000.0,,UPI
+Harsha Patel,2023-11-19,Entertainment,2337.0,30000.0,,Card
+Tanvi Jain,2023-11-19,Travel,599.0,30000.0,,Card
+Nisha Sharma,2023-11-19,Health,1787.0,18000.0,,Card
+Arjun Nair,2023-11-19,Entertainment,2017.0,22000.0,,Cash
+Divya Yeddu,2023-11-19,Health,1386.0,25000.0,,Cash
+Ishita Roy,2023-11-19,Food,647.0,22000.0,,NetBanking
+Swathi Reddy,2023-11-19,Travel,547.0,25000.0,,NetBanking
+Tanvi Jain,2023-11-19,Groceries,278.0,30000.0,,Card
+Nisha Sharma,2023-11-19,Entertainment,864.0,18000.0,,Card
+Rohan Verma,2023-11-19,Rent,6518.0,20000.0,,NetBanking
+Rahul Kumar,2023-11-19,Miscellaneous,277.0,20000.0,,Card
+Amit Sharma,2023-11-20,Study Materials,1701.0,20000.0,,Card
+Amit Sharma,2023-11-20,Health,1018.0,20000.0,,Card
+Vikram Joshi,2023-11-20,Rent,11409.0,25000.0,,Card
+Vikram Joshi,2023-11-20,Utilities,1495.0,25000.0,,Card
+Tanvi Jain,2023-11-20,Travel,405.0,30000.0,,Card
+Ananya Singh,2023-11-20,Food,272.0,30000.0,,Card
+Siddharth Rao,2023-11-21,Utilities,1159.0,30000.0,,UPI
+Karthik Rao,2023-11-21,Groceries,469.0,18000.0,,Cash
+Sneha Kapoor,2023-11-21,Food,599.0,18000.0,,Card
+Ananya Singh,2023-11-21,Entertainment,2159.0,30000.0,,Card
+Swathi Reddy,2023-11-21,Health,2065.0,25000.0,,NetBanking
+Harini Bhat,2023-11-21,Miscellaneous,659.0,30000.0,,Cash
+Arjun Nair,2023-11-21,Travel,368.0,22000.0,,Cash
+Krishna Rao,2023-11-21,Health,2326.0,30000.0,,Cash
+Karthik Rao,2023-11-21,Groceries,450.0,18000.0,,Cash
+Krishna Rao,2023-11-21,Study Materials,1825.0,30000.0,,Cash
+Vikram Joshi,2023-11-21,Study Materials,632.0,25000.0,,Cash
+Aditya Pillai,2023-11-21,Study Materials,1299.0,20000.0,,UPI
+Shreya Sen,2023-11-22,Rent,4711.0,18000.0,,UPI
+Ananya Singh,2023-11-22,Travel,225.0,30000.0,,Cash
+Tanvi Jain,2023-11-22,Health,1010.0,30000.0,,UPI
+Tanvi Jain,2023-11-22,Travel,279.0,30000.0,,NetBanking
+Swathi Reddy,2023-11-22,Travel,170.0,25000.0,,Card
+Pooja Mehta,2023-11-22,Rent,4251.0,30000.0,,Cash
+Vikram Joshi,2023-11-22,Food,105.0,25000.0,,UPI
+Rohan Verma,2023-11-23,Miscellaneous,1151.0,20000.0,,Card
+Vikram Joshi,2023-11-23,Miscellaneous,944.0,25000.0,,Card
+Nisha Sharma,2023-11-23,Rent,10330.0,18000.0,,NetBanking
+Divya Yeddu,2023-11-23,Study Materials,1540.0,25000.0,,UPI
+Priya Iyer,2023-11-23,Miscellaneous,430.0,18000.0,,UPI
+Siddharth Rao,2023-11-23,Entertainment,1741.0,30000.0,,NetBanking
+Megha Das,2023-11-23,Rent,4640.0,25000.0,,Card
+Nisha Sharma,2023-11-23,Rent,9511.0,18000.0,,Card
+Divya Yeddu,2023-11-24,Utilities,1918.0,25000.0,,NetBanking
+Swathi Reddy,2023-11-24,Utilities,848.0,25000.0,,Cash
+Pooja Mehta,2023-11-24,Miscellaneous,192.0,30000.0,,Card
+Rohan Verma,2023-11-25,Entertainment,208.0,20000.0,,NetBanking
+Harsha Patel,2023-11-25,Groceries,830.0,30000.0,,Card
+Shreya Sen,2023-11-25,Entertainment,1883.0,18000.0,,Cash
+Vivek Menon,2023-11-25,Food,238.0,18000.0,,Cash
+Shreya Sen,2023-11-25,Health,695.0,18000.0,,Cash
+Swathi Reddy,2023-11-25,Food,124.0,25000.0,,Cash
+Harsha Patel,2023-11-25,Entertainment,1932.0,30000.0,,UPI
+Vivek Menon,2023-11-25,Groceries,1415.0,18000.0,,Card
+Karthik Rao,2023-11-25,Health,1072.0,18000.0,,NetBanking
+Ishita Roy,2023-11-25,Entertainment,1014.0,22000.0,,Card
+Vikram Joshi,2023-11-25,Entertainment,2351.0,25000.0,,NetBanking
+Ananya Singh,2023-11-25,Groceries,2393.0,30000.0,,Cash
+Sneha Kapoor,2023-11-25,Travel,557.0,18000.0,,Card
+Harsha Patel,2023-11-25,Miscellaneous,1440.0,30000.0,,Card
+Divya Yeddu,2023-11-25,Entertainment,1331.0,25000.0,,Cash
+Pooja Mehta,2023-11-25,Miscellaneous,2120.0,30000.0,,UPI
+Karthik Rao,2023-11-25,Food,618.0,18000.0,,Cash
+Amit Sharma,2023-11-26,Groceries,892.0,20000.0,,Card
+Harsha Patel,2023-11-26,Rent,6899.0,30000.0,,UPI
+Ishita Roy,2023-11-26,Study Materials,319.0,22000.0,,Card
+Siddharth Rao,2023-11-26,Miscellaneous,1318.0,30000.0,,Cash
+Rahul Kumar,2023-11-26,Utilities,896.0,20000.0,,NetBanking
+Amit Sharma,2023-11-26,Groceries,1048.0,20000.0,,Card
+Rahul Kumar,2023-11-26,Food,664.0,20000.0,,Card
+Harsha Patel,2023-11-26,Utilities,1221.0,30000.0,,Cash
+Krishna Rao,2023-11-26,Miscellaneous,2261.0,30000.0,,UPI
+Vikram Joshi,2023-11-26,Entertainment,131.0,25000.0,,Cash
+Tanvi Jain,2023-11-26,Utilities,2329.0,30000.0,,Card
+Vivek Menon,2023-11-26,Entertainment,2291.0,18000.0,,Card
+Harsha Patel,2023-11-26,Utilities,2084.0,30000.0,,NetBanking
+Shreya Sen,2023-11-27,Travel,126.0,18000.0,,Card
+Krishna Rao,2023-11-27,Groceries,2110.0,30000.0,,Cash
+Pooja Mehta,2023-11-27,Food,126.0,30000.0,,NetBanking
+Rohan Verma,2023-11-27,Groceries,1575.0,20000.0,,Card
+Nisha Sharma,2023-11-27,Groceries,456.0,18000.0,,UPI
+Ananya Singh,2023-11-27,Study Materials,1985.0,30000.0,,Card
+Ishita Roy,2023-11-28,Entertainment,585.0,22000.0,,UPI
+Priya Iyer,2023-11-28,Utilities,1096.0,18000.0,,Card
+Vivek Menon,2023-11-28,Travel,331.0,18000.0,,Cash
+Varun Gupta,2023-11-28,Food,497.0,20000.0,,Card
+Arjun Nair,2023-11-28,Miscellaneous,730.0,22000.0,,Cash
+Vivek Menon,2023-11-28,Utilities,222.0,18000.0,,UPI
+Rohan Verma,2023-11-28,Utilities,1285.0,20000.0,,Cash
+Harsha Patel,2023-11-28,Food,299.0,30000.0,,Card
+Amit Sharma,2023-11-28,Health,666.0,20000.0,,UPI
+Siddharth Rao,2023-11-29,Study Materials,1840.0,30000.0,,Cash
+Vikram Joshi,2023-11-29,Miscellaneous,1059.0,25000.0,,NetBanking
+Aditya Pillai,2023-11-29,Health,2492.0,20000.0,,Cash
+Harsha Patel,2023-11-29,Miscellaneous,2028.0,30000.0,,Cash
+Pooja Mehta,2023-11-29,Travel,92.0,30000.0,,Card
+Tanvi Jain,2023-11-29,Groceries,2017.0,30000.0,,NetBanking
+Vivek Menon,2023-11-29,Study Materials,691.0,18000.0,,Card
+Tanvi Jain,2023-11-29,Rent,9134.0,30000.0,,NetBanking
+Rahul Kumar,2023-11-29,Groceries,665.0,20000.0,,Cash
+Tanvi Jain,2023-11-29,Travel,225.0,30000.0,,Card
+Tanvi Jain,2023-11-30,Rent,8216.0,30000.0,,UPI
+Siddharth Rao,2023-11-30,Groceries,1036.0,30000.0,,Cash
+Rohan Verma,2023-11-30,Study Materials,692.0,20000.0,,UPI
+Nisha Sharma,2023-11-30,Groceries,178.0,18000.0,,NetBanking
+Megha Das,2023-11-30,Rent,4379.0,25000.0,,Card
+Rahul Kumar,2023-11-30,Travel,333.0,20000.0,,Cash
+Arjun Nair,2023-11-30,Groceries,123.0,22000.0,,Card
+Ishita Roy,2023-12-01,Food,132.0,22000.0,,Card
+Harini Bhat,2023-12-01,Utilities,1293.0,30000.0,,UPI
+Shreya Sen,2023-12-01,Food,599.0,18000.0,,Card
+Krishna Rao,2023-12-01,Groceries,908.0,30000.0,,Card
+Rohan Verma,2023-12-01,Study Materials,1075.0,20000.0,,UPI
+Vivek Menon,2023-12-01,Food,450.0,18000.0,,Cash
+Swathi Reddy,2023-12-01,Miscellaneous,215.0,25000.0,,Card
+Shreya Sen,2023-12-01,Food,468.0,18000.0,,NetBanking
+Varun Gupta,2023-12-01,Travel,589.0,20000.0,,Cash
+Megha Das,2023-12-01,Study Materials,1474.0,25000.0,,NetBanking
+Rahul Kumar,2023-12-01,Utilities,894.0,20000.0,,Cash
+Karthik Rao,2023-12-01,Travel,136.0,18000.0,,UPI
+Ananya Singh,2023-12-01,Food,406.0,30000.0,,UPI
+Pooja Mehta,2023-12-01,Miscellaneous,1989.0,30000.0,,Card
+Ananya Singh,2023-12-01,Food,532.0,30000.0,,Cash
+Swathi Reddy,2023-12-01,Study Materials,799.0,25000.0,,NetBanking
+Megha Das,2023-12-01,Entertainment,312.0,25000.0,,NetBanking
+Divya Yeddu,2023-12-02,Miscellaneous,398.0,25000.0,,NetBanking
+Ananya Singh,2023-12-02,Miscellaneous,2323.0,30000.0,,Card
+Siddharth Rao,2023-12-02,Health,1172.0,30000.0,,Card
+Amit Sharma,2023-12-02,Rent,4445.0,20000.0,,UPI
+Vikram Joshi,2023-12-02,Utilities,880.0,25000.0,,NetBanking
+Pooja Mehta,2023-12-02,Food,536.0,30000.0,,NetBanking
+Rahul Kumar,2023-12-02,Health,1329.0,20000.0,,Card
+Priya Iyer,2023-12-02,Rent,4936.0,18000.0,,Cash
+Harini Bhat,2023-12-02,Travel,378.0,30000.0,,Cash
+Varun Gupta,2023-12-02,Study Materials,1098.0,20000.0,,NetBanking
+Shreya Sen,2023-12-03,Travel,131.0,18000.0,,NetBanking
+Vivek Menon,2023-12-03,Travel,295.0,18000.0,,UPI
+Rohan Verma,2023-12-03,Travel,201.0,20000.0,,UPI
+Tanvi Jain,2023-12-03,Entertainment,1412.0,30000.0,,UPI
+Tanvi Jain,2023-12-03,Travel,547.0,30000.0,,NetBanking
+Vikram Joshi,2023-12-03,Food,428.0,25000.0,,NetBanking
+Tanvi Jain,2023-12-03,Travel,97.0,30000.0,,Card
+Ananya Singh,2023-12-03,Study Materials,468.0,30000.0,,UPI
+Amit Sharma,2023-12-03,Food,157.0,20000.0,,UPI
+Sneha Kapoor,2023-12-03,Food,621.0,18000.0,,UPI
+Krishna Rao,2023-12-03,Groceries,2484.0,30000.0,,Card
+Aditya Pillai,2023-12-03,Study Materials,1185.0,20000.0,,Card
+Rahul Kumar,2023-12-03,Entertainment,2392.0,20000.0,,Card
+Shreya Sen,2023-12-03,Miscellaneous,1069.0,18000.0,,Cash
+Aditya Pillai,2023-12-04,Rent,7804.0,20000.0,,Card
+Harini Bhat,2023-12-04,Study Materials,380.0,30000.0,,NetBanking
+Priya Iyer,2023-12-04,Miscellaneous,1073.0,18000.0,,NetBanking
+Siddharth Rao,2023-12-04,Travel,414.0,30000.0,,Card
+Aditya Pillai,2023-12-04,Food,198.0,20000.0,,UPI
+Divya Yeddu,2023-12-04,Groceries,783.0,25000.0,,Card
+Ananya Singh,2023-12-04,Food,101.0,30000.0,,Card
+Swathi Reddy,2023-12-05,Study Materials,1480.0,25000.0,,Card
+Sneha Kapoor,2023-12-05,Groceries,679.0,18000.0,,UPI
+Priya Iyer,2023-12-05,Study Materials,1359.0,18000.0,,NetBanking
+Arjun Nair,2023-12-05,Travel,495.0,22000.0,,NetBanking
+Sneha Kapoor,2023-12-05,Groceries,1303.0,18000.0,,NetBanking
+Shreya Sen,2023-12-06,Miscellaneous,1558.0,18000.0,,Cash
+Aditya Pillai,2023-12-06,Rent,6911.0,20000.0,,Card
+Siddharth Rao,2023-12-06,Health,1723.0,30000.0,,UPI
+Amit Sharma,2023-12-06,Entertainment,2386.0,20000.0,,NetBanking
+Rahul Kumar,2023-12-06,Utilities,1946.0,20000.0,,UPI
+Rohan Verma,2023-12-06,Study Materials,851.0,20000.0,,NetBanking
+Krishna Rao,2023-12-06,Rent,8897.0,30000.0,,Card
+Arjun Nair,2023-12-06,Miscellaneous,1151.0,22000.0,,Cash
+Divya Yeddu,2023-12-07,Utilities,862.0,25000.0,,NetBanking
+Priya Iyer,2023-12-07,Health,1536.0,18000.0,,NetBanking
+Arjun Nair,2023-12-07,Rent,7928.0,22000.0,,Card
+Harsha Patel,2023-12-07,Travel,118.0,30000.0,,Cash
+Shreya Sen,2023-12-07,Travel,154.0,18000.0,,NetBanking
+Arjun Nair,2023-12-07,Entertainment,2133.0,22000.0,,Card
+Krishna Rao,2023-12-08,Travel,599.0,30000.0,,Card
+Siddharth Rao,2023-12-08,Health,1439.0,30000.0,,NetBanking
+Priya Iyer,2023-12-08,Groceries,1153.0,18000.0,,UPI
+Harsha Patel,2023-12-08,Food,228.0,30000.0,,NetBanking
+Ishita Roy,2023-12-08,Study Materials,900.0,22000.0,,Card
+Harsha Patel,2023-12-08,Entertainment,1496.0,30000.0,,NetBanking
+Vivek Menon,2023-12-08,Travel,389.0,18000.0,,Card
+Vikram Joshi,2023-12-08,Study Materials,1612.0,25000.0,,UPI
+Amit Sharma,2023-12-08,Travel,351.0,20000.0,,UPI
+Divya Yeddu,2023-12-08,Study Materials,1967.0,25000.0,,Cash
+Rohan Verma,2023-12-09,Study Materials,1469.0,20000.0,,UPI
+Ishita Roy,2023-12-09,Food,318.0,22000.0,,Cash
+Aditya Pillai,2023-12-09,Food,188.0,20000.0,,Card
+Vivek Menon,2023-12-09,Study Materials,1670.0,18000.0,,UPI
+Harsha Patel,2023-12-09,Study Materials,305.0,30000.0,,UPI
+Ananya Singh,2023-12-10,Travel,233.0,30000.0,,Card
+Rohan Verma,2023-12-10,Food,643.0,20000.0,,NetBanking
+Sneha Kapoor,2023-12-10,Food,193.0,18000.0,,Card
+Aditya Pillai,2023-12-10,Travel,424.0,20000.0,,Card
+Harini Bhat,2023-12-10,Food,259.0,30000.0,,NetBanking
+Priya Iyer,2023-12-10,Health,212.0,18000.0,,Cash
+Harini Bhat,2023-12-10,Health,816.0,30000.0,,Cash
+Ananya Singh,2023-12-10,Food,688.0,30000.0,,Card
+Nisha Sharma,2023-12-11,Rent,11784.0,18000.0,,NetBanking
+Ishita Roy,2023-12-11,Food,677.0,22000.0,,NetBanking
+Vikram Joshi,2023-12-11,Rent,9093.0,25000.0,,Cash
+Tanvi Jain,2023-12-11,Groceries,1136.0,30000.0,,Card
+Nisha Sharma,2023-12-11,Groceries,182.0,18000.0,,Card
+Amit Sharma,2023-12-11,Health,302.0,20000.0,,UPI
+Megha Das,2023-12-11,Utilities,147.0,25000.0,,NetBanking
+Sneha Kapoor,2023-12-11,Travel,342.0,18000.0,,Card
+Siddharth Rao,2023-12-12,Health,295.0,30000.0,,UPI
+Ananya Singh,2023-12-12,Travel,107.0,30000.0,,UPI
+Tanvi Jain,2023-12-13,Health,1535.0,30000.0,,Card
+Aditya Pillai,2023-12-13,Study Materials,352.0,20000.0,,UPI
+Megha Das,2023-12-13,Food,337.0,25000.0,,UPI
+Harsha Patel,2023-12-13,Entertainment,2116.0,30000.0,,UPI
+Arjun Nair,2023-12-13,Entertainment,227.0,22000.0,,Card
+Arjun Nair,2023-12-13,Rent,8176.0,22000.0,,Cash
+Harsha Patel,2023-12-13,Miscellaneous,163.0,30000.0,,Card
+Arjun Nair,2023-12-14,Study Materials,342.0,22000.0,,NetBanking
+Harini Bhat,2023-12-14,Entertainment,2234.0,30000.0,,UPI
+Krishna Rao,2023-12-14,Study Materials,1279.0,30000.0,,Cash
+Sneha Kapoor,2023-12-14,Food,221.0,18000.0,,Cash
+Vikram Joshi,2023-12-14,Health,195.0,25000.0,,UPI
+Siddharth Rao,2023-12-14,Rent,6473.0,30000.0,,UPI
+Swathi Reddy,2023-12-14,Entertainment,141.0,25000.0,,UPI
+Sneha Kapoor,2023-12-14,Groceries,1407.0,18000.0,,Cash
+Megha Das,2023-12-14,Health,1135.0,25000.0,,Card
+Pooja Mehta,2023-12-14,Health,141.0,30000.0,,NetBanking
+Krishna Rao,2023-12-15,Utilities,1136.0,30000.0,,UPI
+Rahul Kumar,2023-12-15,Groceries,855.0,20000.0,,Cash
+Pooja Mehta,2023-12-15,Food,229.0,30000.0,,Cash
+Varun Gupta,2023-12-15,Study Materials,1302.0,20000.0,,Cash
+Vivek Menon,2023-12-15,Food,313.0,18000.0,,UPI
+Ishita Roy,2023-12-15,Food,578.0,22000.0,,NetBanking
+Tanvi Jain,2023-12-15,Food,303.0,30000.0,,Card
+Vikram Joshi,2023-12-15,Rent,4464.0,25000.0,,NetBanking
+Shreya Sen,2023-12-15,Health,115.0,18000.0,,Cash
+Amit Sharma,2023-12-15,Travel,370.0,20000.0,,Card
+Vivek Menon,2023-12-16,Study Materials,1314.0,18000.0,,Cash
+Harini Bhat,2023-12-16,Entertainment,1175.0,30000.0,,Card
+Ananya Singh,2023-12-16,Groceries,1132.0,30000.0,,UPI
+Swathi Reddy,2023-12-16,Health,173.0,25000.0,,UPI
+Rahul Kumar,2023-12-16,Travel,369.0,20000.0,,Cash
+Ananya Singh,2023-12-16,Utilities,1689.0,30000.0,,Card
+Rohan Verma,2023-12-16,Groceries,2372.0,20000.0,,Cash
+Pooja Mehta,2023-12-16,Study Materials,521.0,30000.0,,NetBanking
+Harini Bhat,2023-12-16,Groceries,208.0,30000.0,,UPI
+Nisha Sharma,2023-12-16,Rent,5855.0,18000.0,,Cash
+Sneha Kapoor,2023-12-17,Food,348.0,18000.0,,UPI
+Rohan Verma,2023-12-17,Rent,10059.0,20000.0,,NetBanking
+Swathi Reddy,2023-12-17,Groceries,1816.0,25000.0,,Cash
+Rohan Verma,2023-12-17,Entertainment,1398.0,20000.0,,NetBanking
+Megha Das,2023-12-18,Study Materials,1191.0,25000.0,,NetBanking
+Ishita Roy,2023-12-18,Travel,407.0,22000.0,,Card
+Tanvi Jain,2023-12-18,Entertainment,1675.0,30000.0,,Card
+Divya Yeddu,2023-12-18,Miscellaneous,583.0,25000.0,,UPI
+Karthik Rao,2023-12-18,Entertainment,1381.0,18000.0,,Cash
+Shreya Sen,2023-12-18,Food,361.0,18000.0,,UPI
+Nisha Sharma,2023-12-18,Groceries,1535.0,18000.0,,Card
+Megha Das,2023-12-18,Rent,10917.0,25000.0,,UPI
+Vikram Joshi,2023-12-18,Groceries,2095.0,25000.0,,UPI
+Krishna Rao,2023-12-18,Rent,11488.0,30000.0,,Cash
+Sneha Kapoor,2023-12-19,Miscellaneous,1760.0,18000.0,,Cash
+Shreya Sen,2023-12-19,Rent,7877.0,18000.0,,UPI
+Shreya Sen,2023-12-19,Entertainment,1340.0,18000.0,,NetBanking
+Nisha Sharma,2023-12-19,Utilities,2495.0,18000.0,,Card
+Megha Das,2023-12-19,Food,615.0,25000.0,,Cash
+Pooja Mehta,2023-12-19,Health,977.0,30000.0,,UPI
+Krishna Rao,2023-12-19,Health,1521.0,30000.0,,Card
+Harsha Patel,2023-12-19,Groceries,1651.0,30000.0,,Cash
+Aditya Pillai,2023-12-19,Study Materials,1268.0,20000.0,,Cash
+Siddharth Rao,2023-12-20,Study Materials,621.0,30000.0,,UPI
+Harsha Patel,2023-12-20,Study Materials,1935.0,30000.0,,Cash
+Rahul Kumar,2023-12-20,Utilities,574.0,20000.0,,UPI
+Amit Sharma,2023-12-20,Entertainment,597.0,20000.0,,UPI
+Varun Gupta,2023-12-20,Health,2251.0,20000.0,,UPI
+Arjun Nair,2023-12-20,Study Materials,861.0,22000.0,,Card
+Swathi Reddy,2023-12-20,Study Materials,387.0,25000.0,,UPI
+Varun Gupta,2023-12-20,Health,2102.0,20000.0,,NetBanking
+Vivek Menon,2023-12-20,Health,1629.0,18000.0,,UPI
+Harini Bhat,2023-12-21,Utilities,1274.0,30000.0,,Cash
+Megha Das,2023-12-21,Miscellaneous,441.0,25000.0,,NetBanking
+Krishna Rao,2023-12-21,Travel,384.0,30000.0,,UPI
+Rohan Verma,2023-12-21,Food,468.0,20000.0,,Card
+Rahul Kumar,2023-12-21,Utilities,1858.0,20000.0,,NetBanking
+Karthik Rao,2023-12-21,Health,1272.0,18000.0,,Cash
+Priya Iyer,2023-12-21,Groceries,657.0,18000.0,,Cash
+Divya Yeddu,2023-12-21,Health,339.0,25000.0,,Card
+Harini Bhat,2023-12-21,Travel,428.0,30000.0,,UPI
+Arjun Nair,2023-12-21,Health,976.0,22000.0,,Cash
+Ananya Singh,2023-12-22,Study Materials,363.0,30000.0,,Cash
+Krishna Rao,2023-12-22,Miscellaneous,1337.0,30000.0,,NetBanking
+Rahul Kumar,2023-12-22,Food,512.0,20000.0,,Cash
+Ananya Singh,2023-12-22,Rent,4021.0,30000.0,,NetBanking
+Varun Gupta,2023-12-23,Groceries,1033.0,20000.0,,UPI
+Ishita Roy,2023-12-23,Food,589.0,22000.0,,UPI
+Priya Iyer,2023-12-23,Study Materials,562.0,18000.0,,UPI
+Priya Iyer,2023-12-23,Utilities,1679.0,18000.0,,NetBanking
+Vikram Joshi,2023-12-23,Groceries,1066.0,25000.0,,NetBanking
+Shreya Sen,2023-12-23,Health,1954.0,18000.0,,Card
+Rohan Verma,2023-12-23,Entertainment,940.0,20000.0,,NetBanking
+Priya Iyer,2023-12-24,Travel,77.0,18000.0,,Cash
+Harini Bhat,2023-12-24,Miscellaneous,492.0,30000.0,,NetBanking
+Ananya Singh,2023-12-24,Food,376.0,30000.0,,Cash
+Aditya Pillai,2023-12-24,Study Materials,808.0,20000.0,,NetBanking
+Vivek Menon,2023-12-24,Miscellaneous,1550.0,18000.0,,Cash
+Krishna Rao,2023-12-24,Study Materials,375.0,30000.0,,NetBanking
+Krishna Rao,2023-12-24,Miscellaneous,1234.0,30000.0,,UPI
+Pooja Mehta,2023-12-25,Entertainment,1430.0,30000.0,,Cash
+Nisha Sharma,2023-12-25,Rent,6820.0,18000.0,,Card
+Varun Gupta,2023-12-25,Groceries,2029.0,20000.0,,Cash
+Varun Gupta,2023-12-25,Entertainment,813.0,20000.0,,UPI
+Rahul Kumar,2023-12-25,Entertainment,327.0,20000.0,,Card
+Swathi Reddy,2023-12-25,Travel,457.0,25000.0,,NetBanking
+Vikram Joshi,2023-12-25,Entertainment,521.0,25000.0,,UPI
+Shreya Sen,2023-12-25,Utilities,1586.0,18000.0,,NetBanking
+Pooja Mehta,2023-12-25,Health,1726.0,30000.0,,UPI
+Divya Yeddu,2023-12-25,Miscellaneous,1774.0,25000.0,,Card
+Megha Das,2023-12-25,Entertainment,1460.0,25000.0,,UPI
+Nisha Sharma,2023-12-25,Food,248.0,18000.0,,NetBanking
+Shreya Sen,2023-12-25,Study Materials,1412.0,18000.0,,Card
+Rohan Verma,2023-12-25,Food,534.0,20000.0,,Cash
+Ishita Roy,2023-12-26,Health,2142.0,22000.0,,UPI
+Aditya Pillai,2023-12-26,Utilities,543.0,20000.0,,Card
+Rohan Verma,2023-12-26,Miscellaneous,1156.0,20000.0,,Cash
+Vivek Menon,2023-12-26,Study Materials,1705.0,18000.0,,Card
+Megha Das,2023-12-26,Study Materials,467.0,25000.0,,UPI
+Rahul Kumar,2023-12-26,Rent,7590.0,20000.0,,NetBanking
+Rahul Kumar,2023-12-27,Health,1963.0,20000.0,,Card
+Varun Gupta,2023-12-27,Groceries,1049.0,20000.0,,NetBanking
+Rahul Kumar,2023-12-27,Miscellaneous,2249.0,20000.0,,NetBanking
+Ananya Singh,2023-12-27,Utilities,1979.0,30000.0,,Cash
+Aditya Pillai,2023-12-27,Miscellaneous,2063.0,20000.0,,NetBanking
+Vikram Joshi,2023-12-28,Study Materials,445.0,25000.0,,NetBanking
+Arjun Nair,2023-12-28,Rent,4243.0,22000.0,,Cash
+Tanvi Jain,2023-12-28,Study Materials,1805.0,30000.0,,NetBanking
+Vivek Menon,2023-12-28,Food,670.0,18000.0,,Cash
+Krishna Rao,2023-12-29,Food,154.0,30000.0,,Card
+Tanvi Jain,2023-12-29,Entertainment,449.0,30000.0,,UPI
+Amit Sharma,2023-12-29,Miscellaneous,969.0,20000.0,,Cash
+Shreya Sen,2023-12-29,Study Materials,1458.0,18000.0,,Card
+Rahul Kumar,2023-12-29,Study Materials,843.0,20000.0,,NetBanking
+Megha Das,2023-12-29,Food,580.0,25000.0,,Card
+Ananya Singh,2023-12-29,Food,170.0,30000.0,,Card
+Siddharth Rao,2023-12-29,Entertainment,2155.0,30000.0,,Card
+Rohan Verma,2023-12-29,Rent,5305.0,20000.0,,Cash
+Swathi Reddy,2023-12-30,Travel,583.0,25000.0,,UPI
+Priya Iyer,2023-12-30,Groceries,340.0,18000.0,,Cash
+Amit Sharma,2023-12-30,Study Materials,809.0,20000.0,,UPI
+Vivek Menon,2023-12-30,Study Materials,1375.0,18000.0,,NetBanking
+Pooja Mehta,2023-12-30,Miscellaneous,1178.0,30000.0,,Cash
+Rohan Verma,2023-12-31,Utilities,1822.0,20000.0,,Card
+Shreya Sen,2023-12-31,Food,588.0,18000.0,,Card
+Varun Gupta,2023-12-31,Utilities,359.0,20000.0,,NetBanking
+Aditya Pillai,2023-12-31,Miscellaneous,1229.0,20000.0,,Cash
+Swathi Reddy,2023-12-31,Groceries,1829.0,25000.0,,Cash
+Varun Gupta,2023-12-31,Entertainment,827.0,20000.0,,Cash
+Vikram Joshi,2023-12-31,Study Materials,517.0,25000.0,,UPI
+Ananya Singh,2023-12-31,Entertainment,1663.0,30000.0,,UPI
+Sneha Kapoor,2023-12-31,Study Materials,1436.0,18000.0,,Card
+Rohan Verma,2023-12-31,Entertainment,1643.0,20000.0,,Card
+Amit Sharma,2023-12-31,Travel,405.0,20000.0,,NetBanking
+Vivek Menon,2023-12-31,Health,137.0,18000.0,,Cash
+Vikram Joshi,2023-12-31,Study Materials,1313.0,25000.0,,Card
+Nisha Sharma,2024-01-01,Utilities,1497.0,18000.0,,NetBanking
+Priya Iyer,2024-01-01,Rent,5457.0,18000.0,,Cash
+Harsha Patel,2024-01-01,Health,1609.0,30000.0,,Card
+Harsha Patel,2024-01-01,Entertainment,2486.0,30000.0,,UPI
+Harini Bhat,2024-01-01,Utilities,1565.0,30000.0,,UPI
+Arjun Nair,2024-01-01,Food,441.0,22000.0,,UPI
+Arjun Nair,2024-01-01,Food,381.0,22000.0,,UPI
+Arjun Nair,2024-01-01,Food,572.0,22000.0,,Cash
+Nisha Sharma,2024-01-01,Entertainment,500.0,18000.0,,NetBanking
+Vikram Joshi,2024-01-01,Study Materials,1807.0,25000.0,,UPI
+Amit Sharma,2024-01-01,Groceries,2386.0,20000.0,,Card
+Swathi Reddy,2024-01-01,Travel,431.0,25000.0,,UPI
+Vivek Menon,2024-01-01,Travel,414.0,18000.0,,NetBanking
+Yeddu Divya Sri,2025-11-07,food,890.0,30000.0,,cash
+varun,2024-08-30,trees,500.0,30000.0,,

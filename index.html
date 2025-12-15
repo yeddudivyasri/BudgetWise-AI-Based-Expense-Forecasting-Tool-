@@ -1,0 +1,119 @@
+{% extends "base.html" %}
+{% block title %}BudgetWise — Forecast{% endblock %}
+{% block content %}
+<div class="card">
+  <form method="post" action="{{ url_for('predict') }}">
+    <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center">
+      <label class="muted">Person</label>
+      <select name="name" required>
+        <option value="">-- choose person --</option>
+        {% for u in users %}
+          <option value="{{ u }}">{{ u }}</option>
+        {% endfor %}
+      </select>
+
+      <label class="muted">Train months</label>
+      <select name="months">
+        <option value="6">Last 6</option>
+        <option value="12" selected>Last 12</option>
+        <option value="all">All</option>
+      </select>
+
+      <button style="background:var(--accent);color:white;padding:10px;border-radius:8px;border:none">
+        Predict
+      </button>
+      <a style="text-decoration:none;padding:10px;border-radius:8px;background:#eef6ff;color:var(--accent)"
+         href="{{ url_for('index') }}">Reset</a>
+    </div>
+  </form>
+</div>
+
+{% if results %}
+  <div class="card">
+    <h2>{{ results.name }}</h2>
+    <div class="muted">Predicted next month expense</div>
+    <div style="font-size:22px;font-weight:700;margin-top:6px;">₹ {{ results.predicted }}</div>
+    <div class="muted" style="margin-top:6px">
+      Recommendation: <strong>{{ results.recommendation }}</strong>
+    </div>
+
+    <div style="margin-top:12px">
+      <div class="muted">Model: {{ results.model_name }}</div>
+      <div style="margin-top:6px">
+        MAE: {{ results.mae if results.mae!=None else '—' }}
+        • RMSE: {{ results.rmse if results.rmse!=None else '—' }}
+        • R²: {{ results.r2 if results.r2!=None else '—' }}
+      </div>
+    </div>
+
+    <hr style="margin:14px 0">
+
+    <h3>Visuals</h3>
+    <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:10px">
+      <div class="card">
+        <h4>Trend</h4>
+        <img src="{{ url_for('static', filename='plots/' + results.plots['trend']) }}" style="max-width:100%">
+      </div>
+      <div class="card">
+        <h4>Regression</h4>
+        {% if results.plots['regplot'] %}
+          <img src="{{ url_for('static', filename='plots/' + results.plots['regplot']) }}" style="max-width:100%">
+        {% else %}
+          <div class="muted">Not enough monthly points.</div>
+        {% endif %}
+      </div>
+      <div class="card">
+        <h4>Histogram</h4>
+        <img src="{{ url_for('static', filename='plots/' + results.plots['hist']) }}" style="max-width:100%">
+      </div>
+      <div class="card">
+        <h4>Boxplot</h4>
+        <img src="{{ url_for('static', filename='plots/' + results.plots['box']) }}" style="max-width:100%">
+      </div>
+      <div class="card">
+        <h4>Violin</h4>
+        <img src="{{ url_for('static', filename='plots/' + results.plots['violin']) }}" style="max-width:100%">
+      </div>
+      <div class="card">
+        <h4>Pie</h4>
+        {% if results.plots['pie'] %}
+          <img src="{{ url_for('static', filename='plots/' + results.plots['pie']) }}" style="max-width:100%">
+        {% else %}
+          <div class="muted">No category data.</div>
+        {% endif %}
+      </div>
+    </div>
+
+    <div style="margin-top:12px;display:flex;gap:10px;flex-wrap:wrap">
+      <a href="{{ url_for('download_report') }}?person={{ results.name }}&months=12"
+         style="background:var(--accent);color:white;padding:8px 12px;border-radius:8px;text-decoration:none">
+        Download PDF Report
+      </a>
+
+     
+      <a href="{{ url_for('dashboard') }}?user={{ results.name }}"
+         style="background:#eef6ff;color:var(--accent);padding:8px 12px;border-radius:8px;text-decoration:none">
+        Open {{ results.name }}'s dashboard
+      </a>
+    </div>
+  </div>
+{% else %}
+  <div class="card">
+    <h3>How it works</h3>
+    <p class="muted">Choose a person above and click Predict to see the forecast and visuals.</p>
+
+    <div style="margin-top:10px">
+      <div class="muted" style="margin-bottom:4px;">Or jump directly to a person’s dashboard:</div>
+      <ul style="padding-left:18px;margin:6px 0">
+        {% for u in users %}
+          <li>
+            <a href="{{ url_for('dashboard') }}?user={{ u }}" style="color:var(--accent);text-decoration:none;">
+              {{ u }} — open dashboard
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endif %}
+{% endblock %}

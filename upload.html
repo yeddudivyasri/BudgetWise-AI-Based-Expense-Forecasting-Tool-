@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Upload Dataset{% endblock %}
+{% block content %}
+<div class="card" style="max-width:600px;margin:0 auto">
+  <h2>Upload CSV dataset</h2>
+  <form method="post" enctype="multipart/form-data">
+    <input type="file" name="dataset" accept=".csv" style="margin:8px 0">
+    <button style="background:var(--accent);color:white;padding:8px;border-radius:8px;border:none">
+      Upload and Replace
+    </button>
+  </form>
+  <div class="muted" style="margin-top:8px">
+    CSV must contain at least columns: person/name/user, date, category, amount. monthly_income optional.
+  </div>
+</div>
+{% endblock %}
